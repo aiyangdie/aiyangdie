@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=你好，我是艾阳;全栈开发学习者;HTML/CSS/JS/Python/Django" alt="Typing SVG" />
+  <img src=""Typing SVG" />
 </p>
 
 ## 👋 关于我
