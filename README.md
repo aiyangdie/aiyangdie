@@ -32,5 +32,5 @@
 - 喜欢用`console.log("你好世界 🌍")`测试代码
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aiyangdie&theme=onedark&row=1&column=4" alt="GitHub Trophies" />
+  <img src="tpp.jpeg" alt="GitHub Trophies" />
 </p>
