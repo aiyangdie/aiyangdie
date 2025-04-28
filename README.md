@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=""Typing SVG" />
+  <img src="tp.jpeg"Typing SVG" />
 </p>
 
 ## 👋 关于我
