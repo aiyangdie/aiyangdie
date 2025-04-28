@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="tp.jpeg"Typing SVG" />
+  <img src="tp.jpeg" alt="Typing SVG" width="50%" />
 </p>
 
 ## 👋 关于我
@@ -32,5 +32,5 @@
 - 喜欢用`console.log("你好世界 🌍")`测试代码
 
 <p align="center">
-  <img src="tpp.jpeg" alt="GitHub Trophies" />
+  <img src="tpp.jpeg" alt="GitHub Trophies" width="60%" />
 </p>
