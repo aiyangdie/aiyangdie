@@ -32,15 +32,6 @@
 - **AI科技**：对人工智能和机器学习有浓厚的兴趣，参与了一些相关的研究项目。
 - **科技探索**：喜欢探索最新的科技趋势和技术动态，关注前沿科技的发展。
 
-<!-- 备用图片方案 -->
-<style>
-.responsive-img {
-  max-width: 80%;
-  height: auto;
-  display: block;
-  margin: 1rem auto;
-  border: 1px solid #eee;
-}
 </style>
 <p align="center">
   <img class="responsive-img" src="tpp.jpeg" alt="成就徽章">
