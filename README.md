@@ -34,5 +34,5 @@
 
 </style>
 <p align="center">
-  <img class="responsive-img" src="tpp.jpeg" alt="成就徽章">
+  <img class="tpp.jpeg" src="tpp.jpeg" alt="成就徽章">
 </p>
