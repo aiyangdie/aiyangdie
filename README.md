@@ -1,6 +1,9 @@
-# 🌐 自适应拟态网址导航
+# 🌐 Neumorphic Web Navigator / 自适应拟态网址导航
 
 一个简洁美观、响应式设计的网址导航页面，采用拟态设计风格，支持各种设备访问。
+
+**项目名称**: Neumorphic Web Navigator (自适应拟态网址导航)  
+**项目简称**: NWN
 
 ## ✨ 特性
 
@@ -25,7 +28,7 @@
 ## 📁 项目结构
 
 ```
-自适应网址导航/
+Neumorphic Web Navigator/
 ├── index.html          # 主页面文件
 ├── bg.jpg             # 背景图片
 ├── 演示截图.png        # 项目预览图
