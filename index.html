@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>自适应拟态网址导航目录</title>
+    <style>   
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f0f0f0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+        }
+
+       .container {
+            background-color: #33;
+            border-radius: 20px;
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1), 0 6px 6px rgba(0, 0, 0, 0.1);
+            padding: 30px;
+            width: 90%;
+            max-width: 800px;
+        }
+
+        h1 {
+            color: #AAAAAA;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+       .category {
+            margin-bottom: 30px;
+        }
+
+       .category h2 {
+            color: #795548;
+            margin-bottom: 15px;
+        }
+
+       .links {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(40%, 1fr));
+            gap: 20px;
+        }
+
+       .link {
+            background-color: #33;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1), 0 2px 4px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            text-align: center;
+            transition: transform 0.3s ease;
+        }
+
+       .link:hover {
+            transform: scale(1.05);
+        }
+
+       .link a {
+            color: #F74449;
+            text-decoration: none;
+            font-size: 18px;
+        }
+        
+        body {
+      background-color: #333;
+      color: #fff;
+        }
+    
+        body {
+            background-image: url('bg.jpg');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            height: 100vh;
+            margin: 0;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>常用网址导航</h1>
+        <div class="category">
+            <h2>搜索引擎</h2>
+            <div class="links">
+                <div class="link">
+                    <a href="https://www.baidu.com">百度</a>
+                </div>
+                <div class="link">
+                    <a href="https://www.google.com">谷歌</a>
+                </div>
+                <div class="link">
+                    <a href="https://www.bing.com">必应</a>
+                </div>
+                <div class="link">
+                    <a href="https://www.so.com">360 搜索</a>
+                </div>
+            </div>
+        </div>
+        <div class="category">
+            <h2>视频网站</h2>
+            <div class="links">
+                <div class="link">
+                    <a href="你的网站链接">你的网站名称</a>
+                </div>
+                <div class="link">
+                    <a href="https://www.bilibili.com">哔哩哔哩</a>
+                </div>
+                <div class="link">
+                    <a href="https://www.iqiyi.com">爱奇艺</a>
+                </div>
+                <div class="link">
+                    <a href="https://www.youku.com">优酷</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>    
