@@ -1,127 +1,58 @@
-# Neumorphic-Web-Navigator
+# 艾阳（aiyang）- 简历
 
-一个简洁美观、响应式设计的网址导航页面，采用拟态设计风格，支持各种设备访问。
+- 邮箱：aike1015@qq.com
+- GitHub：https://github.com/aiyangdie
+- 博客：https://aiyang.aike.ink/
+- 在线简历（HTML）：./index.html
 
-## ✨ 特性
+## 个人简介
 
-- 🎨 **拟态设计风格** - 采用现代化的拟态(Neumorphism)设计，界面简洁优雅
-- 📱 **完全响应式** - 支持桌面端、平板和手机等各种设备
-- 🚀 **轻量级** - 纯HTML+CSS实现，无需额外依赖
-- 🌈 **美观界面** - 精心设计的配色方案和动画效果
-- ⚡ **快速加载** - 静态页面，加载速度快
-- 🎯 **易于定制** - 代码结构清晰，便于修改和扩展
+计算机相关专业（2024 年 6 月毕业），长期学习计算机与软件开发，能够独立完成从 0 到 1 的 Web 应用/工具型产品开发。
+项目覆盖前端工程化、数据采集与展示、P2P/WebRTC、AI 应用原型等方向，注重用户体验、可维护性与可复用的组件化设计。
 
-## 🖼️ 预览
+## 核心技能
 
-![项目预览](演示截图.png)
+- 前端：React 18、TypeScript、Material UI、Tailwind CSS、响应式布局
+- 后端：Node.js、Express、REST API、MySQL
+- 工程化：Git、基础部署与配置、模块化与组件化
+- 实时通信：WebSocket、WebRTC（DataChannel / ICE / STUN-TURN 概念）
+- AI 应用：Gemini API 接入、本地运行与环境变量配置
 
-## 🛠️ 技术栈
+## 项目经历（精选）
 
-- **HTML5** - 语义化标签，结构清晰
-- **CSS3** - 现代CSS特性，包括Grid布局、Flexbox、动画等
-- **响应式设计** - 使用媒体查询和弹性布局
-- **拟态设计** - 通过阴影和圆角实现立体效果
+### PhonePriceVista｜手机价格展示与对比平台
 
-## 📁 项目结构
+- 技术栈：React 18、TypeScript、Material UI、Node.js/Express、MySQL、Axios、Cheerio
+- 亮点：支持多维度搜索、价格区间筛选、排序、库存状态展示、手机图片与规格参数展示
+- 链接：https://github.com/aiyangdie/PhonePriceVista
 
-```
-Neumorphic-Web-Navigator/
-├── index.html          # 主页面文件
-├── bg.jpg             # 背景图片
-├── 演示截图.png        # 项目预览图
-├── README.md          # 项目说明文档
-├── LICENSE            # 开源许可证
-├── 文件说明.md         # 详细文件说明
-└── .vscode/           # VS Code配置
-```
+### IC / QuickCompress｜在线图片压缩工具
 
-## 🚀 使用方法
+- 技术栈：HTML/CSS/JavaScript、Canvas API、JSZip
+- 亮点：纯前端本地压缩（不上传服务器）、支持批量压缩、进度展示、一键打包下载
+- 链接：
+  - 在线：https://ic.aikex.ink/
+  - Repo：https://github.com/aiyangdie/ictupian
+  - Repo：https://github.com/aiyangdie/QuickCompress
 
-### 在线预览
-直接打开 `index.html` 文件即可在浏览器中查看效果。
+### Dynamic-Background-Navigator｜动态背景导航页
 
-### 本地部署
-1. 下载或克隆项目到本地
-2. 用浏览器打开 `index.html` 文件
-3. 开始使用！
+- 技术栈：HTML/CSS/JavaScript
+- 亮点：响应式布局与视觉设计，便于扩展为个人主页/作品集
+- 链接：https://github.com/aiyangdie/Dynamic-Background-Navigator
 
-### 自定义修改
-1. 编辑 `index.html` 文件中的链接部分
-2. 修改CSS样式来调整外观
-3. 更换 `bg.jpg` 背景图片
-4. 添加新的网址分类和链接
+### ContractAI｜AI 应用原型（AI Studio / Gemini）
 
-## 🎨 自定义指南
+- 技术栈：TypeScript、Node.js
+- 亮点：本地运行、通过环境变量配置 `GEMINI_API_KEY` 接入 Gemini
+- 链接：https://github.com/aiyangdie/-ContractAI
 
-### 添加新链接
-在HTML中找到对应的分类，按照以下格式添加：
+## 教育经历
 
-```html
-<div class="link">
-    <a href="你的网站链接">你的网站名称</a>
-</div>
-```
+- （待补充学校名称）｜计算机相关专业｜（待补充学历）｜2020 - 2024.06
 
-### 修改样式
-主要样式在 `<style>` 标签中，可以调整：
-- 颜色方案
-- 字体大小
-- 间距和圆角
-- 阴影效果
-- 动画时长
+## 本仓库说明
 
-### 添加新分类
-复制现有的分类结构：
+本仓库用于托管我的在线简历页面。
 
-```html
-<div class="category">
-    <h2>新分类名称</h2>
-    <div class="links">
-        <!-- 在这里添加链接 -->
-    </div>
-</div>
-```
-
-## 📱 响应式特性
-
-- **桌面端** - 多列网格布局，充分利用屏幕空间
-- **平板端** - 自适应调整列数，保持良好的可读性
-- **手机端** - 单列布局，触摸友好的按钮大小
-
-## 🔧 浏览器兼容性
-
-- ✅ Chrome (推荐)
-- ✅ Firefox
-- ✅ Safari
-- ✅ Edge
-- ✅ 移动端浏览器
-
-## 📝 许可证
-
-本项目采用 MIT 许可证，您可以自由使用、修改和分发。
-
-## 🤝 贡献
-
-欢迎提交 Issue 和 Pull Request 来改进这个项目！
-
-## 📞 联系方式
-
-如果您有任何问题或建议，欢迎通过以下方式联系：
-- 提交 GitHub Issue
-- 发送邮件
-
----
-
-⭐ 如果这个项目对您有帮助，请给它一个星标！
-
----
-
-## 📅 最新更新
-
-**最新版本**: v1.0.0  
-**更新日期**: 2025年1月  
-**更新内容**:
-- ✨ 项目初始版本发布
-- 🎨 拟态设计风格界面
-- 📱 完全响应式设计
-- 🚀 轻量级实现
+- 本地预览：直接用浏览器打开 `index.html`
