@@ -4,118 +4,354 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Neumorphic Web Navigator - 自适应拟态网址导航</title>
-    <style>   
+    <title>艾阳 - 个人简历</title>
+    <style>
+        :root {
+            --bg: #0b0f18;
+            --card: rgba(20, 24, 35, 0.72);
+            --card-2: rgba(20, 24, 35, 0.56);
+            --text: rgba(255, 255, 255, 0.92);
+            --muted: rgba(255, 255, 255, 0.68);
+            --line: rgba(255, 255, 255, 0.10);
+            --brand: #ff4d4f;
+            --brand-2: #8be9fd;
+            --shadow: 0 18px 50px rgba(0, 0, 0, 0.45);
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background-color: #f0f0f0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            min-height: 100vh;
-            margin: 0;
-        }
-
-               .container {
-            background-color: #333;
-            border-radius: 20px;
-            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1), 0 6px 6px rgba(0, 0, 0, 0.1);
-            padding: 30px;
-            width: 90%;
-            max-width: 800px;
-        }
-
-        h1 {
-            color: #AAAAAA;
-            text-align: center;
-            margin-bottom: 30px;
-        }
-
-        .category {
-            margin-bottom: 30px;
-        }
-
-        .category h2 {
-            color: #795548;
-            margin-bottom: 15px;
-        }
-
-        .links {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(40%, 1fr));
-            gap: 20px;
-        }
-
-        .link {
-            background-color: #333;
-            border-radius: 10px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1), 0 2px 4px rgba(0, 0, 0, 0.1);
-            padding: 20px;
-            text-align: center;
-            transition: transform 0.3s ease;
-        }
-
-        .link:hover {
-            transform: scale(1.05);
-        }
-
-        .link a {
-            color: #F74449;
-            text-decoration: none;
-            font-size: 18px;
-        }
-        
-        body {
-            background-image: url('bg.jpg');
+            background-color: var(--bg);
+            background-image:
+                linear-gradient(180deg, rgba(10, 14, 22, 0.82), rgba(10, 14, 22, 0.50)),
+                url('bg.jpg');
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
-            height: 100vh;
+            min-height: 100vh;
             margin: 0;
-            color: #fff;
+            color: var(--text);
+            display: flex;
+            justify-content: center;
+            padding: 32px 16px;
+        }
+
+        a {
+            color: inherit;
+            text-decoration: none;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 980px;
+            background: var(--card);
+            border: 1px solid var(--line);
+            border-radius: 22px;
+            box-shadow: var(--shadow);
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+            overflow: hidden;
+        }
+
+        .header {
+            padding: 28px 28px 18px;
+            border-bottom: 1px solid var(--line);
+            background: linear-gradient(135deg, rgba(255, 77, 79, 0.10), rgba(139, 233, 253, 0.07));
+        }
+
+        .name {
+            font-size: 34px;
+            letter-spacing: 0.5px;
+            margin: 0;
+        }
+
+        .subtitle {
+            margin: 8px 0 0;
+            color: var(--muted);
+            font-size: 14px;
+            line-height: 1.6;
+        }
+
+        .meta {
+            margin-top: 14px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        .pill {
+            border: 1px solid var(--line);
+            background: rgba(0, 0, 0, 0.18);
+            padding: 8px 10px;
+            border-radius: 999px;
+            font-size: 13px;
+            color: var(--muted);
+        }
+
+        .pill strong {
+            color: var(--text);
+            font-weight: 600;
+        }
+
+        .main {
+            padding: 22px 28px 28px;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 16px;
+        }
+
+        @media (max-width: 860px) {
+            .grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        .card {
+            background: var(--card-2);
+            border: 1px solid var(--line);
+            border-radius: 18px;
+            padding: 16px 16px 14px;
+        }
+
+        .card h2 {
+            font-size: 15px;
+            margin: 0 0 12px;
+            letter-spacing: 0.4px;
+        }
+
+        .card p {
+            margin: 0;
+            color: var(--muted);
+            line-height: 1.8;
+            font-size: 13.5px;
+        }
+
+        .list {
+            margin: 0;
+            padding-left: 16px;
+            color: var(--muted);
+            line-height: 1.9;
+            font-size: 13.5px;
+        }
+
+        .list strong {
+            color: var(--text);
+            font-weight: 600;
+        }
+
+        .projects {
+            margin-top: 16px;
+        }
+
+        .project {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 10px;
+            padding: 14px;
+            border-radius: 16px;
+            border: 1px solid var(--line);
+            background: rgba(0, 0, 0, 0.16);
+        }
+
+        .project + .project {
+            margin-top: 12px;
+        }
+
+        .project-title {
+            display: flex;
+            flex-wrap: wrap;
+            align-items: baseline;
+            gap: 10px;
+        }
+
+        .project-title h3 {
+            margin: 0;
+            font-size: 15px;
+        }
+
+        .tag {
+            font-size: 12px;
+            color: var(--muted);
+            border: 1px solid var(--line);
+            padding: 6px 8px;
+            border-radius: 999px;
+            background: rgba(255, 255, 255, 0.03);
+        }
+
+        .links {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        .btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            padding: 9px 12px;
+            border-radius: 12px;
+            border: 1px solid var(--line);
+            background: rgba(255, 255, 255, 0.04);
+            color: var(--text);
+            font-size: 13px;
+        }
+
+        .btn.primary {
+            border-color: rgba(255, 77, 79, 0.42);
+            background: rgba(255, 77, 79, 0.12);
+        }
+
+        .footer {
+            padding: 14px 28px 18px;
+            border-top: 1px solid var(--line);
+            color: var(--muted);
+            font-size: 12px;
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            gap: 10px;
         }
     </style>
 </head>
 
 <body>
     <div class="container">
-        <h1>Neumorphic Web Navigator</h1>
-        <h2 style="text-align: center; color: #888; margin-top: -20px; margin-bottom: 30px;">自适应拟态网址导航</h2>
-        <div class="category">
-            <h2>搜索引擎</h2>
-            <div class="links">
-                <div class="link">
-                    <a href="https://www.baidu.com">百度</a>
+        <div class="header">
+            <h1 class="name">艾阳</h1>
+            <p class="subtitle">计算机相关专业（2024 年 6 月毕业）｜偏全栈/前端方向（React + TypeScript）｜持续输出开源项目与技术学习笔记</p>
+            <div class="meta">
+                <span class="pill"><strong>GitHub</strong> <a href="https://github.com/aiyangdie" target="_blank" rel="noreferrer">github.com/aiyangdie</a></span>
+                <span class="pill"><strong>博客</strong> <a href="https://aiyang.aike.ink/" target="_blank" rel="noreferrer">aiyang.aike.ink</a></span>
+                <span class="pill"><strong>邮箱</strong> <a href="mailto:aike1015@qq.com">aike1015@qq.com</a></span>
+                <span class="pill"><strong>电话</strong>（待补充）</span>
+            </div>
+        </div>
+
+        <div class="main">
+            <div class="grid">
+                <div class="card">
+                    <h2>个人简介</h2>
+                    <p>我长期学习计算机与软件开发，具备从 0 到 1 独立完成 Web 应用/工具型产品的经验。项目覆盖前端工程化、数据采集与展示、P2P/WebRTC、以及 AI 应用原型等方向，注重用户体验与可维护性。</p>
                 </div>
-                <div class="link">
-                    <a href="https://www.google.com">谷歌</a>
+
+                <div class="card">
+                    <h2>核心技能</h2>
+                    <ul class="list">
+                        <li><strong>前端</strong>：React 18、TypeScript、Material UI、Tailwind CSS、响应式布局</li>
+                        <li><strong>后端</strong>：Node.js、Express、REST API、MySQL（驱动/数据建模/查询）</li>
+                        <li><strong>工程化</strong>：Git、Docker（了解/可部署）、模块化与组件化、可复用 UI 设计</li>
+                        <li><strong>网络与实时</strong>：WebSocket、WebRTC（DataChannel / ICE / STUN-TURN 概念）</li>
+                        <li><strong>AI 应用</strong>：Gemini API 接入与本地运行、LLM 相关知识体系学习与笔记沉淀</li>
+                    </ul>
                 </div>
-                <div class="link">
-                    <a href="https://www.bing.com">必应</a>
+            </div>
+
+            <div class="grid projects">
+                <div class="card" style="grid-column: 1 / -1;">
+                    <h2>项目经历（精选）</h2>
+
+                    <div class="project">
+                        <div class="project-title">
+                            <h3>PhonePriceVista｜手机价格展示与对比平台</h3>
+                            <span class="tag">React 18</span>
+                            <span class="tag">TypeScript</span>
+                            <span class="tag">Material UI</span>
+                            <span class="tag">Node.js / Express</span>
+                            <span class="tag">MySQL</span>
+                            <span class="tag">Cheerio 爬虫</span>
+                        </div>
+                        <ul class="list">
+                            <li>实现品牌/关键词搜索、价格区间筛选、排序、库存状态与规格展示等核心功能。</li>
+                            <li>包含数据同步能力与管理后台思路，支持爬取并展示产品图与关键参数。</li>
+                            <li>注重 UI 一致性与可用性：基于组件库快速搭建并维护可扩展页面结构。</li>
+                        </ul>
+                        <div class="links">
+                            <a class="btn primary" href="https://github.com/aiyangdie/PhonePriceVista" target="_blank" rel="noreferrer">GitHub</a>
+                        </div>
+                    </div>
+
+                    <div class="project">
+                        <div class="project-title">
+                            <h3>IC/QuickCompress｜在线图片压缩工具</h3>
+                            <span class="tag">HTML/CSS/JS</span>
+                            <span class="tag">Canvas API</span>
+                            <span class="tag">本地压缩</span>
+                        </div>
+                        <ul class="list">
+                            <li>纯前端实现图片压缩，无需上传服务器，强调隐私与速度。</li>
+                            <li>支持拖拽上传、批量处理、进度展示，并提供一键打包下载能力。</li>
+                            <li>结合压缩策略与 UI 交互细节，提升工具型产品的易用性。</li>
+                        </ul>
+                        <div class="links">
+                            <a class="btn" href="https://ic.aikex.ink/" target="_blank" rel="noreferrer">在线地址</a>
+                            <a class="btn" href="https://github.com/aiyangdie/ictupian" target="_blank" rel="noreferrer">ictupian</a>
+                            <a class="btn" href="https://github.com/aiyangdie/QuickCompress" target="_blank" rel="noreferrer">QuickCompress</a>
+                        </div>
+                    </div>
+
+                    <div class="project">
+                        <div class="project-title">
+                            <h3>Dynamic-Background-Navigator｜动态背景导航页</h3>
+                            <span class="tag">HTML/CSS</span>
+                            <span class="tag">响应式</span>
+                            <span class="tag">视觉设计</span>
+                        </div>
+                        <ul class="list">
+                            <li>面向个人使用的导航/主页类项目，强调视觉体验与响应式布局。</li>
+                            <li>沉淀可复用的页面组件与布局方式，便于快速定制扩展。</li>
+                        </ul>
+                        <div class="links">
+                            <a class="btn primary" href="https://github.com/aiyangdie/Dynamic-Background-Navigator" target="_blank" rel="noreferrer">GitHub</a>
+                        </div>
+                    </div>
+
+                    <div class="project">
+                        <div class="project-title">
+                            <h3>ContractAI｜AI 应用原型（AI Studio / Gemini）</h3>
+                            <span class="tag">TypeScript</span>
+                            <span class="tag">Gemini API</span>
+                            <span class="tag">本地运行</span>
+                        </div>
+                        <ul class="list">
+                            <li>基于 Gemini API 的 AI Studio 应用原型，支持本地安装依赖与运行。</li>
+                            <li>具备环境变量配置意识（API Key 通过本地配置管理）。</li>
+                        </ul>
+                        <div class="links">
+                            <a class="btn" href="https://github.com/aiyangdie/-ContractAI" target="_blank" rel="noreferrer">GitHub</a>
+                        </div>
+                    </div>
                 </div>
-                <div class="link">
-                    <a href="https://www.so.com">360 搜索</a>
+            </div>
+
+            <div class="grid" style="margin-top: 16px;">
+                <div class="card">
+                    <h2>教育经历</h2>
+                    <ul class="list">
+                        <li><strong>（待补充学校名称）</strong>｜计算机相关专业｜（待补充学历）｜2020 - 2024.06</li>
+                    </ul>
+                </div>
+
+                <div class="card">
+                    <h2>补充说明</h2>
+                    <ul class="list">
+                        <li>GitHub 主页项目较多，我已优先选择“有明确功能/技术栈/可访问地址”的项目作为简历主线。</li>
+                        <li>如你目标岗位偏后端/AI/前端，我可以把项目排序与措辞按岗位重新优化。</li>
+                    </ul>
                 </div>
             </div>
         </div>
-        <div class="category">
-            <h2>视频网站</h2>
-            <div class="links">
-                <div class="link">
-                    <a href="你的网站链接">你的网站名称</a>
-                </div>
-                <div class="link">
-                    <a href="https://www.bilibili.com">哔哩哔哩</a>
-                </div>
-                <div class="link">
-                    <a href="https://www.iqiyi.com">爱奇艺</a>
-                </div>
-                <div class="link">
-                    <a href="https://www.youku.com">优酷</a>
-                </div>
-            </div>
+
+        <div class="footer">
+            <span>最后更新：2025-12-25</span>
+            <span>建议：补全电话/学校/求职方向后再投递</span>
         </div>
     </div>
 </body>
 
-</html>    
+</html>
