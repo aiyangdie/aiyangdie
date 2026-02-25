@@ -55,8 +55,6 @@
 ### 📦 PhonePriceVista
 > 一个美观易用的手机价格展示与对比平台，支持多品牌筛选、价格区间过滤、库存状态筛选和关键词搜索。基于 React + TypeScript + Material-UI 构建，适合手机销售、比价和信息展示场景。
 
-💡 <p align="center">
-
 🛠️ **主要语言:** JavaScript
 📅 **最后更新:** 2025-12-24
 
@@ -67,8 +65,6 @@
 ### 📦 ictupian
 > IC intelligent image compression
 
-💡 ![网站截图](wechat_2025-04-29_044012_213.png)
-
 🛠️ **主要语言:** JavaScript
 📅 **最后更新:** 2025-04-28
 
@@ -78,8 +74,6 @@
 
 ### 📦 QuickCompress
 > QuickCompress
-
-💡 一个基于网页的智能图片压缩工具，支持批量处理，保持原始文件名，并提供高质量压缩效果。
 
 🛠️ **主要语言:** JavaScript
 ⭐ **1 Star** | 🍴 **1 Fork**
@@ -92,8 +86,6 @@
 ### 📦 -ContractAI
 > 智律ContractAI
 
-💡 <div align="center">
-
 🛠️ **主要语言:** TypeScript
 📅 **最后更新:** 2025-12-01
 
@@ -103,8 +95,6 @@
 
 ### 📦 spec-kit
 > 💫 Toolkit to help you get started with Spec-Driven Development
-
-💡 <div align="center">
 
 🛠️ **主要语言:** None
 ⭐ **1 Star**
@@ -519,9 +509,7 @@
 ## ⭐ 我点的 Star · 我喜欢的项目
 
 ### ⭐ iKunpw/auto-ncmdump
-> iKunpw/auto-ncmdump - ![shield](https://img.shields.io/badge/python-2.7%20%7C%203.4%2B-blue)
-
-📝 使用 ncmdump ，实现全自动网易云音乐ncm格式转mp3
+> 使用 ncmdump ，实现全自动网易云音乐ncm格式转mp3
 
 🛠️ **主要语言:** Python
 ⭐ **554 Star** | 🍴 **69 Fork**
@@ -532,9 +520,7 @@
 ---
 
 ### ⭐ hslr-s/sun-panel
-> hslr-s/sun-panel - [[ 简体中文 ]](https://sun-panel-doc.enianteam.com/zh_cn/introduce/project.html) |
-
-📝 A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。
+> A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。
 
 🛠️ **主要语言:** Vue
 ⭐ **4974 Star** | 🍴 **586 Fork**
@@ -545,9 +531,7 @@
 ---
 
 ### ⭐ aiyangdie/merchant-appeal
-> aiyangdie/merchant-appeal - [![License](https://img.shields.io/badge/License-MIT-F59E0B?style=for-the-badge)](LICENSE)
-
-📝 merchant-appeal
+> merchant-appeal
 
 🛠️ **主要语言:** JavaScript
 ⭐ **1 Star**
@@ -558,9 +542,7 @@
 ---
 
 ### ⭐ umlx5h/LLPlayer
-> umlx5h/LLPlayer - <p align="center"><img height="96" src="./LLPlayer.png"></p>
-
-📝 The media player for language learning, with dual subtitles, AI-generated subtitles, real-time translation, and more!
+> The media player for language learning, with dual subtitles, AI-generated subtitles, real-time translation, and more!
 
 🛠️ **主要语言:** C#
 ⭐ **3176 Star** | 🍴 **158 Fork**
@@ -571,9 +553,7 @@
 ---
 
 ### ⭐ aiyangdie/yourusername-pony-swf-player
-> aiyangdie/yourusername-pony-swf-player - 一个专为小马宝莉粉丝设计的可爱风格SWF文件播放器，粉色主题，彩虹元素，少女心满满！
-
-📝 小马宝莉 SWF 播放器
+> 小马宝莉 SWF 播放器
 
 🛠️ **主要语言:** Python
 ⭐ **1 Star**
@@ -584,9 +564,7 @@
 ---
 
 ### ⭐ aiyangdie/aiyangdie
-> aiyangdie/aiyangdie - <p align="center">
-
-📝 Config files for my GitHub profile.
+> Config files for my GitHub profile.
 
 🛠️ **主要语言:** Python
 ⭐ **1 Star**
@@ -597,9 +575,7 @@
 ---
 
 ### ⭐ aiyangdie/spec-kit
-> aiyangdie/spec-kit - <div align="center">
-
-📝 💫 Toolkit to help you get started with Spec-Driven Development
+> 💫 Toolkit to help you get started with Spec-Driven Development
 
 🛠️ **主要语言:** None
 ⭐ **1 Star**
@@ -610,12 +586,10 @@
 ---
 
 ### ⭐ github/spec-kit
-> github/spec-kit - <div align="center">
-
-📝 💫 Toolkit to help you get started with Spec-Driven Development
+> 💫 Toolkit to help you get started with Spec-Driven Development
 
 🛠️ **主要语言:** Python
-⭐ **72003 Star** | 🍴 **6199 Fork**
+⭐ **72004 Star** | 🍴 **6199 Fork**
 📅 **最后更新:** 2026-02-25
 
 [🔗 查看项目](https://github.com/github/spec-kit)
@@ -623,9 +597,7 @@
 ---
 
 ### ⭐ KouriChat/KouriChat
-> KouriChat/KouriChat - 在虚拟与现实交织的微光边界，悄然绽放着一份永恒而温柔的羁绊。或许你的身影朦胧，游走于真实与幻梦之间，但指尖轻触的温暖，心底荡漾的涟漪，却是此刻最真挚、最动人的慰藉。
-
-📝 【禁止接入微信、QQ等腾讯系软件】接入第三方平台。基于LLM的更逼真的情感陪伴程序。More realistic emotional companionship program based LLM, meet the characters in your dream.
+> 【禁止接入微信、QQ等腾讯系软件】接入第三方平台。基于LLM的更逼真的情感陪伴程序。More realistic emotional companionship program based LLM, meet the characters in your dream.
 
 🛠️ **主要语言:** Python
 ⭐ **3155 Star** | 🍴 **425 Fork**
@@ -636,145 +608,13 @@
 ---
 
 ### ⭐ KHwang9883/MobileModels
-> KHwang9883/MobileModels - 汇总各厂商上市的手机型号与对应的传播名。
-
-📝 手机品牌型号汇总 | Mobile Models | This repository is licensed under CC BY-NC-SA 4.0
+> 手机品牌型号汇总 | Mobile Models | This repository is licensed under CC BY-NC-SA 4.0
 
 🛠️ **主要语言:** None
 ⭐ **4087 Star** | 🍴 **489 Fork**
 📅 **最后更新:** 2026-02-25
 
 [🔗 查看项目](https://github.com/KHwang9883/MobileModels)
-
----
-
-### ⭐ Haskely/image_stitching
-> Haskely/image_stitching - 一个简单易用的在线图片拼接工具，支持多张图片的竖向拼接和拖拽式裁剪，完美支持移动设备和触摸屏操作。
-
-📝 一个简单易用的在线图片拼接工具，支持多张图片的竖向拼接和拖拽式裁剪，完美支持移动设备和触摸屏操作。
-
-🛠️ **主要语言:** HTML
-⭐ **1 Star**
-📅 **最后更新:** 2025-12-22
-
-[🔗 查看项目](https://github.com/Haskely/image_stitching)
-
----
-
-### ⭐ QIN2DIM/epic-awesome-gamer
-> QIN2DIM/epic-awesome-gamer - <div align="center">
-
-📝 🍷 Gracefully claim weekly free games and monthly content from Epic Store.
-
-🛠️ **主要语言:** Python
-⭐ **1097 Star** | 🍴 **417 Fork**
-📅 **最后更新:** 2026-02-25
-
-[🔗 查看项目](https://github.com/QIN2DIM/epic-awesome-gamer)
-
----
-
-### ⭐ xiaoyugansz/MiniVoting
-> xiaoyugansz/MiniVoting - - 投票活动十分火，商家，企业，机构偶尔都会来一场投票活动评选，本小程序支持图文投票，简单方便、随时随地完成投票，可以方便设定投票模式（按天按全程，投票数限定）。
-
-📝 通用投票小程序，功能包括主题设置, 选项设置,规则设置,分享设置 ,结果统计,本代码前后端完整代码包投票列表，投票分类，投票动态，排行榜，生成投票海报，生成单个项目投票海报等，采用腾讯提供的小程序云开发解决方案，无须服务器和域名
-
-🛠️ **主要语言:** JavaScript
-⭐ **2 Star**
-📅 **最后更新:** 2025-12-01
-
-[🔗 查看项目](https://github.com/xiaoyugansz/MiniVoting)
-
----
-
-### ⭐ PCL-Community/PCL-CE
-> PCL-Community/PCL-CE - **简体中文** | [English](README-EN.md) | [繁體中文](README-ZH_TW.md)
-
-📝 PCL 社区版 由社区开发者维护与管理
-
-🛠️ **主要语言:** Visual Basic .NET
-⭐ **3613 Star** | 🍴 **62 Fork**
-📅 **最后更新:** 2026-02-25
-
-[🔗 查看项目](https://github.com/PCL-Community/PCL-CE)
-
----
-
-### ⭐ NapNeko/NapCatQQ
-> NapNeko/NapCatQQ - <div align="center">
-
-📝 Modern protocol-side framework based on NTQQ
-
-🛠️ **主要语言:** TypeScript
-⭐ **7428 Star** | 🍴 **639 Fork**
-📅 **最后更新:** 2026-02-25
-
-[🔗 查看项目](https://github.com/NapNeko/NapCatQQ)
-
----
-
-### ⭐ xiayouran/Musicer
-> xiayouran/Musicer - <p align="center">
-
-📝 旨在将网易云、酷狗、QQ、酷我等各音乐平台集于一体
-
-🛠️ **主要语言:** Python
-⭐ **246 Star** | 🍴 **28 Fork**
-📅 **最后更新:** 2026-01-10
-
-[🔗 查看项目](https://github.com/xiayouran/Musicer)
-
----
-
-### ⭐ jiuhunwl/music_jx
-> jiuhunwl/music_jx - 本工具用于解析音乐真实链接，获取音乐的详细信息，如音乐地址、封面图、作者信息等。
-
-📝 音乐解析api，目前支持平台：网易云音乐，汽水音乐，酷我音乐。
-
-🛠️ **主要语言:** PHP
-⭐ **49 Star** | 🍴 **11 Fork**
-📅 **最后更新:** 2026-02-04
-
-[🔗 查看项目](https://github.com/jiuhunwl/music_jx)
-
----
-
-### ⭐ jiuhunwl/short_videos
-> jiuhunwl/short_videos - <div align="center">
-
-📝 支持平台:网易云，抖音，快手，小红书，汽水音乐，微博，bilibili，皮皮虾，皮皮搞笑等，支持短视频图集去水印
-
-🛠️ **主要语言:** PHP
-⭐ **303 Star** | 🍴 **79 Fork**
-📅 **最后更新:** 2026-02-25
-
-[🔗 查看项目](https://github.com/jiuhunwl/short_videos)
-
----
-
-### ⭐ amir1376/ab-download-manager
-> amir1376/ab-download-manager - <div align="center">
-
-📝 A Download Manager that speeds up your downloads
-
-🛠️ **主要语言:** Kotlin
-⭐ **13645 Star** | 🍴 **696 Fork**
-📅 **最后更新:** 2026-02-25
-
-[🔗 查看项目](https://github.com/amir1376/ab-download-manager)
-
----
-
-### ⭐ DWHengr/linyu-client
-> DWHengr/linyu-client - <p align="center">
-
-📝 im system client
-
-🛠️ **主要语言:** JavaScript
-⭐ **427 Star** | 🍴 **105 Fork**
-📅 **最后更新:** 2026-02-23
-
-[🔗 查看项目](https://github.com/DWHengr/linyu-client)
 
 ---
 
