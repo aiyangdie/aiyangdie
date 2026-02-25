@@ -28,7 +28,7 @@
       "name": "EbookFoundation/free-programming-books",
       "url": "https://github.com/EbookFoundation/free-programming-books",
       "description": ":books: Freely available programming books",
-      "stars": 383086
+      "stars": 383087
     },
     {
       "name": "kamranahmedse/developer-roadmap",
@@ -40,7 +40,7 @@
       "name": "jwasham/coding-interview-university",
       "url": "https://github.com/jwasham/coding-interview-university",
       "description": "A complete computer science study plan to become a software engineer.",
-      "stars": 337423
+      "stars": 337424
     },
     {
       "name": "donnemartin/system-design-primer",
@@ -52,7 +52,7 @@
       "name": "vinta/awesome-python",
       "url": "https://github.com/vinta/awesome-python",
       "description": "An opinionated list of awesome Python frameworks, libraries, software and resources.",
-      "stars": 284585
+      "stars": 284586
     },
     {
       "name": "996icu/996.ICU",
@@ -61,5 +61,5 @@
       "stars": 275549
     }
   ],
-  "last_run": "2026-02-26T04:05:16.820220"
+  "last_run": "2026-02-26T04:08:07.924614"
 }
