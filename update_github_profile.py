@@ -64,17 +64,17 @@ def get_starred_repos(username):
         return []
 
 def get_readme(repo_full_name):
-    """获取仓库README"""
+    """获取仓库README（带超时和重试）"""
     url = f"https://api.github.com/repos/{repo_full_name}/readme"
     headers = {"Authorization": f"token {GITHUB_TOKEN}"} if GITHUB_TOKEN else {}
     try:
-        response = requests.get(url, headers=headers, timeout=10)
+        response = requests.get(url, headers=headers, timeout=5)  # Shorter timeout
         if response.status_code == 200:
             import base64
             content = base64.b64decode(response.json()["content"]).decode("utf-8")
-            return content
+            return content[:5000]  # Limit README size
     except Exception as e:
-        print(f"获取README失败: {e}")
+        print(f"获取README失败 ({repo_full_name}): {e}")
     return ""
 
 def summarize_readme(readme_content, repo_name):
@@ -216,7 +216,7 @@ def generate_readme(repos, starred_repos, username):
 ## ⭐ 我点的 Star · 我喜欢的项目
 
 """
-        for repo in starred_repos[:20]:  # Limit to 20
+        for repo in starred_repos[:10]:  # Limit to 10 for speed
             readme += generate_star_project_section(repo)
     
     # 全部项目
