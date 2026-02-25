@@ -292,21 +292,8 @@ def generate_project_section(repo):
     if updated_at:
         updated_at = datetime.strptime(updated_at, '%Y-%m-%dT%H:%M:%SZ').strftime('%Y-%m-%d')
     
-    # 获取README以获取更多信息
-    readme = get_readme(repo['full_name'])
-    more_info = ""
-    if readme:
-        lines = readme.split("\n")
-        for line in lines[:30]:
-            line = line.strip()
-            if line and not line.startswith("#") and len(line) < 200:
-                more_info = line
-                break
-    
     section = f"### 📦 {name}\n"
     section += f"> {desc}\n\n"
-    if more_info:
-        section += f"💡 {more_info}\n\n"
     section += f"🛠️ **主要语言:** {language}\n"
     if stars > 0:
         section += f"⭐ **{stars} Star**"
@@ -356,14 +343,11 @@ def generate_star_project_section(repo):
     if updated_at:
         updated_at = datetime.strptime(updated_at, '%Y-%m-%dT%H:%M:%SZ').strftime('%Y-%m-%d')
     
-    # 获取README并总结
-    readme = get_readme(name)
-    summary = summarize_readme(readme, name)
+    # 使用项目描述作为总结（暂时跳过README获取以提高速度）
+    summary = desc if desc else f"{name} - 有趣的项目"
     
     section = f"### ⭐ {name}\n"
     section += f"> {summary}\n\n"
-    if desc and desc != summary:
-        section += f"📝 {desc}\n\n"
     section += f"🛠️ **主要语言:** {language}\n"
     section += f"⭐ **{stars} Star**"
     if forks > 0:
