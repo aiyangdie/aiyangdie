@@ -281,40 +281,80 @@ def generate_readme(repos, starred_repos, username):
     return readme
 
 def generate_project_section(repo):
-    """生成项目部分"""
+    """生成项目部分（详细版）"""
     name = repo['name']
     url = repo['html_url']
     desc = get_repo_description(repo)
     stars = repo.get('stargazers_count', 0)
+    forks = repo.get('forks_count', 0)
+    language = repo.get('language', '多语言')
+    updated_at = repo.get('updated_at', '')
+    if updated_at:
+        updated_at = datetime.strptime(updated_at, '%Y-%m-%dT%H:%M:%SZ').strftime('%Y-%m-%d')
+    
+    # 获取README以获取更多信息
+    readme = get_readme(repo['full_name'])
+    more_info = ""
+    if readme:
+        lines = readme.split("\n")
+        for line in lines[:30]:
+            line = line.strip()
+            if line and not line.startswith("#") and len(line) < 200:
+                more_info = line
+                break
     
     section = f"### 📦 {name}\n"
     section += f"> {desc}\n\n"
+    if more_info:
+        section += f"💡 {more_info}\n\n"
+    section += f"🛠️ **主要语言:** {language}\n"
     if stars > 0:
-        section += f"⭐ **{stars} Star**\n\n"
-    section += f"[🔗 GitHub]({url})\n\n"
+        section += f"⭐ **{stars} Star**"
+        if forks > 0:
+            section += f" | 🍴 **{forks} Fork**"
+        section += "\n"
+    if updated_at:
+        section += f"📅 **最后更新:** {updated_at}\n"
+    section += f"\n[🔗 查看项目]({url})\n\n"
     section += "---\n\n"
     return section
 
 def generate_starred_project_section(repo):
-    """生成Star项目部分"""
+    """生成Star项目部分（详细版）"""
     name = repo['name']
     url = repo['html_url']
     desc = get_repo_description(repo)
     stars = repo.get('stargazers_count', 0)
+    forks = repo.get('forks_count', 0)
+    language = repo.get('language', '多语言')
+    updated_at = repo.get('updated_at', '')
+    if updated_at:
+        updated_at = datetime.strptime(updated_at, '%Y-%m-%dT%H:%M:%SZ').strftime('%Y-%m-%d')
     
     section = f"### 💫 {name}\n"
     section += f"> {desc}\n\n"
-    section += f"⭐ **{stars} Star**\n\n"
-    section += f"[🔗 GitHub]({url})\n\n"
+    section += f"🛠️ **主要语言:** {language}\n"
+    section += f"⭐ **{stars} Star**"
+    if forks > 0:
+        section += f" | 🍴 **{forks} Fork**"
+    section += "\n"
+    if updated_at:
+        section += f"📅 **最后更新:** {updated_at}\n"
+    section += f"\n[🔗 查看项目]({url})\n\n"
     section += "---\n\n"
     return section
 
 def generate_star_project_section(repo):
-    """生成我Star的项目部分"""
+    """生成我Star的项目部分（详细版）"""
     name = repo['full_name']
     url = repo['html_url']
     desc = get_repo_description(repo)
     stars = repo.get('stargazers_count', 0)
+    forks = repo.get('forks_count', 0)
+    language = repo.get('language', '多语言')
+    updated_at = repo.get('updated_at', '')
+    if updated_at:
+        updated_at = datetime.strptime(updated_at, '%Y-%m-%dT%H:%M:%SZ').strftime('%Y-%m-%d')
     
     # 获取README并总结
     readme = get_readme(name)
@@ -322,20 +362,34 @@ def generate_star_project_section(repo):
     
     section = f"### ⭐ {name}\n"
     section += f"> {summary}\n\n"
-    section += f"⭐ **{stars} Star**\n\n"
-    section += f"[🔗 GitHub]({url})\n\n"
+    if desc and desc != summary:
+        section += f"📝 {desc}\n\n"
+    section += f"🛠️ **主要语言:** {language}\n"
+    section += f"⭐ **{stars} Star**"
+    if forks > 0:
+        section += f" | 🍴 **{forks} Fork**"
+    section += "\n"
+    if updated_at:
+        section += f"📅 **最后更新:** {updated_at}\n"
+    section += f"\n[🔗 查看项目]({url})\n\n"
     section += "---\n\n"
     return section
 
 def generate_all_project_section(repo):
-    """生成全部项目部分"""
+    """生成全部项目部分（详细版）"""
     name = repo['name']
     url = repo['html_url']
     desc = get_repo_description(repo)
+    stars = repo.get('stargazers_count', 0)
+    language = repo.get('language', '多语言')
     
     section = f"### 📁 {name}\n"
     section += f"> {desc}\n\n"
-    section += f"[🔗 GitHub]({url})\n\n"
+    section += f"🛠️ **主要语言:** {language}"
+    if stars > 0:
+        section += f" | ⭐ **{stars} Star**"
+    section += "\n\n"
+    section += f"[🔗 查看项目]({url})\n\n"
     section += "---\n\n"
     return section
 
