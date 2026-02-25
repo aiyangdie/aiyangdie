@@ -52,56 +52,38 @@
 
 ## 🚀 我的项目
 
-### 📱 PhonePriceVista - 手机价格展示与对比平台
+### 📦 PhonePriceVista
 > 一个美观易用的手机价格展示与对比平台，支持多品牌筛选、价格区间过滤、库存状态筛选和关键词搜索。基于 React + TypeScript + Material-UI 构建，适合手机销售、比价和信息展示场景。
-
-| 特性 | 说明 |
-|------|------|
-| 🔍 **搜索** | 多维度搜索、关键词搜索 |
-| 💰 **筛选** | 价格区间、库存状态、品牌筛选 |
-| 📊 **展示** | 手机图片、规格参数、排序 |
-
-**技术栈**: React 18 + TypeScript + Material UI + Node.js/Express + MySQL + Axios + Cheerio
 
 [🔗 GitHub](https://github.com/aiyangdie/PhonePriceVista)
 
 ---
 
-### 🖼️ ictupian / QuickCompress - 在线图片压缩工具
-> IC intelligent image compression / QuickCompress - 纯前端本地压缩，保护隐私，无需上传
+### 📦 ictupian
+> IC intelligent image compression
 
-| 特性 | 说明 |
-|------|------|
-| 🔒 **隐私保护** | 纯前端本地压缩，不上传服务器 |
-| 📦 **批量处理** | 支持批量压缩，进度实时展示 |
-| 📥 **一键下载** | JSZip打包，一键下载 |
-
-**技术栈**: HTML/CSS/JavaScript + Canvas API + JSZip
-
-[🔗 GitHub (ictupian)](https://github.com/aiyangdie/ictupian) · [🔗 GitHub (QuickCompress)](https://github.com/aiyangdie/QuickCompress)
+[🔗 GitHub](https://github.com/aiyangdie/ictupian)
 
 ---
 
-### 🤖 -ContractAI - AI 应用原型
-> 智律ContractAI - AI 应用原型（AI Studio / Gemini）
+### 📦 QuickCompress
+> QuickCompress
 
-**技术栈**: TypeScript + Node.js
+⭐ **1 Star**
 
-**亮点**: 
-- 本地运行，保护隐私
-- 通过环境变量配置 `GEMINI_API_KEY`
-- 快速接入 Gemini
+[🔗 GitHub](https://github.com/aiyangdie/QuickCompress)
+
+---
+
+### 📦 -ContractAI
+> 智律ContractAI
 
 [🔗 GitHub](https://github.com/aiyangdie/-ContractAI)
 
 ---
 
-### 💫 spec-kit - 规格驱动开发工具包
+### 📦 spec-kit
 > 💫 Toolkit to help you get started with Spec-Driven Development
-
-**技术栈**: Python
-
-**License**: MIT
 
 ⭐ **1 Star**
 
@@ -109,16 +91,40 @@
 
 ---
 
-## 🌟 Star 项目（按Star排序）
+
+## 🌟 我的项目（按Star排序）
 
 > ⏰ 本列表每7天自动检查更新一次
 
-### 💫 spec-kit - 规格驱动开发工具包
+### 💫 aiyangdie
+> Config files for my GitHub profile.
+
+⭐ **1 Star**
+
+[🔗 GitHub](https://github.com/aiyangdie/aiyangdie)
+
+---
+
+### 💫 merchant-appeal
+> merchant-appeal
+
+⭐ **1 Star**
+
+[🔗 GitHub](https://github.com/aiyangdie/merchant-appeal)
+
+---
+
+### 💫 yourusername-pony-swf-player
+> 小马宝莉 SWF 播放器
+
+⭐ **1 Star**
+
+[🔗 GitHub](https://github.com/aiyangdie/yourusername-pony-swf-player)
+
+---
+
+### 💫 spec-kit
 > 💫 Toolkit to help you get started with Spec-Driven Development
-
-**技术栈**: Python
-
-**License**: MIT
 
 ⭐ **1 Star**
 
@@ -126,109 +132,549 @@
 
 ---
 
-## 📁 全部项目
+### 💫 wechat-whack-a-mole
+> wechat-whack-a-mole
 
-### 🔗 MCP Xiaohongshu - 小红书MCP
+⭐ **1 Star**
+
+[🔗 GitHub](https://github.com/aiyangdie/wechat-whack-a-mole)
+
+---
+
+### 💫 QuickCompress
+> QuickCompress
+
+⭐ **1 Star**
+
+[🔗 GitHub](https://github.com/aiyangdie/QuickCompress)
+
+---
+
+### 💫 aiyangtongxue
+> aiyangtongxue
+
+⭐ **0 Star**
+
+[🔗 GitHub](https://github.com/aiyangdie/aiyangtongxue)
+
+---
+
+### 💫 PhonePriceVista
+> 一个美观易用的手机价格展示与对比平台，支持多品牌筛选、价格区间过滤、库存状态筛选和关键词搜索。基于 React + TypeScript + Material-UI 构建，适合手机销售、比价和信息展示场景。
+
+⭐ **0 Star**
+
+[🔗 GitHub](https://github.com/aiyangdie/PhonePriceVista)
+
+---
+
+### 💫 -ContractAI
+> 智律ContractAI
+
+⭐ **0 Star**
+
+[🔗 GitHub](https://github.com/aiyangdie/-ContractAI)
+
+---
+
+### 💫 xiaohongshu-mcp
 > MCP for xiaohongshu.com
 
-**技术栈**: Go
+⭐ **0 Star**
 
-[🔗 GitHub](https://github.com/aiyangdie/mcp-xiaohongshu)
+[🔗 GitHub](https://github.com/aiyangdie/xiaohongshu-mcp)
 
 ---
 
-### 💼 AI-Job-Assistant - AI找工作助手
+### 💫 get_jobs
 > 💼【AI找工作助手】全平台自动投简历脚本：(boss、前程无忧、猎聘、拉勾、智联招聘)
 
-**支持平台**:
-- Boss直聘
-- 前程无忧
-- 猎聘
-- 拉勾
-- 智联招聘
+⭐ **0 Star**
 
-**技术栈**: Java
-
-[🔗 GitHub](https://github.com/aiyangdie/AI-Job-Assistant)
+[🔗 GitHub](https://github.com/aiyangdie/get_jobs)
 
 ---
 
-### 📹 WebRTC File Transfer - 端到端文件传输
-> Go/React开发的端到端webrtc的文件传输/文字传输/桌面共享，安全，隐私，数据不经过服务器。
-
-**特点**:
-- 🔒 安全、隐私、数据不经过服务器
-- 📁 文件传输
-- 💬 文字传输
-- 🖥️ 桌面共享
-
-**技术栈**: TypeScript + Go + WebRTC
-
-**License**: MIT
-
-[🔗 GitHub](https://github.com/aiyangdie/webrtc-file-transfer)
-
----
-
-### 🎬 Talking Video Generation - 无限时长视频生成
+### 💫 InfiniteTalk
 > ​​Unlimited-length talking video generation​​ that supports image-to-video and video-to-video generation
 
-**技术栈**: Python
+⭐ **0 Star**
 
-**License**: Apache License 2.0
-
-[🔗 GitHub](https://github.com/aiyangdie/talking-video-gen)
+[🔗 GitHub](https://github.com/aiyangdie/InfiniteTalk)
 
 ---
 
-### 🔗 QR Code - 二维码生成
+### 💫 WeixinBot
+> 网页版微信API，包含终端版微信及微信机器人
+
+⭐ **0 Star**
+
+[🔗 GitHub](https://github.com/aiyangdie/WeixinBot)
+
+---
+
+### 💫 file-transfer-go
+> Go/React开发的端到端webrtc的文件传输/文字传输/桌面共享，安全，隐私，数据不经过服务器。
+
+⭐ **0 Star**
+
+[🔗 GitHub](https://github.com/aiyangdie/file-transfer-go)
+
+---
+
+### 💫 Dynamic-Background-Navigator
+> Dynamic-Background-Navigator
+
+⭐ **0 Star**
+
+[🔗 GitHub](https://github.com/aiyangdie/Dynamic-Background-Navigator)
+
+---
+
+### 💫 MiniMind-in-Depth
+> 轻量级大语言模型MiniMind的源码解读，包含tokenizer、RoPE、MoE、KV Cache、pretraining、SFT、LoRA、DPO等完整流程
+
+⭐ **0 Star**
+
+[🔗 GitHub](https://github.com/aiyangdie/MiniMind-in-Depth)
+
+---
+
+### 💫 minimind
+> 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
+
+⭐ **0 Star**
+
+[🔗 GitHub](https://github.com/aiyangdie/minimind)
+
+---
+
+### 💫 minimind-v
+> 🚀 「大模型」1小时从0训练26M参数的视觉多模态VLM！🌏 Train a 26M-parameter VLM from scratch in just 1 hours!
+
+⭐ **0 Star**
+
+[🔗 GitHub](https://github.com/aiyangdie/minimind-v)
+
+---
+
+### 💫 CodeCraft-AI-
+> CodeCraft AI 
+
+⭐ **0 Star**
+
+[🔗 GitHub](https://github.com/aiyangdie/CodeCraft-AI-)
+
+---
+
+### 💫 DropIt-Advanced-Profiles
+> DropIt-Advanced-Profiles
+
+⭐ **0 Star**
+
+[🔗 GitHub](https://github.com/aiyangdie/DropIt-Advanced-Profiles)
+
+---
+
+### 💫 qrcode
 > qrcode
 
-**技术栈**: HTML
-
-**License**: MIT
+⭐ **0 Star**
 
 [🔗 GitHub](https://github.com/aiyangdie/qrcode)
 
 ---
 
-### 📱 VIPVideoParser - VIP视频解析
+### 💫 VIPVideoParser
 > VIPVideoParser
 
-**技术栈**: PHP
-
-**License**: MIT
+⭐ **0 Star**
 
 [🔗 GitHub](https://github.com/aiyangdie/VIPVideoParser)
 
 ---
 
-### 🧠 MiniMind - 轻量级大模型源码解读
-> 轻量级大语言模型MiniMind的源码解读，包含tokenizer、RoPE、MoE、KV Cache、pretraining、SFT、LoRA、DPO等完整流程
+### 💫 Computer-Auto-Installation-Tools
+> Computer Auto-Installation Tools
 
-[🔗 GitHub](https://github.com/aiyangdie/minimind-source)
+⭐ **0 Star**
+
+[🔗 GitHub](https://github.com/aiyangdie/Computer-Auto-Installation-Tools)
 
 ---
 
-### 🎮 太空战机游戏
+### 💫 Mood-Station-H5-Version
+> Mood Station H5 Version
+
+⭐ **0 Star**
+
+[🔗 GitHub](https://github.com/aiyangdie/Mood-Station-H5-Version)
+
+---
+
+### 💫 Zodiac-Showcase
+> Zodiac Showcase
+
+⭐ **0 Star**
+
+[🔗 GitHub](https://github.com/aiyangdie/Zodiac-Showcase)
+
+---
+
+### 💫 feiji
 > 太空战机游戏
 
-**技术栈**: JavaScript
+⭐ **0 Star**
 
 [🔗 GitHub](https://github.com/aiyangdie/feiji)
 
 ---
 
-### 🚀 26M GPT - 从零训练小参数GPT
-> 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
+### 💫 -Xin-Qing-Yi-Zhan
+> 心情驿站 Xin Qing Yi Zhan
 
-**技术栈**: Python
+⭐ **0 Star**
 
-**License**: Apache License 2.0
-
-[🔗 GitHub](https://github.com/aiyangdie/26M-GPT-train)
+[🔗 GitHub](https://github.com/aiyangdie/-Xin-Qing-Yi-Zhan)
 
 ---
+
+### 💫 AI-Cloud-Network
+>  AI Cloud Network
+
+⭐ **0 Star**
+
+[🔗 GitHub](https://github.com/aiyangdie/AI-Cloud-Network)
+
+---
+
+### 💫 Ai-Technology-Cloud-Network
+> Ai Technology Cloud Network
+
+⭐ **0 Star**
+
+[🔗 GitHub](https://github.com/aiyangdie/Ai-Technology-Cloud-Network)
+
+---
+
+### 💫 RevenueParser
+> RevenueParser
+
+⭐ **0 Star**
+
+[🔗 GitHub](https://github.com/aiyangdie/RevenueParser)
+
+---
+
+### 💫 KnowledgeLinkerX
+> KnowledgeLinkerX
+
+⭐ **0 Star**
+
+[🔗 GitHub](https://github.com/aiyangdie/KnowledgeLinkerX)
+
+---
+
+### 💫 internal-chat
+> internal-chat
+
+⭐ **0 Star**
+
+[🔗 GitHub](https://github.com/aiyangdie/internal-chat)
+
+---
+
+### 💫 ictupian
+> IC intelligent image compression
+
+⭐ **0 Star**
+
+[🔗 GitHub](https://github.com/aiyangdie/ictupian)
+
+---
+
+### 💫 retro-games-hub
+> retro-games-hub
+
+⭐ **0 Star**
+
+[🔗 GitHub](https://github.com/aiyangdie/retro-games-hub)
+
+---
+
+### 💫 Bookmark-Validator
+> Bookmark-Validator
+
+⭐ **0 Star**
+
+[🔗 GitHub](https://github.com/aiyangdie/Bookmark-Validator)
+
+---
+
+### 💫 VideoHub
+> VideoHub
+
+⭐ **0 Star**
+
+[🔗 GitHub](https://github.com/aiyangdie/VideoHub)
+
+---
+
+
+## 📁 全部项目
+
+### 📁 aiyangdie
+> Config files for my GitHub profile.
+
+[🔗 GitHub](https://github.com/aiyangdie/aiyangdie)
+
+---
+
+### 📁 merchant-appeal
+> merchant-appeal
+
+[🔗 GitHub](https://github.com/aiyangdie/merchant-appeal)
+
+---
+
+### 📁 yourusername-pony-swf-player
+> 小马宝莉 SWF 播放器
+
+[🔗 GitHub](https://github.com/aiyangdie/yourusername-pony-swf-player)
+
+---
+
+### 📁 spec-kit
+> 💫 Toolkit to help you get started with Spec-Driven Development
+
+[🔗 GitHub](https://github.com/aiyangdie/spec-kit)
+
+---
+
+### 📁 aiyangtongxue
+> aiyangtongxue
+
+[🔗 GitHub](https://github.com/aiyangdie/aiyangtongxue)
+
+---
+
+### 📁 PhonePriceVista
+> 一个美观易用的手机价格展示与对比平台，支持多品牌筛选、价格区间过滤、库存状态筛选和关键词搜索。基于 React + TypeScript + Material-UI 构建，适合手机销售、比价和信息展示场景。
+
+[🔗 GitHub](https://github.com/aiyangdie/PhonePriceVista)
+
+---
+
+### 📁 -ContractAI
+> 智律ContractAI
+
+[🔗 GitHub](https://github.com/aiyangdie/-ContractAI)
+
+---
+
+### 📁 xiaohongshu-mcp
+> MCP for xiaohongshu.com
+
+[🔗 GitHub](https://github.com/aiyangdie/xiaohongshu-mcp)
+
+---
+
+### 📁 get_jobs
+> 💼【AI找工作助手】全平台自动投简历脚本：(boss、前程无忧、猎聘、拉勾、智联招聘)
+
+[🔗 GitHub](https://github.com/aiyangdie/get_jobs)
+
+---
+
+### 📁 InfiniteTalk
+> ​​Unlimited-length talking video generation​​ that supports image-to-video and video-to-video generation
+
+[🔗 GitHub](https://github.com/aiyangdie/InfiniteTalk)
+
+---
+
+### 📁 WeixinBot
+> 网页版微信API，包含终端版微信及微信机器人
+
+[🔗 GitHub](https://github.com/aiyangdie/WeixinBot)
+
+---
+
+### 📁 file-transfer-go
+> Go/React开发的端到端webrtc的文件传输/文字传输/桌面共享，安全，隐私，数据不经过服务器。
+
+[🔗 GitHub](https://github.com/aiyangdie/file-transfer-go)
+
+---
+
+### 📁 Dynamic-Background-Navigator
+> Dynamic-Background-Navigator
+
+[🔗 GitHub](https://github.com/aiyangdie/Dynamic-Background-Navigator)
+
+---
+
+### 📁 MiniMind-in-Depth
+> 轻量级大语言模型MiniMind的源码解读，包含tokenizer、RoPE、MoE、KV Cache、pretraining、SFT、LoRA、DPO等完整流程
+
+[🔗 GitHub](https://github.com/aiyangdie/MiniMind-in-Depth)
+
+---
+
+### 📁 minimind
+> 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
+
+[🔗 GitHub](https://github.com/aiyangdie/minimind)
+
+---
+
+### 📁 minimind-v
+> 🚀 「大模型」1小时从0训练26M参数的视觉多模态VLM！🌏 Train a 26M-parameter VLM from scratch in just 1 hours!
+
+[🔗 GitHub](https://github.com/aiyangdie/minimind-v)
+
+---
+
+### 📁 wechat-whack-a-mole
+> wechat-whack-a-mole
+
+[🔗 GitHub](https://github.com/aiyangdie/wechat-whack-a-mole)
+
+---
+
+### 📁 CodeCraft-AI-
+> CodeCraft AI 
+
+[🔗 GitHub](https://github.com/aiyangdie/CodeCraft-AI-)
+
+---
+
+### 📁 DropIt-Advanced-Profiles
+> DropIt-Advanced-Profiles
+
+[🔗 GitHub](https://github.com/aiyangdie/DropIt-Advanced-Profiles)
+
+---
+
+### 📁 qrcode
+> qrcode
+
+[🔗 GitHub](https://github.com/aiyangdie/qrcode)
+
+---
+
+### 📁 VIPVideoParser
+> VIPVideoParser
+
+[🔗 GitHub](https://github.com/aiyangdie/VIPVideoParser)
+
+---
+
+### 📁 Computer-Auto-Installation-Tools
+> Computer Auto-Installation Tools
+
+[🔗 GitHub](https://github.com/aiyangdie/Computer-Auto-Installation-Tools)
+
+---
+
+### 📁 Mood-Station-H5-Version
+> Mood Station H5 Version
+
+[🔗 GitHub](https://github.com/aiyangdie/Mood-Station-H5-Version)
+
+---
+
+### 📁 Zodiac-Showcase
+> Zodiac Showcase
+
+[🔗 GitHub](https://github.com/aiyangdie/Zodiac-Showcase)
+
+---
+
+### 📁 feiji
+> 太空战机游戏
+
+[🔗 GitHub](https://github.com/aiyangdie/feiji)
+
+---
+
+### 📁 -Xin-Qing-Yi-Zhan
+> 心情驿站 Xin Qing Yi Zhan
+
+[🔗 GitHub](https://github.com/aiyangdie/-Xin-Qing-Yi-Zhan)
+
+---
+
+### 📁 AI-Cloud-Network
+>  AI Cloud Network
+
+[🔗 GitHub](https://github.com/aiyangdie/AI-Cloud-Network)
+
+---
+
+### 📁 QuickCompress
+> QuickCompress
+
+[🔗 GitHub](https://github.com/aiyangdie/QuickCompress)
+
+---
+
+### 📁 Ai-Technology-Cloud-Network
+> Ai Technology Cloud Network
+
+[🔗 GitHub](https://github.com/aiyangdie/Ai-Technology-Cloud-Network)
+
+---
+
+### 📁 RevenueParser
+> RevenueParser
+
+[🔗 GitHub](https://github.com/aiyangdie/RevenueParser)
+
+---
+
+### 📁 KnowledgeLinkerX
+> KnowledgeLinkerX
+
+[🔗 GitHub](https://github.com/aiyangdie/KnowledgeLinkerX)
+
+---
+
+### 📁 internal-chat
+> internal-chat
+
+[🔗 GitHub](https://github.com/aiyangdie/internal-chat)
+
+---
+
+### 📁 ictupian
+> IC intelligent image compression
+
+[🔗 GitHub](https://github.com/aiyangdie/ictupian)
+
+---
+
+### 📁 retro-games-hub
+> retro-games-hub
+
+[🔗 GitHub](https://github.com/aiyangdie/retro-games-hub)
+
+---
+
+### 📁 Bookmark-Validator
+> Bookmark-Validator
+
+[🔗 GitHub](https://github.com/aiyangdie/Bookmark-Validator)
+
+---
+
+### 📁 VideoHub
+> VideoHub
+
+[🔗 GitHub](https://github.com/aiyangdie/VideoHub)
+
+---
+
 
 ## 📊 GitHub 统计
 
