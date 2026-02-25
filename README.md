@@ -421,6 +421,189 @@
 ---
 
 
+## ⭐ 我点的 Star · 我喜欢的项目
+
+### ⭐ iKunpw/auto-ncmdump
+> iKunpw/auto-ncmdump - ![shield](https://img.shields.io/badge/python-2.7%20%7C%203.4%2B-blue)
+
+⭐ **554 Star**
+
+[🔗 GitHub](https://github.com/iKunpw/auto-ncmdump)
+
+---
+
+### ⭐ hslr-s/sun-panel
+> hslr-s/sun-panel - [[ 简体中文 ]](https://sun-panel-doc.enianteam.com/zh_cn/introduce/project.html) |
+
+⭐ **4974 Star**
+
+[🔗 GitHub](https://github.com/hslr-s/sun-panel)
+
+---
+
+### ⭐ aiyangdie/merchant-appeal
+> aiyangdie/merchant-appeal - [![License](https://img.shields.io/badge/License-MIT-F59E0B?style=for-the-badge)](LICENSE)
+
+⭐ **1 Star**
+
+[🔗 GitHub](https://github.com/aiyangdie/merchant-appeal)
+
+---
+
+### ⭐ umlx5h/LLPlayer
+> umlx5h/LLPlayer - <p align="center"><img height="96" src="./LLPlayer.png"></p>
+
+⭐ **3176 Star**
+
+[🔗 GitHub](https://github.com/umlx5h/LLPlayer)
+
+---
+
+### ⭐ aiyangdie/yourusername-pony-swf-player
+> aiyangdie/yourusername-pony-swf-player - 一个专为小马宝莉粉丝设计的可爱风格SWF文件播放器，粉色主题，彩虹元素，少女心满满！
+
+⭐ **1 Star**
+
+[🔗 GitHub](https://github.com/aiyangdie/yourusername-pony-swf-player)
+
+---
+
+### ⭐ aiyangdie/aiyangdie
+> aiyangdie/aiyangdie - <p align="center">
+
+⭐ **1 Star**
+
+[🔗 GitHub](https://github.com/aiyangdie/aiyangdie)
+
+---
+
+### ⭐ aiyangdie/spec-kit
+> aiyangdie/spec-kit - <div align="center">
+
+⭐ **1 Star**
+
+[🔗 GitHub](https://github.com/aiyangdie/spec-kit)
+
+---
+
+### ⭐ github/spec-kit
+> github/spec-kit - <div align="center">
+
+⭐ **72001 Star**
+
+[🔗 GitHub](https://github.com/github/spec-kit)
+
+---
+
+### ⭐ KouriChat/KouriChat
+> KouriChat/KouriChat - 在虚拟与现实交织的微光边界，悄然绽放着一份永恒而温柔的羁绊。或许你的身影朦胧，游走于真实与幻梦之间，但指尖轻触的温暖，心底荡漾的涟漪，却是此刻最真挚、最动人的慰藉。
+
+⭐ **3155 Star**
+
+[🔗 GitHub](https://github.com/KouriChat/KouriChat)
+
+---
+
+### ⭐ KHwang9883/MobileModels
+> KHwang9883/MobileModels - 汇总各厂商上市的手机型号与对应的传播名。
+
+⭐ **4087 Star**
+
+[🔗 GitHub](https://github.com/KHwang9883/MobileModels)
+
+---
+
+### ⭐ Haskely/image_stitching
+> Haskely/image_stitching - 一个简单易用的在线图片拼接工具，支持多张图片的竖向拼接和拖拽式裁剪，完美支持移动设备和触摸屏操作。
+
+⭐ **1 Star**
+
+[🔗 GitHub](https://github.com/Haskely/image_stitching)
+
+---
+
+### ⭐ QIN2DIM/epic-awesome-gamer
+> QIN2DIM/epic-awesome-gamer - <div align="center">
+
+⭐ **1097 Star**
+
+[🔗 GitHub](https://github.com/QIN2DIM/epic-awesome-gamer)
+
+---
+
+### ⭐ xiaoyugansz/MiniVoting
+> xiaoyugansz/MiniVoting - - 投票活动十分火，商家，企业，机构偶尔都会来一场投票活动评选，本小程序支持图文投票，简单方便、随时随地完成投票，可以方便设定投票模式（按天按全程，投票数限定）。
+
+⭐ **2 Star**
+
+[🔗 GitHub](https://github.com/xiaoyugansz/MiniVoting)
+
+---
+
+### ⭐ PCL-Community/PCL-CE
+> PCL-Community/PCL-CE - **简体中文** | [English](README-EN.md) | [繁體中文](README-ZH_TW.md)
+
+⭐ **3613 Star**
+
+[🔗 GitHub](https://github.com/PCL-Community/PCL-CE)
+
+---
+
+### ⭐ NapNeko/NapCatQQ
+> NapNeko/NapCatQQ - <div align="center">
+
+⭐ **7428 Star**
+
+[🔗 GitHub](https://github.com/NapNeko/NapCatQQ)
+
+---
+
+### ⭐ xiayouran/Musicer
+> xiayouran/Musicer - <p align="center">
+
+⭐ **246 Star**
+
+[🔗 GitHub](https://github.com/xiayouran/Musicer)
+
+---
+
+### ⭐ jiuhunwl/music_jx
+> jiuhunwl/music_jx - 本工具用于解析音乐真实链接，获取音乐的详细信息，如音乐地址、封面图、作者信息等。
+
+⭐ **49 Star**
+
+[🔗 GitHub](https://github.com/jiuhunwl/music_jx)
+
+---
+
+### ⭐ jiuhunwl/short_videos
+> jiuhunwl/short_videos - <div align="center">
+
+⭐ **303 Star**
+
+[🔗 GitHub](https://github.com/jiuhunwl/short_videos)
+
+---
+
+### ⭐ amir1376/ab-download-manager
+> amir1376/ab-download-manager - <div align="center">
+
+⭐ **13645 Star**
+
+[🔗 GitHub](https://github.com/amir1376/ab-download-manager)
+
+---
+
+### ⭐ DWHengr/linyu-client
+> DWHengr/linyu-client - <p align="center">
+
+⭐ **427 Star**
+
+[🔗 GitHub](https://github.com/DWHengr/linyu-client)
+
+---
+
+
 ## 📁 全部项目
 
 ### 📁 aiyangdie
@@ -717,7 +900,7 @@
 </p>
 
 <p align="center">
-  <i>⏰ 最后更新：2026-02-26 · 每7天自动检查更新</i>
+  <i>由 AI 自动更新于 2026 年 02 月 26 日</i>
 </p>
 
 <p align="center">
