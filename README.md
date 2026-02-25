@@ -73,7 +73,7 @@
 ## 🚀 精选项目
 
 ### 📱 PhonePriceVista - 手机价格展示与对比平台
-> 一个美观易用的手机价格展示与对比平台
+> 一个美观易用的手机价格展示与对比平台，支持多品牌筛选、价格区间过滤、库存状态筛选和关键词搜索。基于 React + TypeScript + Material-UI 构建，适合手机销售、比价和信息展示场景。
 
 | 特性 | 说明 |
 |------|------|
@@ -87,8 +87,8 @@
 
 ---
 
-### 🖼️ IC / QuickCompress - 在线图片压缩工具
-> 纯前端本地压缩，保护隐私，无需上传
+### 🖼️ ictupian / QuickCompress - 在线图片压缩工具
+> IC intelligent image compression / QuickCompress - 纯前端本地压缩，保护隐私，无需上传
 
 | 特性 | 说明 |
 |------|------|
@@ -98,21 +98,12 @@
 
 **技术栈**: HTML/CSS/JavaScript + Canvas API + JSZip
 
-[🌐 在线体验](https://ic.aikex.ink/) · [🔗 GitHub (ictupian)](https://github.com/aiyangdie/ictupian) · [🔗 GitHub (QuickCompress)](https://github.com/aiyangdie/QuickCompress)
+[🔗 GitHub (ictupian)](https://github.com/aiyangdie/ictupian) · [🔗 GitHub (QuickCompress)](https://github.com/aiyangdie/QuickCompress)
 
 ---
 
-### 🌌 Dynamic-Background-Navigator - 动态背景导航页
-> 响应式布局与视觉设计，便于扩展为个人主页/作品集
-
-**技术栈**: HTML/CSS/JavaScript
-
-[🔗 GitHub](https://github.com/aiyangdie/Dynamic-Background-Navigator)
-
----
-
-### 🤖 ContractAI - AI 应用原型
-> 本地运行，通过环境变量配置接入 Gemini
+### 🤖 -ContractAI - AI 应用原型
+> 智律ContractAI - AI 应用原型（AI Studio / Gemini）
 
 **技术栈**: TypeScript + Node.js
 
@@ -125,62 +116,30 @@
 
 ---
 
-### 📹 WebRTC File Transfer - 端到端文件传输
-> Go/React开发的端到端WebRTC文件传输/文字传输/桌面共享
+## 📁 全部项目
 
-**特点**:
-- 🔒 安全、隐私、数据不经过服务器
-- 📁 文件传输
-- 💬 文字传输
-- 🖥️ 桌面共享
-
-**技术栈**: TypeScript + Go + WebRTC
-
-[🔗 GitHub](https://github.com/aiyangdie/webrtc-file-transfer)
-
----
-
-### 🎬 Talking Video Generation - 无限时长视频生成
-> 支持 image-to-video 和 video-to-video 生成
+### 💫 spec-kit - 规格驱动开发工具包
+> 💫 Toolkit to help you get started with Spec-Driven Development
 
 **技术栈**: Python
 
-**License**: Apache License 2.0
+**License**: MIT
 
-[🔗 GitHub](https://github.com/aiyangdie/talking-video-gen)
-
----
-
-### 🧠 MiniMind - 轻量级大模型源码解读
-> 包含完整流程的源码解读
-
-**内容**:
-- Tokenizer
-- RoPE (旋转位置编码)
-- MoE (混合专家)
-- KV Cache
-- Pre-training
-- SFT (监督微调)
-- LoRA (低秩适应)
-- DPO (直接偏好优化)
-
-[🔗 GitHub](https://github.com/aiyangdie/minimind-source)
+[🔗 GitHub](https://github.com/aiyangdie/spec-kit)
 
 ---
 
-### 🚀 26M GPT - 从零训练小参数GPT
-> 2小时完全从0训练26M的小参数GPT！
+### 🔗 MCP Xiaohongshu - 小红书MCP
+> MCP for xiaohongshu.com
 
-**技术栈**: Python
+**技术栈**: Go
 
-**License**: Apache License 2.0
-
-[🔗 GitHub](https://github.com/aiyangdie/26M-GPT-train)
+[🔗 GitHub](https://github.com/aiyangdie/mcp-xiaohongshu)
 
 ---
 
-### 💼 AI Job Assistant - AI找工作助手
-> 全平台自动投简历脚本
+### 💼 AI-Job-Assistant - AI找工作助手
+> 💼【AI找工作助手】全平台自动投简历脚本：(boss、前程无忧、猎聘、拉勾、智联招聘)
 
 **支持平台**:
 - Boss直聘
@@ -195,17 +154,65 @@
 
 ---
 
-### 📱 MCP Xiaohongshu - 小红书MCP
-> MCP for xiaohongshu.com
+### 📹 WebRTC File Transfer - 端到端文件传输
+> Go/React开发的端到端webrtc的文件传输/文字传输/桌面共享，安全，隐私，数据不经过服务器。
 
-**技术栈**: Go
+**特点**:
+- 🔒 安全、隐私、数据不经过服务器
+- 📁 文件传输
+- 💬 文字传输
+- 🖥️ 桌面共享
 
-[🔗 GitHub](https://github.com/aiyangdie/mcp-xiaohongshu)
+**技术栈**: TypeScript + Go + WebRTC
+
+**License**: MIT
+
+[🔗 GitHub](https://github.com/aiyangdie/webrtc-file-transfer)
+
+---
+
+### 🎬 Talking Video Generation - 无限时长视频生成
+> ​​Unlimited-length talking video generation​​ that supports image-to-video and video-to-video generation
+
+**技术栈**: Python
+
+**License**: Apache License 2.0
+
+[🔗 GitHub](https://github.com/aiyangdie/talking-video-gen)
+
+---
+
+### 🔗 QR Code - 二维码生成
+> qrcode
+
+**技术栈**: HTML
+
+**License**: MIT
+
+[🔗 GitHub](https://github.com/aiyangdie/qrcode)
+
+---
+
+### 📱 VIPVideoParser - VIP视频解析
+> VIPVideoParser
+
+**技术栈**: PHP
+
+**License**: MIT
+
+[🔗 GitHub](https://github.com/aiyangdie/VIPVideoParser)
+
+---
+
+### 🧠 MiniMind - 轻量级大模型源码解读
+> 轻量级大语言模型MiniMind的源码解读，包含tokenizer、RoPE、MoE、KV Cache、pretraining、SFT、LoRA、DPO等完整流程
+
+[🔗 GitHub](https://github.com/aiyangdie/minimind-source)
 
 ---
 
 ### 🎮 太空战机游戏
-> 经典太空战机游戏
+> 太空战机游戏
 
 **技术栈**: JavaScript
 
@@ -213,32 +220,14 @@
 
 ---
 
-### 📱 VIPVideoParser - VIP视频解析
-> VIP视频解析工具
-
-**技术栈**: PHP
-
-[🔗 GitHub](https://github.com/aiyangdie/VIPVideoParser)
-
----
-
-### 🔗 QR Code - 二维码生成
-> 二维码生成工具
-
-**技术栈**: HTML
-
-[🔗 GitHub](https://github.com/aiyangdie/qrcode)
-
----
-
-### 💫 Spec Kit - 规格驱动开发工具包
-> Toolkit to help you get started with Spec-Driven Development
+### 🚀 26M GPT - 从零训练小参数GPT
+> 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
 
 **技术栈**: Python
 
-**License**: MIT
+**License**: Apache License 2.0
 
-[🔗 GitHub](https://github.com/aiyangdie/spec-kit)
+[🔗 GitHub](https://github.com/aiyangdie/26M-GPT-train)
 
 ---
 
