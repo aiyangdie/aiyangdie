@@ -55,39 +55,62 @@
 ### 📦 PhonePriceVista
 > 一个美观易用的手机价格展示与对比平台，支持多品牌筛选、价格区间过滤、库存状态筛选和关键词搜索。基于 React + TypeScript + Material-UI 构建，适合手机销售、比价和信息展示场景。
 
-[🔗 GitHub](https://github.com/aiyangdie/PhonePriceVista)
+💡 <p align="center">
+
+🛠️ **主要语言:** JavaScript
+📅 **最后更新:** 2025-12-24
+
+[🔗 查看项目](https://github.com/aiyangdie/PhonePriceVista)
 
 ---
 
 ### 📦 ictupian
 > IC intelligent image compression
 
-[🔗 GitHub](https://github.com/aiyangdie/ictupian)
+💡 ![网站截图](wechat_2025-04-29_044012_213.png)
+
+🛠️ **主要语言:** JavaScript
+📅 **最后更新:** 2025-04-28
+
+[🔗 查看项目](https://github.com/aiyangdie/ictupian)
 
 ---
 
 ### 📦 QuickCompress
 > QuickCompress
 
-⭐ **1 Star**
+💡 一个基于网页的智能图片压缩工具，支持批量处理，保持原始文件名，并提供高质量压缩效果。
 
-[🔗 GitHub](https://github.com/aiyangdie/QuickCompress)
+🛠️ **主要语言:** JavaScript
+⭐ **1 Star** | 🍴 **1 Fork**
+📅 **最后更新:** 2025-05-07
+
+[🔗 查看项目](https://github.com/aiyangdie/QuickCompress)
 
 ---
 
 ### 📦 -ContractAI
 > 智律ContractAI
 
-[🔗 GitHub](https://github.com/aiyangdie/-ContractAI)
+💡 <div align="center">
+
+🛠️ **主要语言:** TypeScript
+📅 **最后更新:** 2025-12-01
+
+[🔗 查看项目](https://github.com/aiyangdie/-ContractAI)
 
 ---
 
 ### 📦 spec-kit
 > 💫 Toolkit to help you get started with Spec-Driven Development
 
-⭐ **1 Star**
+💡 <div align="center">
 
-[🔗 GitHub](https://github.com/aiyangdie/spec-kit)
+🛠️ **主要语言:** None
+⭐ **1 Star**
+📅 **最后更新:** 2026-01-13
+
+[🔗 查看项目](https://github.com/aiyangdie/spec-kit)
 
 ---
 
@@ -99,324 +122,396 @@
 ### 💫 aiyangdie
 > Config files for my GitHub profile.
 
+🛠️ **主要语言:** Python
 ⭐ **1 Star**
+📅 **最后更新:** 2026-02-25
 
-[🔗 GitHub](https://github.com/aiyangdie/aiyangdie)
+[🔗 查看项目](https://github.com/aiyangdie/aiyangdie)
 
 ---
 
 ### 💫 merchant-appeal
 > merchant-appeal
 
+🛠️ **主要语言:** JavaScript
 ⭐ **1 Star**
+📅 **最后更新:** 2026-02-14
 
-[🔗 GitHub](https://github.com/aiyangdie/merchant-appeal)
+[🔗 查看项目](https://github.com/aiyangdie/merchant-appeal)
 
 ---
 
 ### 💫 yourusername-pony-swf-player
 > 小马宝莉 SWF 播放器
 
+🛠️ **主要语言:** Python
 ⭐ **1 Star**
+📅 **最后更新:** 2026-01-25
 
-[🔗 GitHub](https://github.com/aiyangdie/yourusername-pony-swf-player)
+[🔗 查看项目](https://github.com/aiyangdie/yourusername-pony-swf-player)
 
 ---
 
 ### 💫 spec-kit
 > 💫 Toolkit to help you get started with Spec-Driven Development
 
+🛠️ **主要语言:** None
 ⭐ **1 Star**
+📅 **最后更新:** 2026-01-13
 
-[🔗 GitHub](https://github.com/aiyangdie/spec-kit)
+[🔗 查看项目](https://github.com/aiyangdie/spec-kit)
 
 ---
 
 ### 💫 wechat-whack-a-mole
 > wechat-whack-a-mole
 
+🛠️ **主要语言:** JavaScript
 ⭐ **1 Star**
+📅 **最后更新:** 2025-07-15
 
-[🔗 GitHub](https://github.com/aiyangdie/wechat-whack-a-mole)
+[🔗 查看项目](https://github.com/aiyangdie/wechat-whack-a-mole)
 
 ---
 
 ### 💫 QuickCompress
 > QuickCompress
 
-⭐ **1 Star**
+🛠️ **主要语言:** JavaScript
+⭐ **1 Star** | 🍴 **1 Fork**
+📅 **最后更新:** 2025-05-07
 
-[🔗 GitHub](https://github.com/aiyangdie/QuickCompress)
+[🔗 查看项目](https://github.com/aiyangdie/QuickCompress)
 
 ---
 
 ### 💫 aiyangtongxue
 > aiyangtongxue
 
+🛠️ **主要语言:** None
 ⭐ **0 Star**
+📅 **最后更新:** 2025-12-25
 
-[🔗 GitHub](https://github.com/aiyangdie/aiyangtongxue)
+[🔗 查看项目](https://github.com/aiyangdie/aiyangtongxue)
 
 ---
 
 ### 💫 PhonePriceVista
 > 一个美观易用的手机价格展示与对比平台，支持多品牌筛选、价格区间过滤、库存状态筛选和关键词搜索。基于 React + TypeScript + Material-UI 构建，适合手机销售、比价和信息展示场景。
 
+🛠️ **主要语言:** JavaScript
 ⭐ **0 Star**
+📅 **最后更新:** 2025-12-24
 
-[🔗 GitHub](https://github.com/aiyangdie/PhonePriceVista)
+[🔗 查看项目](https://github.com/aiyangdie/PhonePriceVista)
 
 ---
 
 ### 💫 -ContractAI
 > 智律ContractAI
 
+🛠️ **主要语言:** TypeScript
 ⭐ **0 Star**
+📅 **最后更新:** 2025-12-01
 
-[🔗 GitHub](https://github.com/aiyangdie/-ContractAI)
+[🔗 查看项目](https://github.com/aiyangdie/-ContractAI)
 
 ---
 
 ### 💫 xiaohongshu-mcp
 > MCP for xiaohongshu.com
 
+🛠️ **主要语言:** None
 ⭐ **0 Star**
+📅 **最后更新:** 2025-09-16
 
-[🔗 GitHub](https://github.com/aiyangdie/xiaohongshu-mcp)
+[🔗 查看项目](https://github.com/aiyangdie/xiaohongshu-mcp)
 
 ---
 
 ### 💫 get_jobs
 > 💼【AI找工作助手】全平台自动投简历脚本：(boss、前程无忧、猎聘、拉勾、智联招聘)
 
+🛠️ **主要语言:** None
 ⭐ **0 Star**
+📅 **最后更新:** 2025-09-11
 
-[🔗 GitHub](https://github.com/aiyangdie/get_jobs)
+[🔗 查看项目](https://github.com/aiyangdie/get_jobs)
 
 ---
 
 ### 💫 InfiniteTalk
 > ​​Unlimited-length talking video generation​​ that supports image-to-video and video-to-video generation
 
+🛠️ **主要语言:** None
 ⭐ **0 Star**
+📅 **最后更新:** 2025-09-10
 
-[🔗 GitHub](https://github.com/aiyangdie/InfiniteTalk)
+[🔗 查看项目](https://github.com/aiyangdie/InfiniteTalk)
 
 ---
 
 ### 💫 WeixinBot
 > 网页版微信API，包含终端版微信及微信机器人
 
+🛠️ **主要语言:** None
 ⭐ **0 Star**
+📅 **最后更新:** 2025-09-04
 
-[🔗 GitHub](https://github.com/aiyangdie/WeixinBot)
+[🔗 查看项目](https://github.com/aiyangdie/WeixinBot)
 
 ---
 
 ### 💫 file-transfer-go
 > Go/React开发的端到端webrtc的文件传输/文字传输/桌面共享，安全，隐私，数据不经过服务器。
 
+🛠️ **主要语言:** None
 ⭐ **0 Star**
+📅 **最后更新:** 2025-09-04
 
-[🔗 GitHub](https://github.com/aiyangdie/file-transfer-go)
+[🔗 查看项目](https://github.com/aiyangdie/file-transfer-go)
 
 ---
 
 ### 💫 Dynamic-Background-Navigator
 > Dynamic-Background-Navigator
 
+🛠️ **主要语言:** HTML
 ⭐ **0 Star**
+📅 **最后更新:** 2025-08-30
 
-[🔗 GitHub](https://github.com/aiyangdie/Dynamic-Background-Navigator)
+[🔗 查看项目](https://github.com/aiyangdie/Dynamic-Background-Navigator)
 
 ---
 
 ### 💫 MiniMind-in-Depth
 > 轻量级大语言模型MiniMind的源码解读，包含tokenizer、RoPE、MoE、KV Cache、pretraining、SFT、LoRA、DPO等完整流程
 
+🛠️ **主要语言:** None
 ⭐ **0 Star**
+📅 **最后更新:** 2025-08-30
 
-[🔗 GitHub](https://github.com/aiyangdie/MiniMind-in-Depth)
+[🔗 查看项目](https://github.com/aiyangdie/MiniMind-in-Depth)
 
 ---
 
 ### 💫 minimind
 > 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
 
+🛠️ **主要语言:** None
 ⭐ **0 Star**
+📅 **最后更新:** 2025-08-30
 
-[🔗 GitHub](https://github.com/aiyangdie/minimind)
+[🔗 查看项目](https://github.com/aiyangdie/minimind)
 
 ---
 
 ### 💫 minimind-v
 > 🚀 「大模型」1小时从0训练26M参数的视觉多模态VLM！🌏 Train a 26M-parameter VLM from scratch in just 1 hours!
 
+🛠️ **主要语言:** None
 ⭐ **0 Star**
+📅 **最后更新:** 2025-08-30
 
-[🔗 GitHub](https://github.com/aiyangdie/minimind-v)
+[🔗 查看项目](https://github.com/aiyangdie/minimind-v)
 
 ---
 
 ### 💫 CodeCraft-AI-
 > CodeCraft AI 
 
+🛠️ **主要语言:** HTML
 ⭐ **0 Star**
+📅 **最后更新:** 2025-06-29
 
-[🔗 GitHub](https://github.com/aiyangdie/CodeCraft-AI-)
+[🔗 查看项目](https://github.com/aiyangdie/CodeCraft-AI-)
 
 ---
 
 ### 💫 DropIt-Advanced-Profiles
 > DropIt-Advanced-Profiles
 
+🛠️ **主要语言:** CSS
 ⭐ **0 Star**
+📅 **最后更新:** 2025-06-23
 
-[🔗 GitHub](https://github.com/aiyangdie/DropIt-Advanced-Profiles)
+[🔗 查看项目](https://github.com/aiyangdie/DropIt-Advanced-Profiles)
 
 ---
 
 ### 💫 qrcode
 > qrcode
 
+🛠️ **主要语言:** HTML
 ⭐ **0 Star**
+📅 **最后更新:** 2025-06-16
 
-[🔗 GitHub](https://github.com/aiyangdie/qrcode)
+[🔗 查看项目](https://github.com/aiyangdie/qrcode)
 
 ---
 
 ### 💫 VIPVideoParser
 > VIPVideoParser
 
+🛠️ **主要语言:** PHP
 ⭐ **0 Star**
+📅 **最后更新:** 2025-06-16
 
-[🔗 GitHub](https://github.com/aiyangdie/VIPVideoParser)
+[🔗 查看项目](https://github.com/aiyangdie/VIPVideoParser)
 
 ---
 
 ### 💫 Computer-Auto-Installation-Tools
 > Computer Auto-Installation Tools
 
+🛠️ **主要语言:** Batchfile
 ⭐ **0 Star**
+📅 **最后更新:** 2025-06-16
 
-[🔗 GitHub](https://github.com/aiyangdie/Computer-Auto-Installation-Tools)
+[🔗 查看项目](https://github.com/aiyangdie/Computer-Auto-Installation-Tools)
 
 ---
 
 ### 💫 Mood-Station-H5-Version
 > Mood Station H5 Version
 
+🛠️ **主要语言:** CSS
 ⭐ **0 Star**
+📅 **最后更新:** 2025-05-15
 
-[🔗 GitHub](https://github.com/aiyangdie/Mood-Station-H5-Version)
+[🔗 查看项目](https://github.com/aiyangdie/Mood-Station-H5-Version)
 
 ---
 
 ### 💫 Zodiac-Showcase
 > Zodiac Showcase
 
+🛠️ **主要语言:** HTML
 ⭐ **0 Star**
+📅 **最后更新:** 2025-05-09
 
-[🔗 GitHub](https://github.com/aiyangdie/Zodiac-Showcase)
+[🔗 查看项目](https://github.com/aiyangdie/Zodiac-Showcase)
 
 ---
 
 ### 💫 feiji
 > 太空战机游戏
 
+🛠️ **主要语言:** JavaScript
 ⭐ **0 Star**
+📅 **最后更新:** 2025-05-08
 
-[🔗 GitHub](https://github.com/aiyangdie/feiji)
+[🔗 查看项目](https://github.com/aiyangdie/feiji)
 
 ---
 
 ### 💫 -Xin-Qing-Yi-Zhan
 > 心情驿站 Xin Qing Yi Zhan
 
+🛠️ **主要语言:** JavaScript
 ⭐ **0 Star**
+📅 **最后更新:** 2025-05-08
 
-[🔗 GitHub](https://github.com/aiyangdie/-Xin-Qing-Yi-Zhan)
+[🔗 查看项目](https://github.com/aiyangdie/-Xin-Qing-Yi-Zhan)
 
 ---
 
 ### 💫 AI-Cloud-Network
 >  AI Cloud Network
 
+🛠️ **主要语言:** HTML
 ⭐ **0 Star**
+📅 **最后更新:** 2025-05-07
 
-[🔗 GitHub](https://github.com/aiyangdie/AI-Cloud-Network)
+[🔗 查看项目](https://github.com/aiyangdie/AI-Cloud-Network)
 
 ---
 
 ### 💫 Ai-Technology-Cloud-Network
 > Ai Technology Cloud Network
 
+🛠️ **主要语言:** HTML
 ⭐ **0 Star**
+📅 **最后更新:** 2025-05-07
 
-[🔗 GitHub](https://github.com/aiyangdie/Ai-Technology-Cloud-Network)
+[🔗 查看项目](https://github.com/aiyangdie/Ai-Technology-Cloud-Network)
 
 ---
 
 ### 💫 RevenueParser
 > RevenueParser
 
+🛠️ **主要语言:** HTML
 ⭐ **0 Star**
+📅 **最后更新:** 2025-05-03
 
-[🔗 GitHub](https://github.com/aiyangdie/RevenueParser)
+[🔗 查看项目](https://github.com/aiyangdie/RevenueParser)
 
 ---
 
 ### 💫 KnowledgeLinkerX
 > KnowledgeLinkerX
 
+🛠️ **主要语言:** HTML
 ⭐ **0 Star**
+📅 **最后更新:** 2025-05-03
 
-[🔗 GitHub](https://github.com/aiyangdie/KnowledgeLinkerX)
+[🔗 查看项目](https://github.com/aiyangdie/KnowledgeLinkerX)
 
 ---
 
 ### 💫 internal-chat
 > internal-chat
 
+🛠️ **主要语言:** JavaScript
 ⭐ **0 Star**
+📅 **最后更新:** 2025-04-29
 
-[🔗 GitHub](https://github.com/aiyangdie/internal-chat)
+[🔗 查看项目](https://github.com/aiyangdie/internal-chat)
 
 ---
 
 ### 💫 ictupian
 > IC intelligent image compression
 
+🛠️ **主要语言:** JavaScript
 ⭐ **0 Star**
+📅 **最后更新:** 2025-04-28
 
-[🔗 GitHub](https://github.com/aiyangdie/ictupian)
+[🔗 查看项目](https://github.com/aiyangdie/ictupian)
 
 ---
 
 ### 💫 retro-games-hub
 > retro-games-hub
 
+🛠️ **主要语言:** JavaScript
 ⭐ **0 Star**
+📅 **最后更新:** 2025-04-28
 
-[🔗 GitHub](https://github.com/aiyangdie/retro-games-hub)
+[🔗 查看项目](https://github.com/aiyangdie/retro-games-hub)
 
 ---
 
 ### 💫 Bookmark-Validator
 > Bookmark-Validator
 
+🛠️ **主要语言:** HTML
 ⭐ **0 Star**
+📅 **最后更新:** 2025-04-28
 
-[🔗 GitHub](https://github.com/aiyangdie/Bookmark-Validator)
+[🔗 查看项目](https://github.com/aiyangdie/Bookmark-Validator)
 
 ---
 
 ### 💫 VideoHub
 > VideoHub
 
+🛠️ **主要语言:** CSS
 ⭐ **0 Star**
+📅 **最后更新:** 2025-04-28
 
-[🔗 GitHub](https://github.com/aiyangdie/VideoHub)
+[🔗 查看项目](https://github.com/aiyangdie/VideoHub)
 
 ---
 
@@ -426,180 +521,260 @@
 ### ⭐ iKunpw/auto-ncmdump
 > iKunpw/auto-ncmdump - ![shield](https://img.shields.io/badge/python-2.7%20%7C%203.4%2B-blue)
 
-⭐ **554 Star**
+📝 使用 ncmdump ，实现全自动网易云音乐ncm格式转mp3
 
-[🔗 GitHub](https://github.com/iKunpw/auto-ncmdump)
+🛠️ **主要语言:** Python
+⭐ **554 Star** | 🍴 **69 Fork**
+📅 **最后更新:** 2026-02-24
+
+[🔗 查看项目](https://github.com/iKunpw/auto-ncmdump)
 
 ---
 
 ### ⭐ hslr-s/sun-panel
 > hslr-s/sun-panel - [[ 简体中文 ]](https://sun-panel-doc.enianteam.com/zh_cn/introduce/project.html) |
 
-⭐ **4974 Star**
+📝 A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。
 
-[🔗 GitHub](https://github.com/hslr-s/sun-panel)
+🛠️ **主要语言:** Vue
+⭐ **4974 Star** | 🍴 **586 Fork**
+📅 **最后更新:** 2026-02-25
+
+[🔗 查看项目](https://github.com/hslr-s/sun-panel)
 
 ---
 
 ### ⭐ aiyangdie/merchant-appeal
 > aiyangdie/merchant-appeal - [![License](https://img.shields.io/badge/License-MIT-F59E0B?style=for-the-badge)](LICENSE)
 
-⭐ **1 Star**
+📝 merchant-appeal
 
-[🔗 GitHub](https://github.com/aiyangdie/merchant-appeal)
+🛠️ **主要语言:** JavaScript
+⭐ **1 Star**
+📅 **最后更新:** 2026-02-14
+
+[🔗 查看项目](https://github.com/aiyangdie/merchant-appeal)
 
 ---
 
 ### ⭐ umlx5h/LLPlayer
 > umlx5h/LLPlayer - <p align="center"><img height="96" src="./LLPlayer.png"></p>
 
-⭐ **3176 Star**
+📝 The media player for language learning, with dual subtitles, AI-generated subtitles, real-time translation, and more!
 
-[🔗 GitHub](https://github.com/umlx5h/LLPlayer)
+🛠️ **主要语言:** C#
+⭐ **3176 Star** | 🍴 **158 Fork**
+📅 **最后更新:** 2026-02-25
+
+[🔗 查看项目](https://github.com/umlx5h/LLPlayer)
 
 ---
 
 ### ⭐ aiyangdie/yourusername-pony-swf-player
 > aiyangdie/yourusername-pony-swf-player - 一个专为小马宝莉粉丝设计的可爱风格SWF文件播放器，粉色主题，彩虹元素，少女心满满！
 
-⭐ **1 Star**
+📝 小马宝莉 SWF 播放器
 
-[🔗 GitHub](https://github.com/aiyangdie/yourusername-pony-swf-player)
+🛠️ **主要语言:** Python
+⭐ **1 Star**
+📅 **最后更新:** 2026-01-25
+
+[🔗 查看项目](https://github.com/aiyangdie/yourusername-pony-swf-player)
 
 ---
 
 ### ⭐ aiyangdie/aiyangdie
 > aiyangdie/aiyangdie - <p align="center">
 
-⭐ **1 Star**
+📝 Config files for my GitHub profile.
 
-[🔗 GitHub](https://github.com/aiyangdie/aiyangdie)
+🛠️ **主要语言:** Python
+⭐ **1 Star**
+📅 **最后更新:** 2026-02-25
+
+[🔗 查看项目](https://github.com/aiyangdie/aiyangdie)
 
 ---
 
 ### ⭐ aiyangdie/spec-kit
 > aiyangdie/spec-kit - <div align="center">
 
-⭐ **1 Star**
+📝 💫 Toolkit to help you get started with Spec-Driven Development
 
-[🔗 GitHub](https://github.com/aiyangdie/spec-kit)
+🛠️ **主要语言:** None
+⭐ **1 Star**
+📅 **最后更新:** 2026-01-13
+
+[🔗 查看项目](https://github.com/aiyangdie/spec-kit)
 
 ---
 
 ### ⭐ github/spec-kit
 > github/spec-kit - <div align="center">
 
-⭐ **72001 Star**
+📝 💫 Toolkit to help you get started with Spec-Driven Development
 
-[🔗 GitHub](https://github.com/github/spec-kit)
+🛠️ **主要语言:** Python
+⭐ **72003 Star** | 🍴 **6199 Fork**
+📅 **最后更新:** 2026-02-25
+
+[🔗 查看项目](https://github.com/github/spec-kit)
 
 ---
 
 ### ⭐ KouriChat/KouriChat
 > KouriChat/KouriChat - 在虚拟与现实交织的微光边界，悄然绽放着一份永恒而温柔的羁绊。或许你的身影朦胧，游走于真实与幻梦之间，但指尖轻触的温暖，心底荡漾的涟漪，却是此刻最真挚、最动人的慰藉。
 
-⭐ **3155 Star**
+📝 【禁止接入微信、QQ等腾讯系软件】接入第三方平台。基于LLM的更逼真的情感陪伴程序。More realistic emotional companionship program based LLM, meet the characters in your dream.
 
-[🔗 GitHub](https://github.com/KouriChat/KouriChat)
+🛠️ **主要语言:** Python
+⭐ **3155 Star** | 🍴 **425 Fork**
+📅 **最后更新:** 2026-02-25
+
+[🔗 查看项目](https://github.com/KouriChat/KouriChat)
 
 ---
 
 ### ⭐ KHwang9883/MobileModels
 > KHwang9883/MobileModels - 汇总各厂商上市的手机型号与对应的传播名。
 
-⭐ **4087 Star**
+📝 手机品牌型号汇总 | Mobile Models | This repository is licensed under CC BY-NC-SA 4.0
 
-[🔗 GitHub](https://github.com/KHwang9883/MobileModels)
+🛠️ **主要语言:** None
+⭐ **4087 Star** | 🍴 **489 Fork**
+📅 **最后更新:** 2026-02-25
+
+[🔗 查看项目](https://github.com/KHwang9883/MobileModels)
 
 ---
 
 ### ⭐ Haskely/image_stitching
 > Haskely/image_stitching - 一个简单易用的在线图片拼接工具，支持多张图片的竖向拼接和拖拽式裁剪，完美支持移动设备和触摸屏操作。
 
-⭐ **1 Star**
+📝 一个简单易用的在线图片拼接工具，支持多张图片的竖向拼接和拖拽式裁剪，完美支持移动设备和触摸屏操作。
 
-[🔗 GitHub](https://github.com/Haskely/image_stitching)
+🛠️ **主要语言:** HTML
+⭐ **1 Star**
+📅 **最后更新:** 2025-12-22
+
+[🔗 查看项目](https://github.com/Haskely/image_stitching)
 
 ---
 
 ### ⭐ QIN2DIM/epic-awesome-gamer
 > QIN2DIM/epic-awesome-gamer - <div align="center">
 
-⭐ **1097 Star**
+📝 🍷 Gracefully claim weekly free games and monthly content from Epic Store.
 
-[🔗 GitHub](https://github.com/QIN2DIM/epic-awesome-gamer)
+🛠️ **主要语言:** Python
+⭐ **1097 Star** | 🍴 **417 Fork**
+📅 **最后更新:** 2026-02-25
+
+[🔗 查看项目](https://github.com/QIN2DIM/epic-awesome-gamer)
 
 ---
 
 ### ⭐ xiaoyugansz/MiniVoting
 > xiaoyugansz/MiniVoting - - 投票活动十分火，商家，企业，机构偶尔都会来一场投票活动评选，本小程序支持图文投票，简单方便、随时随地完成投票，可以方便设定投票模式（按天按全程，投票数限定）。
 
-⭐ **2 Star**
+📝 通用投票小程序，功能包括主题设置, 选项设置,规则设置,分享设置 ,结果统计,本代码前后端完整代码包投票列表，投票分类，投票动态，排行榜，生成投票海报，生成单个项目投票海报等，采用腾讯提供的小程序云开发解决方案，无须服务器和域名
 
-[🔗 GitHub](https://github.com/xiaoyugansz/MiniVoting)
+🛠️ **主要语言:** JavaScript
+⭐ **2 Star**
+📅 **最后更新:** 2025-12-01
+
+[🔗 查看项目](https://github.com/xiaoyugansz/MiniVoting)
 
 ---
 
 ### ⭐ PCL-Community/PCL-CE
 > PCL-Community/PCL-CE - **简体中文** | [English](README-EN.md) | [繁體中文](README-ZH_TW.md)
 
-⭐ **3613 Star**
+📝 PCL 社区版 由社区开发者维护与管理
 
-[🔗 GitHub](https://github.com/PCL-Community/PCL-CE)
+🛠️ **主要语言:** Visual Basic .NET
+⭐ **3613 Star** | 🍴 **62 Fork**
+📅 **最后更新:** 2026-02-25
+
+[🔗 查看项目](https://github.com/PCL-Community/PCL-CE)
 
 ---
 
 ### ⭐ NapNeko/NapCatQQ
 > NapNeko/NapCatQQ - <div align="center">
 
-⭐ **7428 Star**
+📝 Modern protocol-side framework based on NTQQ
 
-[🔗 GitHub](https://github.com/NapNeko/NapCatQQ)
+🛠️ **主要语言:** TypeScript
+⭐ **7428 Star** | 🍴 **639 Fork**
+📅 **最后更新:** 2026-02-25
+
+[🔗 查看项目](https://github.com/NapNeko/NapCatQQ)
 
 ---
 
 ### ⭐ xiayouran/Musicer
 > xiayouran/Musicer - <p align="center">
 
-⭐ **246 Star**
+📝 旨在将网易云、酷狗、QQ、酷我等各音乐平台集于一体
 
-[🔗 GitHub](https://github.com/xiayouran/Musicer)
+🛠️ **主要语言:** Python
+⭐ **246 Star** | 🍴 **28 Fork**
+📅 **最后更新:** 2026-01-10
+
+[🔗 查看项目](https://github.com/xiayouran/Musicer)
 
 ---
 
 ### ⭐ jiuhunwl/music_jx
 > jiuhunwl/music_jx - 本工具用于解析音乐真实链接，获取音乐的详细信息，如音乐地址、封面图、作者信息等。
 
-⭐ **49 Star**
+📝 音乐解析api，目前支持平台：网易云音乐，汽水音乐，酷我音乐。
 
-[🔗 GitHub](https://github.com/jiuhunwl/music_jx)
+🛠️ **主要语言:** PHP
+⭐ **49 Star** | 🍴 **11 Fork**
+📅 **最后更新:** 2026-02-04
+
+[🔗 查看项目](https://github.com/jiuhunwl/music_jx)
 
 ---
 
 ### ⭐ jiuhunwl/short_videos
 > jiuhunwl/short_videos - <div align="center">
 
-⭐ **303 Star**
+📝 支持平台:网易云，抖音，快手，小红书，汽水音乐，微博，bilibili，皮皮虾，皮皮搞笑等，支持短视频图集去水印
 
-[🔗 GitHub](https://github.com/jiuhunwl/short_videos)
+🛠️ **主要语言:** PHP
+⭐ **303 Star** | 🍴 **79 Fork**
+📅 **最后更新:** 2026-02-25
+
+[🔗 查看项目](https://github.com/jiuhunwl/short_videos)
 
 ---
 
 ### ⭐ amir1376/ab-download-manager
 > amir1376/ab-download-manager - <div align="center">
 
-⭐ **13645 Star**
+📝 A Download Manager that speeds up your downloads
 
-[🔗 GitHub](https://github.com/amir1376/ab-download-manager)
+🛠️ **主要语言:** Kotlin
+⭐ **13645 Star** | 🍴 **696 Fork**
+📅 **最后更新:** 2026-02-25
+
+[🔗 查看项目](https://github.com/amir1376/ab-download-manager)
 
 ---
 
 ### ⭐ DWHengr/linyu-client
 > DWHengr/linyu-client - <p align="center">
 
-⭐ **427 Star**
+📝 im system client
 
-[🔗 GitHub](https://github.com/DWHengr/linyu-client)
+🛠️ **主要语言:** JavaScript
+⭐ **427 Star** | 🍴 **105 Fork**
+📅 **最后更新:** 2026-02-23
+
+[🔗 查看项目](https://github.com/DWHengr/linyu-client)
 
 ---
 
@@ -609,252 +784,324 @@
 ### 📁 aiyangdie
 > Config files for my GitHub profile.
 
-[🔗 GitHub](https://github.com/aiyangdie/aiyangdie)
+🛠️ **主要语言:** Python | ⭐ **1 Star**
+
+[🔗 查看项目](https://github.com/aiyangdie/aiyangdie)
 
 ---
 
 ### 📁 merchant-appeal
 > merchant-appeal
 
-[🔗 GitHub](https://github.com/aiyangdie/merchant-appeal)
+🛠️ **主要语言:** JavaScript | ⭐ **1 Star**
+
+[🔗 查看项目](https://github.com/aiyangdie/merchant-appeal)
 
 ---
 
 ### 📁 yourusername-pony-swf-player
 > 小马宝莉 SWF 播放器
 
-[🔗 GitHub](https://github.com/aiyangdie/yourusername-pony-swf-player)
+🛠️ **主要语言:** Python | ⭐ **1 Star**
+
+[🔗 查看项目](https://github.com/aiyangdie/yourusername-pony-swf-player)
 
 ---
 
 ### 📁 spec-kit
 > 💫 Toolkit to help you get started with Spec-Driven Development
 
-[🔗 GitHub](https://github.com/aiyangdie/spec-kit)
+🛠️ **主要语言:** None | ⭐ **1 Star**
+
+[🔗 查看项目](https://github.com/aiyangdie/spec-kit)
 
 ---
 
 ### 📁 aiyangtongxue
 > aiyangtongxue
 
-[🔗 GitHub](https://github.com/aiyangdie/aiyangtongxue)
+🛠️ **主要语言:** None
+
+[🔗 查看项目](https://github.com/aiyangdie/aiyangtongxue)
 
 ---
 
 ### 📁 PhonePriceVista
 > 一个美观易用的手机价格展示与对比平台，支持多品牌筛选、价格区间过滤、库存状态筛选和关键词搜索。基于 React + TypeScript + Material-UI 构建，适合手机销售、比价和信息展示场景。
 
-[🔗 GitHub](https://github.com/aiyangdie/PhonePriceVista)
+🛠️ **主要语言:** JavaScript
+
+[🔗 查看项目](https://github.com/aiyangdie/PhonePriceVista)
 
 ---
 
 ### 📁 -ContractAI
 > 智律ContractAI
 
-[🔗 GitHub](https://github.com/aiyangdie/-ContractAI)
+🛠️ **主要语言:** TypeScript
+
+[🔗 查看项目](https://github.com/aiyangdie/-ContractAI)
 
 ---
 
 ### 📁 xiaohongshu-mcp
 > MCP for xiaohongshu.com
 
-[🔗 GitHub](https://github.com/aiyangdie/xiaohongshu-mcp)
+🛠️ **主要语言:** None
+
+[🔗 查看项目](https://github.com/aiyangdie/xiaohongshu-mcp)
 
 ---
 
 ### 📁 get_jobs
 > 💼【AI找工作助手】全平台自动投简历脚本：(boss、前程无忧、猎聘、拉勾、智联招聘)
 
-[🔗 GitHub](https://github.com/aiyangdie/get_jobs)
+🛠️ **主要语言:** None
+
+[🔗 查看项目](https://github.com/aiyangdie/get_jobs)
 
 ---
 
 ### 📁 InfiniteTalk
 > ​​Unlimited-length talking video generation​​ that supports image-to-video and video-to-video generation
 
-[🔗 GitHub](https://github.com/aiyangdie/InfiniteTalk)
+🛠️ **主要语言:** None
+
+[🔗 查看项目](https://github.com/aiyangdie/InfiniteTalk)
 
 ---
 
 ### 📁 WeixinBot
 > 网页版微信API，包含终端版微信及微信机器人
 
-[🔗 GitHub](https://github.com/aiyangdie/WeixinBot)
+🛠️ **主要语言:** None
+
+[🔗 查看项目](https://github.com/aiyangdie/WeixinBot)
 
 ---
 
 ### 📁 file-transfer-go
 > Go/React开发的端到端webrtc的文件传输/文字传输/桌面共享，安全，隐私，数据不经过服务器。
 
-[🔗 GitHub](https://github.com/aiyangdie/file-transfer-go)
+🛠️ **主要语言:** None
+
+[🔗 查看项目](https://github.com/aiyangdie/file-transfer-go)
 
 ---
 
 ### 📁 Dynamic-Background-Navigator
 > Dynamic-Background-Navigator
 
-[🔗 GitHub](https://github.com/aiyangdie/Dynamic-Background-Navigator)
+🛠️ **主要语言:** HTML
+
+[🔗 查看项目](https://github.com/aiyangdie/Dynamic-Background-Navigator)
 
 ---
 
 ### 📁 MiniMind-in-Depth
 > 轻量级大语言模型MiniMind的源码解读，包含tokenizer、RoPE、MoE、KV Cache、pretraining、SFT、LoRA、DPO等完整流程
 
-[🔗 GitHub](https://github.com/aiyangdie/MiniMind-in-Depth)
+🛠️ **主要语言:** None
+
+[🔗 查看项目](https://github.com/aiyangdie/MiniMind-in-Depth)
 
 ---
 
 ### 📁 minimind
 > 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
 
-[🔗 GitHub](https://github.com/aiyangdie/minimind)
+🛠️ **主要语言:** None
+
+[🔗 查看项目](https://github.com/aiyangdie/minimind)
 
 ---
 
 ### 📁 minimind-v
 > 🚀 「大模型」1小时从0训练26M参数的视觉多模态VLM！🌏 Train a 26M-parameter VLM from scratch in just 1 hours!
 
-[🔗 GitHub](https://github.com/aiyangdie/minimind-v)
+🛠️ **主要语言:** None
+
+[🔗 查看项目](https://github.com/aiyangdie/minimind-v)
 
 ---
 
 ### 📁 wechat-whack-a-mole
 > wechat-whack-a-mole
 
-[🔗 GitHub](https://github.com/aiyangdie/wechat-whack-a-mole)
+🛠️ **主要语言:** JavaScript | ⭐ **1 Star**
+
+[🔗 查看项目](https://github.com/aiyangdie/wechat-whack-a-mole)
 
 ---
 
 ### 📁 CodeCraft-AI-
 > CodeCraft AI 
 
-[🔗 GitHub](https://github.com/aiyangdie/CodeCraft-AI-)
+🛠️ **主要语言:** HTML
+
+[🔗 查看项目](https://github.com/aiyangdie/CodeCraft-AI-)
 
 ---
 
 ### 📁 DropIt-Advanced-Profiles
 > DropIt-Advanced-Profiles
 
-[🔗 GitHub](https://github.com/aiyangdie/DropIt-Advanced-Profiles)
+🛠️ **主要语言:** CSS
+
+[🔗 查看项目](https://github.com/aiyangdie/DropIt-Advanced-Profiles)
 
 ---
 
 ### 📁 qrcode
 > qrcode
 
-[🔗 GitHub](https://github.com/aiyangdie/qrcode)
+🛠️ **主要语言:** HTML
+
+[🔗 查看项目](https://github.com/aiyangdie/qrcode)
 
 ---
 
 ### 📁 VIPVideoParser
 > VIPVideoParser
 
-[🔗 GitHub](https://github.com/aiyangdie/VIPVideoParser)
+🛠️ **主要语言:** PHP
+
+[🔗 查看项目](https://github.com/aiyangdie/VIPVideoParser)
 
 ---
 
 ### 📁 Computer-Auto-Installation-Tools
 > Computer Auto-Installation Tools
 
-[🔗 GitHub](https://github.com/aiyangdie/Computer-Auto-Installation-Tools)
+🛠️ **主要语言:** Batchfile
+
+[🔗 查看项目](https://github.com/aiyangdie/Computer-Auto-Installation-Tools)
 
 ---
 
 ### 📁 Mood-Station-H5-Version
 > Mood Station H5 Version
 
-[🔗 GitHub](https://github.com/aiyangdie/Mood-Station-H5-Version)
+🛠️ **主要语言:** CSS
+
+[🔗 查看项目](https://github.com/aiyangdie/Mood-Station-H5-Version)
 
 ---
 
 ### 📁 Zodiac-Showcase
 > Zodiac Showcase
 
-[🔗 GitHub](https://github.com/aiyangdie/Zodiac-Showcase)
+🛠️ **主要语言:** HTML
+
+[🔗 查看项目](https://github.com/aiyangdie/Zodiac-Showcase)
 
 ---
 
 ### 📁 feiji
 > 太空战机游戏
 
-[🔗 GitHub](https://github.com/aiyangdie/feiji)
+🛠️ **主要语言:** JavaScript
+
+[🔗 查看项目](https://github.com/aiyangdie/feiji)
 
 ---
 
 ### 📁 -Xin-Qing-Yi-Zhan
 > 心情驿站 Xin Qing Yi Zhan
 
-[🔗 GitHub](https://github.com/aiyangdie/-Xin-Qing-Yi-Zhan)
+🛠️ **主要语言:** JavaScript
+
+[🔗 查看项目](https://github.com/aiyangdie/-Xin-Qing-Yi-Zhan)
 
 ---
 
 ### 📁 AI-Cloud-Network
 >  AI Cloud Network
 
-[🔗 GitHub](https://github.com/aiyangdie/AI-Cloud-Network)
+🛠️ **主要语言:** HTML
+
+[🔗 查看项目](https://github.com/aiyangdie/AI-Cloud-Network)
 
 ---
 
 ### 📁 QuickCompress
 > QuickCompress
 
-[🔗 GitHub](https://github.com/aiyangdie/QuickCompress)
+🛠️ **主要语言:** JavaScript | ⭐ **1 Star**
+
+[🔗 查看项目](https://github.com/aiyangdie/QuickCompress)
 
 ---
 
 ### 📁 Ai-Technology-Cloud-Network
 > Ai Technology Cloud Network
 
-[🔗 GitHub](https://github.com/aiyangdie/Ai-Technology-Cloud-Network)
+🛠️ **主要语言:** HTML
+
+[🔗 查看项目](https://github.com/aiyangdie/Ai-Technology-Cloud-Network)
 
 ---
 
 ### 📁 RevenueParser
 > RevenueParser
 
-[🔗 GitHub](https://github.com/aiyangdie/RevenueParser)
+🛠️ **主要语言:** HTML
+
+[🔗 查看项目](https://github.com/aiyangdie/RevenueParser)
 
 ---
 
 ### 📁 KnowledgeLinkerX
 > KnowledgeLinkerX
 
-[🔗 GitHub](https://github.com/aiyangdie/KnowledgeLinkerX)
+🛠️ **主要语言:** HTML
+
+[🔗 查看项目](https://github.com/aiyangdie/KnowledgeLinkerX)
 
 ---
 
 ### 📁 internal-chat
 > internal-chat
 
-[🔗 GitHub](https://github.com/aiyangdie/internal-chat)
+🛠️ **主要语言:** JavaScript
+
+[🔗 查看项目](https://github.com/aiyangdie/internal-chat)
 
 ---
 
 ### 📁 ictupian
 > IC intelligent image compression
 
-[🔗 GitHub](https://github.com/aiyangdie/ictupian)
+🛠️ **主要语言:** JavaScript
+
+[🔗 查看项目](https://github.com/aiyangdie/ictupian)
 
 ---
 
 ### 📁 retro-games-hub
 > retro-games-hub
 
-[🔗 GitHub](https://github.com/aiyangdie/retro-games-hub)
+🛠️ **主要语言:** JavaScript
+
+[🔗 查看项目](https://github.com/aiyangdie/retro-games-hub)
 
 ---
 
 ### 📁 Bookmark-Validator
 > Bookmark-Validator
 
-[🔗 GitHub](https://github.com/aiyangdie/Bookmark-Validator)
+🛠️ **主要语言:** HTML
+
+[🔗 查看项目](https://github.com/aiyangdie/Bookmark-Validator)
 
 ---
 
 ### 📁 VideoHub
 > VideoHub
 
-[🔗 GitHub](https://github.com/aiyangdie/VideoHub)
+🛠️ **主要语言:** CSS
+
+[🔗 查看项目](https://github.com/aiyangdie/VideoHub)
 
 ---
 
