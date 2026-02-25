@@ -48,29 +48,9 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
-### 前端
-- **框架**: React 18、TypeScript
-- **UI库**: Material UI、Tailwind CSS
-- **特点**: 响应式布局、组件化设计
-
-### 后端
-- **语言**: Node.js、Go、Python
-- **框架**: Express
-- **数据库**: MySQL
-- **API**: REST API
-
-### 实时通信
-- **WebSocket** - 实时数据推送
-- **WebRTC** - DataChannel、ICE、STUN-TURN
-- **应用**: 文件传输、桌面共享
-
-### AI应用
-- **API**: Gemini API
-- **能力**: 本地运行、环境变量配置
-
 ---
 
-## 🚀 精选项目
+## 🚀 我的项目
 
 ### 📱 PhonePriceVista - 手机价格展示与对比平台
 > 一个美观易用的手机价格展示与对比平台，支持多品牌筛选、价格区间过滤、库存状态筛选和关键词搜索。基于 React + TypeScript + Material-UI 构建，适合手机销售、比价和信息展示场景。
@@ -116,7 +96,22 @@
 
 ---
 
-## 📁 全部项目
+### 💫 spec-kit - 规格驱动开发工具包
+> 💫 Toolkit to help you get started with Spec-Driven Development
+
+**技术栈**: Python
+
+**License**: MIT
+
+⭐ **1 Star**
+
+[🔗 GitHub](https://github.com/aiyangdie/spec-kit)
+
+---
+
+## 🌟 Star 项目（按Star排序）
+
+> ⏰ 本列表每7天自动检查更新一次
 
 ### 💫 spec-kit - 规格驱动开发工具包
 > 💫 Toolkit to help you get started with Spec-Driven Development
@@ -125,9 +120,13 @@
 
 **License**: MIT
 
+⭐ **1 Star**
+
 [🔗 GitHub](https://github.com/aiyangdie/spec-kit)
 
 ---
+
+## 📁 全部项目
 
 ### 🔗 MCP Xiaohongshu - 小红书MCP
 > MCP for xiaohongshu.com
@@ -269,6 +268,10 @@
 
 <p align="center">
   <i>⭐ 如果我的项目对你有帮助，欢迎 Star！</i>
+</p>
+
+<p align="center">
+  <i>⏰ 最后更新：2026-02-26 · 每7天自动检查更新</i>
 </p>
 
 <p align="center">
