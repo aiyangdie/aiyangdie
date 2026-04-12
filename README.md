@@ -1,31 +1,21 @@
 <div align="center">
 
-# 👋 Hi, I'm 艾阳 (aiyangdie)
-
-**Full-Stack Developer · AI Explorer · Open Source Enthusiast**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1F6FEB&height=180&section=header&text=Hi%20I'm%20%E8%89%BE%E9%98%B3%20%F0%9F%91%8B&fontSize=32&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20AI%20Explorer%20%C2%B7%20Open%20Source%20Enthusiast&descSize=16&descAlignY=55&descColor=8B949E"/>
 
 <p>
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Dev-blue?style=flat-square&logo=codeforces">
-  <img src="https://img.shields.io/badge/AI-Gemini%20%7C%20LLM-purple?style=flat-square&logo=google">
-  <img src="https://img.shields.io/badge/Realtime-WebRTC%20%7C%20P2P-green?style=flat-square&logo=webrtc">
-  <img src="https://img.shields.io/badge/Data-Crawler%20%7C%20Viz-orange?style=flat-square&logo=mysql">
+  <a href="mailto:aike1015@qq.com"><img src="https://img.shields.io/badge/Email-aike1015%40qq.com-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://aiyang.aike.ink/"><img src="https://img.shields.io/badge/Blog-aiyang.aike.ink-FF6600?style=flat-square&logo=blogger&logoColor=white"></a>
+  <a href="https://github.com/aiyangdie"><img src="https://img.shields.io/badge/GitHub-aiyangdie-181717?style=flat-square&logo=github&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Dev-1F6FEB?style=flat-square&logo=codeforces&logoColor=white">
+  <img src="https://img.shields.io/badge/AI-Gemini%20%7C%20LLM-A855F7?style=flat-square&logo=google&logoColor=white">
+  <img src="https://img.shields.io/badge/Realtime-WebRTC%20%7C%20P2P-22C55E?style=flat-square&logo=webrtc&logoColor=white">
 </p>
-
-<p>
-  <a href="mailto:aike1015@qq.com">📧 Email</a> ·
-  <a href="https://aiyang.aike.ink/">🌐 Blog</a> ·
-  <a href="https://github.com/aiyangdie">🐙 GitHub</a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=aiyangdie&style=flat-square&color=blue" alt="Profile Views">
 
 </div>
 
----
-
 ## 🧑‍💻 About Me
 
-> CS graduate (2024), passionate about building products from 0→1. I focus on crafting delightful user experiences with clean, maintainable code.
+> CS graduate (2024), passionate about building products from **0 → 1**. I focus on crafting delightful user experiences with clean, maintainable code.
 
 - 🎨 **Frontend Engineering** — React, TypeScript, component-driven architecture
 - 🔗 **Realtime Communication** — WebRTC P2P file transfer, screen sharing, text chat
@@ -36,117 +26,140 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
-  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<table><tr><td valign="top" width="50%">
+
+**Frontend**
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=mui&logoColor=white">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
 </p>
+
+**Backend**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/ThinkPHP-5491DE?style=flat-square">
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
+</p>
+
+</td><td valign="top" width="50%">
+
+**Database & Infra**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
+  <img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white">
+</p>
+
+**AI & Communication**
+<p>
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white">
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+</p>
+
+</td></tr></table>
 
 ---
 
 ## 🌍 Open Source Projects (Public)
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**PhonePriceVista**](https://github.com/aiyangdie/PhonePriceVista) | Phone price comparison platform with multi-brand filtering & search | React · TypeScript · Material-UI |
-| [**-ContractAI**](https://github.com/aiyangdie/-ContractAI) | AI-powered multi-language contract generator | React · TypeScript · Google Gemini |
-| [**file-transfer-go**](https://github.com/aiyangdie/file-transfer-go) | End-to-end WebRTC file transfer, text chat & screen sharing | Go · React · WebRTC |
-| [**merchant-appeal**](https://github.com/aiyangdie/merchant-appeal) | Merchant account appeal & complaint management system | Node.js · Express · React |
-| [**get_jobs**](https://github.com/aiyangdie/get_jobs) | AI job application assistant — auto-apply across 5+ platforms | Java · Selenium |
-| [**InfiniteTalk**](https://github.com/aiyangdie/InfiniteTalk) | Unlimited-length talking video generation (image/video-to-video) | Python · PyTorch |
-| [**QuickCompress**](https://github.com/aiyangdie/QuickCompress) ⭐ | Client-side batch image compression with ZIP download | JavaScript · Canvas API |
-| [**xiaohongshu-mcp**](https://github.com/aiyangdie/xiaohongshu-mcp) | MCP server for xiaohongshu.com integration | Python · MCP |
-| [**WeixinBot**](https://github.com/aiyangdie/WeixinBot) | Web WeChat API with terminal client & bot framework | Python |
-| [**ictupian**](https://github.com/aiyangdie/ictupian) | Lightweight online image compression (50-80% reduction) | JavaScript · Canvas API |
-| [**VideoHub**](https://github.com/aiyangdie/VideoHub) | Online video parsing for Bilibili, iQiyi, Youku, YouTube | JavaScript · PHP |
-| [**VIPVideoParser**](https://github.com/aiyangdie/VIPVideoParser) | VIP video parsing platform for Chinese streaming sites | PHP · JavaScript |
-| [**internal-chat**](https://github.com/aiyangdie/internal-chat) | LAN P2P text & file transfer via WebRTC, zero-login | JavaScript · WebRTC |
-| [**Bookmark-Validator**](https://github.com/aiyangdie/Bookmark-Validator) | Batch bookmark link availability checker with drag-and-drop | HTML · JavaScript |
-| [**retro-games-hub**](https://github.com/aiyangdie/retro-games-hub) | Classic retro games collection with pixel-art design | HTML5 · Canvas |
-| [**wechat-whack-a-mole**](https://github.com/aiyangdie/wechat-whack-a-mole) ⭐ | Whack-a-mole mini-game for WeChat with animations & SFX | WeChat Mini Program |
-| [**CodeCraft-AI-**](https://github.com/aiyangdie/CodeCraft-AI-) | AI assistant showcase with glassmorphism & particle effects | HTML · CSS · JavaScript |
-| [**Dynamic-Background-Navigator**](https://github.com/aiyangdie/Dynamic-Background-Navigator) | Web navigation page with dynamic backgrounds & glassmorphism | HTML · CSS |
-| [**KnowledgeLinkerX**](https://github.com/aiyangdie/KnowledgeLinkerX) | WeChat Mini Program navigation hub with QR codes | HTML · CSS |
-| [**RevenueParser**](https://github.com/aiyangdie/RevenueParser) | Ad revenue dashboard with Chart.js visualizations | HTML · Chart.js |
-| [**MiniMind-in-Depth**](https://github.com/aiyangdie/MiniMind-in-Depth) | Source code walkthrough of lightweight LLM MiniMind | Markdown |
-| [**minimind**](https://github.com/aiyangdie/minimind) | 26M-parameter GPT trained from scratch in 2 hours | Python · PyTorch |
-| [**minimind-v**](https://github.com/aiyangdie/minimind-v) | 26M-parameter multimodal VLM trained from scratch | Python · PyTorch |
-| [**spec-kit**](https://github.com/aiyangdie/spec-kit) ⭐ | Toolkit for Spec-Driven Development | — |
-| [**yourusername-pony-swf-player**](https://github.com/aiyangdie/yourusername-pony-swf-player) ⭐ | My Little Pony SWF Flash player & viewer | Python |
-| [**qrcode**](https://github.com/aiyangdie/qrcode) | Pure front-end QR code generator with modern UI | HTML · JavaScript |
-| [**DropIt-Advanced-Profiles**](https://github.com/aiyangdie/DropIt-Advanced-Profiles) | Auto-classification profiles for Windows DropIt organizer | INI · CSS |
-| [**Computer-Auto-Installation-Tools**](https://github.com/aiyangdie/Computer-Auto-Installation-Tools) | Automated software installation toolkit for dev setup | Batchfile |
-| [**Zodiac-Showcase**](https://github.com/aiyangdie/Zodiac-Showcase) | Interactive zodiac sign display with modern UI | HTML · CSS · JavaScript |
-| [**Mood-Station-H5-Version**](https://github.com/aiyangdie/Mood-Station-H5-Version) | Mobile-friendly mood tracking & wellness web app | HTML · CSS |
-| [**feiji**](https://github.com/aiyangdie/feiji) | Space fighter arcade game built with Canvas | JavaScript · Canvas |
-| [**-Xin-Qing-Yi-Zhan**](https://github.com/aiyangdie/-Xin-Qing-Yi-Zhan) | Mood Station — mental wellness & mood tracking app | React · Tailwind CSS |
-| [**AI-Cloud-Network**](https://github.com/aiyangdie/AI-Cloud-Network) | AI Cloud Network — cloud service landing page | HTML |
-| [**Ai-Technology-Cloud-Network**](https://github.com/aiyangdie/Ai-Technology-Cloud-Network) | AI Technology consulting & business services platform | HTML · CSS |
-| [**NovaBrowser**](https://github.com/aiyangdie/NovaBrowser) | Modern web browser concept with privacy-first design | — |
-| [**env-installer**](https://github.com/aiyangdie/env-installer) | Enterprise dev environment installer with self-healing | — |
+<table>
+<tr><th>Project</th><th>Description</th><th>Stack</th></tr>
+<tr><td><a href="https://github.com/aiyangdie/PhonePriceVista"><b>PhonePriceVista</b></a></td><td>📱 Phone price comparison platform with multi-brand filtering & search</td><td>React · TypeScript · Material-UI</td></tr>
+<tr><td><a href="https://github.com/aiyangdie/-ContractAI"><b>ContractAI</b></a></td><td>⚖️ AI-powered multi-language contract generator</td><td>React · TypeScript · Gemini</td></tr>
+<tr><td><a href="https://github.com/aiyangdie/file-transfer-go"><b>file-transfer-go</b></a></td><td>🔗 End-to-end WebRTC file transfer, text chat & screen sharing</td><td>Go · React · WebRTC</td></tr>
+<tr><td><a href="https://github.com/aiyangdie/merchant-appeal"><b>merchant-appeal</b></a></td><td>📋 Merchant account appeal & complaint management system</td><td>Node.js · Express · React</td></tr>
+<tr><td><a href="https://github.com/aiyangdie/get_jobs"><b>get_jobs</b></a></td><td>💼 AI job application assistant — auto-apply across 5+ platforms</td><td>Java · Selenium</td></tr>
+<tr><td><a href="https://github.com/aiyangdie/InfiniteTalk"><b>InfiniteTalk</b></a></td><td>🎬 Unlimited-length talking video generation</td><td>Python · PyTorch</td></tr>
+<tr><td><a href="https://github.com/aiyangdie/QuickCompress"><b>QuickCompress</b></a> ⭐</td><td>🖼️ Client-side batch image compression with ZIP download</td><td>JavaScript · Canvas API</td></tr>
+<tr><td><a href="https://github.com/aiyangdie/xiaohongshu-mcp"><b>xiaohongshu-mcp</b></a></td><td>📕 MCP server for xiaohongshu.com integration</td><td>Python · MCP</td></tr>
+<tr><td><a href="https://github.com/aiyangdie/WeixinBot"><b>WeixinBot</b></a></td><td>🤖 Web WeChat API with terminal client & bot framework</td><td>Python</td></tr>
+<tr><td><a href="https://github.com/aiyangdie/ictupian"><b>ictupian</b></a></td><td>🗜️ Lightweight online image compression (50-80% reduction)</td><td>JavaScript · Canvas API</td></tr>
+<tr><td><a href="https://github.com/aiyangdie/VideoHub"><b>VideoHub</b></a></td><td>📺 Online video parsing for Bilibili, iQiyi, Youku, YouTube</td><td>JavaScript · PHP</td></tr>
+<tr><td><a href="https://github.com/aiyangdie/VIPVideoParser"><b>VIPVideoParser</b></a></td><td>🎥 VIP video parsing platform for Chinese streaming sites</td><td>PHP · JavaScript</td></tr>
+<tr><td><a href="https://github.com/aiyangdie/internal-chat"><b>internal-chat</b></a></td><td>💬 LAN P2P text & file transfer via WebRTC, zero-login</td><td>JavaScript · WebRTC</td></tr>
+<tr><td><a href="https://github.com/aiyangdie/Bookmark-Validator"><b>Bookmark-Validator</b></a></td><td>🔖 Batch bookmark link availability checker</td><td>HTML · JavaScript</td></tr>
+<tr><td><a href="https://github.com/aiyangdie/retro-games-hub"><b>retro-games-hub</b></a></td><td>🎮 Classic retro games collection with pixel-art design</td><td>HTML5 · Canvas</td></tr>
+<tr><td><a href="https://github.com/aiyangdie/wechat-whack-a-mole"><b>wechat-whack-a-mole</b></a> ⭐</td><td>🔨 Whack-a-mole mini-game for WeChat</td><td>WeChat Mini Program</td></tr>
+<tr><td><a href="https://github.com/aiyangdie/CodeCraft-AI-"><b>CodeCraft-AI</b></a></td><td>✨ AI assistant showcase with glassmorphism & particles</td><td>HTML · CSS · JavaScript</td></tr>
+<tr><td><a href="https://github.com/aiyangdie/Dynamic-Background-Navigator"><b>Dynamic-Background-Navigator</b></a></td><td>🌐 Web navigation page with dynamic backgrounds</td><td>HTML · CSS</td></tr>
+<tr><td><a href="https://github.com/aiyangdie/KnowledgeLinkerX"><b>KnowledgeLinkerX</b></a></td><td>📲 WeChat Mini Program navigation hub</td><td>HTML · CSS</td></tr>
+<tr><td><a href="https://github.com/aiyangdie/RevenueParser"><b>RevenueParser</b></a></td><td>📊 Ad revenue dashboard with Chart.js</td><td>HTML · Chart.js</td></tr>
+<tr><td><a href="https://github.com/aiyangdie/MiniMind-in-Depth"><b>MiniMind-in-Depth</b></a></td><td>🧠 Source code walkthrough of lightweight LLM MiniMind</td><td>Markdown</td></tr>
+<tr><td><a href="https://github.com/aiyangdie/minimind"><b>minimind</b></a></td><td>🚀 26M-parameter GPT trained from scratch in 2h</td><td>Python · PyTorch</td></tr>
+<tr><td><a href="https://github.com/aiyangdie/minimind-v"><b>minimind-v</b></a></td><td>👁️ 26M-parameter multimodal VLM from scratch</td><td>Python · PyTorch</td></tr>
+<tr><td><a href="https://github.com/aiyangdie/spec-kit"><b>spec-kit</b></a> ⭐</td><td>📐 Toolkit for Spec-Driven Development</td><td>—</td></tr>
+<tr><td><a href="https://github.com/aiyangdie/yourusername-pony-swf-player"><b>pony-swf-player</b></a> ⭐</td><td>🦄 My Little Pony SWF Flash player & viewer</td><td>Python</td></tr>
+<tr><td><a href="https://github.com/aiyangdie/qrcode"><b>qrcode</b></a></td><td>📱 Pure front-end QR code generator</td><td>HTML · JavaScript</td></tr>
+<tr><td><a href="https://github.com/aiyangdie/DropIt-Advanced-Profiles"><b>DropIt-Profiles</b></a></td><td>📁 Auto-classification profiles for Windows DropIt</td><td>INI · CSS</td></tr>
+<tr><td><a href="https://github.com/aiyangdie/Computer-Auto-Installation-Tools"><b>Auto-Install-Tools</b></a></td><td>⚙️ Automated software installation toolkit</td><td>Batchfile</td></tr>
+<tr><td><a href="https://github.com/aiyangdie/Zodiac-Showcase"><b>Zodiac-Showcase</b></a></td><td>♈ Interactive zodiac sign display</td><td>HTML · CSS · JavaScript</td></tr>
+<tr><td><a href="https://github.com/aiyangdie/Mood-Station-H5-Version"><b>Mood-Station-H5</b></a></td><td>😌 Mobile-friendly mood tracking & wellness app</td><td>HTML · CSS</td></tr>
+<tr><td><a href="https://github.com/aiyangdie/feiji"><b>feiji</b></a></td><td>✈️ Space fighter arcade game</td><td>JavaScript · Canvas</td></tr>
+<tr><td><a href="https://github.com/aiyangdie/-Xin-Qing-Yi-Zhan"><b>Xin-Qing-Yi-Zhan</b></a></td><td>💚 Mood Station — mental wellness app</td><td>React · Tailwind CSS</td></tr>
+<tr><td><a href="https://github.com/aiyangdie/AI-Cloud-Network"><b>AI-Cloud-Network</b></a></td><td>☁️ AI Cloud service landing page</td><td>HTML</td></tr>
+<tr><td><a href="https://github.com/aiyangdie/Ai-Technology-Cloud-Network"><b>AI-Tech-Cloud</b></a></td><td>🏢 AI Technology consulting platform</td><td>HTML · CSS</td></tr>
+<tr><td><a href="https://github.com/aiyangdie/NovaBrowser"><b>NovaBrowser</b></a></td><td>🌐 Privacy-first browser concept</td><td>—</td></tr>
+<tr><td><a href="https://github.com/aiyangdie/env-installer"><b>env-installer</b></a></td><td>🛠️ Enterprise dev environment installer</td><td>—</td></tr>
+</table>
 
 ---
 
 ## 🔒 Private Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**FishShop-Manager**](https://github.com/aiyangdie/FishShop-Manager) | Aquarium fish shop management with order tracking & AI features | Python · Flask · MySQL |
-| [**HandCraft-Al-**](https://github.com/aiyangdie/HandCraft-Al-) | AI handcrafted newspaper/poster designer with A4 print & PNG export | React · TypeScript · Gemini |
-| [**KnowledaePay-Backend**](https://github.com/aiyangdie/KnowledaePay-Backend) | Knowledge payment platform backend | ThinkPHP · MySQL |
-| [**PageIndex**](https://github.com/aiyangdie/PageIndex) | Intelligent PDF table-of-contents extraction with RAG support | Python |
-| [**merchant-appeal-ai**](https://github.com/aiyangdie/merchant-appeal-ai) | AI-powered merchant appeal automation & intelligent response | Python · AI |
-| [**merchant-appeal-v2**](https://github.com/aiyangdie/merchant-appeal-v2) | Upgraded merchant appeal platform with browser automation | Node.js · React · Playwright |
-| [**merchant-appeal-workspace**](https://github.com/aiyangdie/merchant-appeal-workspace) | Integrated workspace for merchant appeal with AI Skills | Node.js · JavaScript |
-| [**merchant-workbench**](https://github.com/aiyangdie/merchant-workbench) | Merchant operations dashboard with appeal & document management | Python |
-| [**mp-weixin**](https://github.com/aiyangdie/mp-weixin) | WeChat Mini Program knowledge payment platform | JavaScript · WeChat |
-| [**Van-Quang-Pham**](https://github.com/aiyangdie/Van-Quang-Pham) | AI children's English word newspaper generator | React · TypeScript · Gemini |
+<table>
+<tr><th>Project</th><th>Description</th><th>Stack</th></tr>
+<tr><td><a href="https://github.com/aiyangdie/FishShop-Manager"><b>FishShop-Manager</b></a></td><td>🐟 Aquarium fish shop management with order tracking & AI</td><td>Python · Flask · MySQL</td></tr>
+<tr><td><a href="https://github.com/aiyangdie/HandCraft-Al-"><b>HandCraft-AI</b></a></td><td>🎨 AI handcrafted newspaper/poster designer</td><td>React · TypeScript · Gemini</td></tr>
+<tr><td><a href="https://github.com/aiyangdie/KnowledaePay-Backend"><b>KnowledgePay</b></a></td><td>💰 Knowledge payment platform backend</td><td>ThinkPHP · MySQL</td></tr>
+<tr><td><a href="https://github.com/aiyangdie/PageIndex"><b>PageIndex</b></a></td><td>📄 Intelligent PDF TOC extraction with RAG</td><td>Python</td></tr>
+<tr><td><a href="https://github.com/aiyangdie/merchant-appeal-ai"><b>merchant-appeal-ai</b></a></td><td>🤖 AI-powered merchant appeal automation</td><td>Python · AI</td></tr>
+<tr><td><a href="https://github.com/aiyangdie/merchant-appeal-v2"><b>merchant-appeal-v2</b></a></td><td>📋 Upgraded appeal platform with browser automation</td><td>Node.js · React · Playwright</td></tr>
+<tr><td><a href="https://github.com/aiyangdie/merchant-appeal-workspace"><b>merchant-appeal-workspace</b></a></td><td>🏠 Integrated workspace for appeal management</td><td>Node.js · JavaScript</td></tr>
+<tr><td><a href="https://github.com/aiyangdie/merchant-workbench"><b>merchant-workbench</b></a></td><td>📊 Merchant operations dashboard</td><td>Python</td></tr>
+<tr><td><a href="https://github.com/aiyangdie/mp-weixin"><b>mp-weixin</b></a></td><td>📲 WeChat Mini Program knowledge payment</td><td>JavaScript · WeChat</td></tr>
+<tr><td><a href="https://github.com/aiyangdie/Van-Quang-Pham"><b>Van-Quang-Pham</b></a></td><td>📚 AI children's English word newspaper generator</td><td>React · TypeScript · Gemini</td></tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aiyangdie&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiyangdie&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%">
-</p>
+## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aiyangdie&theme=radical&hide_border=true" alt="GitHub Streak" width="70%">
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aiyangdie&theme=github-compact&hide_border=true&area=true" width="100%" alt="Activity Graph">
+
+<img src="https://github-readme-stats.vercel.app/api?username=aiyangdie&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=8B949E" width="48%" alt="Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiyangdie&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" width="48%" alt="Top Languages">
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 📫 Get in Touch
 
-<p align="center">
-  <a href="mailto:aike1015@qq.com">
-    <img src="https://img.shields.io/badge/Email-aike1015%40qq.com-blue?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://aiyang.aike.ink/">
-    <img src="https://img.shields.io/badge/Blog-aiyang.aike.ink-orange?style=for-the-badge&logo=blogger">
-  </a>
-  <a href="https://github.com/aiyangdie">
-    <img src="https://img.shields.io/badge/GitHub-aiyangdie-black?style=for-the-badge&logo=github">
-  </a>
-</p>
+<a href="mailto:aike1015@qq.com"><img src="https://img.shields.io/badge/Email-aike1015%40qq.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://aiyang.aike.ink/"><img src="https://img.shields.io/badge/Blog-aiyang.aike.ink-FF6600?style=for-the-badge&logo=blogger&logoColor=white"></a>
+<a href="https://github.com/aiyangdie"><img src="https://img.shields.io/badge/GitHub-aiyangdie-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 
 ---
 
-<p align="center">
-  <i>⭐ If my projects help you, a Star would be awesome!</i>
-</p>
+<i>⭐ If my projects help you, a Star would be awesome!</i>
 
-<p align="center">
-  Made with ❤️ by <b>艾阳</b>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1F6FEB&height=100&section=footer"/>
+
+</div>
