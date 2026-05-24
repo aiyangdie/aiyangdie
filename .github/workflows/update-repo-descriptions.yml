@@ -1,0 +1,23 @@
+name: Update Repo Descriptions
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Patch all public repo descriptions and user bio
+        env:
+          # 在仓库 Settings → Secrets 添加 GH_PAT（classic token，勾选 repo 权限）
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+        run: python scripts/update_repo_descriptions.py
