@@ -1,0 +1,394 @@
+﻿[
+    {
+        "name":  "AI-Cloud-Network",
+        "desc":  "☁️ AI 云服务品牌落地页 | 科技感视觉 · 产品展示",
+        "lang":  "HTML",
+        "stars":  0,
+        "fork":  false,
+        "url":  "https://github.com/aiyangdie/AI-Cloud-Network"
+    },
+    {
+        "name":  "Ai-Technology-Cloud-Network",
+        "desc":  "🏢 AI 科技云网络官网 | 企业注册/IP 服务 · 咨询转化页",
+        "lang":  "HTML",
+        "stars":  0,
+        "fork":  false,
+        "url":  "https://github.com/aiyangdie/Ai-Technology-Cloud-Network"
+    },
+    {
+        "name":  "aiyangdie",
+        "desc":  "👤 GitHub 个人主页配置仓库 | Profile README · 项目导航",
+        "lang":  "Python",
+        "stars":  1,
+        "fork":  false,
+        "url":  "https://github.com/aiyangdie/aiyangdie"
+    },
+    {
+        "name":  "aiyangtongxue",
+        "desc":  "👤 个人 GitHub Profile README",
+        "lang":  null,
+        "stars":  0,
+        "fork":  false,
+        "url":  "https://github.com/aiyangdie/aiyangtongxue"
+    },
+    {
+        "name":  "A-Stock-Quant",
+        "desc":  "📈 A 股量化研究工具 | 数据分析 · 策略回测探索",
+        "lang":  "Python",
+        "stars":  0,
+        "fork":  false,
+        "url":  "https://github.com/aiyangdie/A-Stock-Quant"
+    },
+    {
+        "name":  "Bookmark-Validator",
+        "desc":  "🔖 书签批量可用性检测 | 拖拽导入 · 死链扫描 · 纯前端",
+        "lang":  "HTML",
+        "stars":  0,
+        "fork":  false,
+        "url":  "https://github.com/aiyangdie/Bookmark-Validator"
+    },
+    {
+        "name":  "cf-game",
+        "desc":  "??????? - GitHub Pages",
+        "lang":  "JavaScript",
+        "stars":  0,
+        "fork":  false,
+        "url":  "https://github.com/aiyangdie/cf-game"
+    },
+    {
+        "name":  "CodeCraft-AI-",
+        "desc":  "✨ AI 助手展示页 | 玻璃拟态 · 粒子背景 · 响应式设计",
+        "lang":  "HTML",
+        "stars":  0,
+        "fork":  false,
+        "url":  "https://github.com/aiyangdie/CodeCraft-AI-"
+    },
+    {
+        "name":  "Computer-Auto-Installation-Tools",
+        "desc":  "⚙️ Windows 软件批量自动安装工具包 | 开发环境快速部署",
+        "lang":  "Batchfile",
+        "stars":  0,
+        "fork":  false,
+        "url":  "https://github.com/aiyangdie/Computer-Auto-Installation-Tools"
+    },
+    {
+        "name":  "-ContractAI",
+        "desc":  "⚖️ AI 多语言合同生成器 | React + Gemini · 法务文档自动化 · 一键导出",
+        "lang":  "TypeScript",
+        "stars":  0,
+        "fork":  false,
+        "url":  "https://github.com/aiyangdie/-ContractAI"
+    },
+    {
+        "name":  "DropIt-Advanced-Profiles",
+        "desc":  "📁 Windows DropIt 智能分类配置 | 自动归档规则集",
+        "lang":  "CSS",
+        "stars":  0,
+        "fork":  false,
+        "url":  "https://github.com/aiyangdie/DropIt-Advanced-Profiles"
+    },
+    {
+        "name":  "Dynamic-Background-Navigator",
+        "desc":  "🌐 动态背景导航主页 | 书签管理 · 毛玻璃 UI · 高颜值",
+        "lang":  "HTML",
+        "stars":  0,
+        "fork":  false,
+        "url":  "https://github.com/aiyangdie/Dynamic-Background-Navigator"
+    },
+    {
+        "name":  "ecommerce-platform",
+        "desc":  "??????? - Spring Boot + Vue3 + uni-app ????",
+        "lang":  "Vue",
+        "stars":  1,
+        "fork":  false,
+        "url":  "https://github.com/aiyangdie/ecommerce-platform"
+    },
+    {
+        "name":  "env-installer",
+        "desc":  "🛠️ 企业级开发环境一键安装器 | 多源回退 · 自愈修复 · Windows/macOS",
+        "lang":  null,
+        "stars":  0,
+        "fork":  false,
+        "url":  "https://github.com/aiyangdie/env-installer"
+    },
+    {
+        "name":  "feiji",
+        "desc":  "✈️ 经典太空射击小游戏 | Canvas · 街机手感 · 纯 JS",
+        "lang":  "JavaScript",
+        "stars":  0,
+        "fork":  false,
+        "url":  "https://github.com/aiyangdie/feiji"
+    },
+    {
+        "name":  "file-transfer-go",
+        "desc":  "🔗 端到端 WebRTC 文件传输 | Go + React · 文字聊天 · 屏幕共享 · 不经服务器中转",
+        "lang":  null,
+        "stars":  0,
+        "fork":  true,
+        "url":  "https://github.com/aiyangdie/file-transfer-go"
+    },
+    {
+        "name":  "get_jobs",
+        "desc":  "💼 AI 求职助手 | Java + Selenium · 支持 Boss/智联/猎聘/拉勾等自动投递",
+        "lang":  null,
+        "stars":  0,
+        "fork":  true,
+        "url":  "https://github.com/aiyangdie/get_jobs"
+    },
+    {
+        "name":  "honor-zone",
+        "desc":  "Honor Zone Web",
+        "lang":  "Python",
+        "stars":  0,
+        "fork":  false,
+        "url":  "https://github.com/aiyangdie/honor-zone"
+    },
+    {
+        "name":  "ictupian",
+        "desc":  "🗜️ 轻量在线图片压缩 | WebP/PNG/JPEG · 50-80% 体积缩减 · 浏览器端处理",
+        "lang":  "JavaScript",
+        "stars":  0,
+        "fork":  false,
+        "url":  "https://github.com/aiyangdie/ictupian"
+    },
+    {
+        "name":  "InfiniteTalk",
+        "desc":  "🎬 无限时长数字人视频生成 | 图生视频/视频驱动 · Python · PyTorch",
+        "lang":  null,
+        "stars":  0,
+        "fork":  true,
+        "url":  "https://github.com/aiyangdie/InfiniteTalk"
+    },
+    {
+        "name":  "internal-chat",
+        "desc":  "💬 局域网 P2P 即时通讯 | WebRTC · 文件传输 · 免登录 · 零配置",
+        "lang":  "JavaScript",
+        "stars":  0,
+        "fork":  false,
+        "url":  "https://github.com/aiyangdie/internal-chat"
+    },
+    {
+        "name":  "KnowledgeLinkerX",
+        "desc":  "📲 微信小程序导航聚合 | 二维码收录 · 分类检索",
+        "lang":  "HTML",
+        "stars":  0,
+        "fork":  false,
+        "url":  "https://github.com/aiyangdie/KnowledgeLinkerX"
+    },
+    {
+        "name":  "merchant-appeal",
+        "desc":  "📋 商户申诉与投诉管理平台 | Node.js + React 全栈 · 工单流转 · 自动化工作流",
+        "lang":  "JavaScript",
+        "stars":  1,
+        "fork":  false,
+        "url":  "https://github.com/aiyangdie/merchant-appeal"
+    },
+    {
+        "name":  "minimind",
+        "desc":  "🧠 26M 参数大模型从零训练 | PyTorch · 完整预训练/SFT/LoRA 流水线 · 2 小时可跑通",
+        "lang":  null,
+        "stars":  0,
+        "fork":  true,
+        "url":  "https://github.com/aiyangdie/minimind"
+    },
+    {
+        "name":  "MiniMind-in-Depth",
+        "desc":  "📖 MiniMind 源码深度精读 | Tokenizer/RoPE/MoE/KV Cache · 中文技术文档",
+        "lang":  null,
+        "stars":  0,
+        "fork":  true,
+        "url":  "https://github.com/aiyangdie/MiniMind-in-Depth"
+    },
+    {
+        "name":  "minimind-v",
+        "desc":  "👁️ 26M 参数多模态 VLM 从零实现 | 视觉-语言模型 · PyTorch · 轻量可部署",
+        "lang":  null,
+        "stars":  0,
+        "fork":  true,
+        "url":  "https://github.com/aiyangdie/minimind-v"
+    },
+    {
+        "name":  "Mood-Station-H5-Version",
+        "desc":  "😌 情绪记录 H5 应用 | 移动端适配 · 心理健康轻工具",
+        "lang":  "CSS",
+        "stars":  0,
+        "fork":  false,
+        "url":  "https://github.com/aiyangdie/Mood-Station-H5-Version"
+    },
+    {
+        "name":  "NovaBrowser",
+        "desc":  "🌐 隐私优先浏览器概念设计 | 安全浏览 · 现代交互原型",
+        "lang":  null,
+        "stars":  0,
+        "fork":  false,
+        "url":  "https://github.com/aiyangdie/NovaBrowser"
+    },
+    {
+        "name":  "openhanako",
+        "desc":  "🌸 个人 AI Agent | 长期记忆 · 人格化对话 · 自主任务执行",
+        "lang":  null,
+        "stars":  0,
+        "fork":  true,
+        "url":  "https://github.com/aiyangdie/openhanako"
+    },
+    {
+        "name":  "PhonePriceVista",
+        "desc":  "📱 手机比价平台 | React + TypeScript + MUI · 多品牌筛选 · 实时搜索",
+        "lang":  "JavaScript",
+        "stars":  0,
+        "fork":  false,
+        "url":  "https://github.com/aiyangdie/PhonePriceVista"
+    },
+    {
+        "name":  "qrcode",
+        "desc":  "📱 纯前端二维码生成器 | 即时预览 · 多尺寸导出 · 现代 UI",
+        "lang":  "HTML",
+        "stars":  0,
+        "fork":  false,
+        "url":  "https://github.com/aiyangdie/qrcode"
+    },
+    {
+        "name":  "QuickCompress",
+        "desc":  "🖼️ 纯前端批量图片压缩 | 拖拽上传 · ZIP 打包下载 · 零服务器 · 隐私安全",
+        "lang":  "JavaScript",
+        "stars":  1,
+        "fork":  false,
+        "url":  "https://github.com/aiyangdie/QuickCompress"
+    },
+    {
+        "name":  "qushuiyin",
+        "desc":  "💧 去水印小程序后端 API | 图像处理 · 接口服务",
+        "lang":  null,
+        "stars":  0,
+        "fork":  false,
+        "url":  "https://github.com/aiyangdie/qushuiyin"
+    },
+    {
+        "name":  "retro-games-hub",
+        "desc":  "🎮 经典复古游戏合集 | HTML5 Canvas · 像素风 · 浏览器即开即玩",
+        "lang":  "JavaScript",
+        "stars":  0,
+        "fork":  false,
+        "url":  "https://github.com/aiyangdie/retro-games-hub"
+    },
+    {
+        "name":  "RevenueParser",
+        "desc":  "📊 广告收益数据看板 | Chart.js · 趋势/饼图/堆叠图可视化",
+        "lang":  "HTML",
+        "stars":  0,
+        "fork":  false,
+        "url":  "https://github.com/aiyangdie/RevenueParser"
+    },
+    {
+        "name":  "spec-kit",
+        "desc":  "📐 Spec-Driven Development 工具集 | 规范驱动开发 · GitHub 官方 Fork",
+        "lang":  null,
+        "stars":  1,
+        "fork":  true,
+        "url":  "https://github.com/aiyangdie/spec-kit"
+    },
+    {
+        "name":  "SysPulse",
+        "desc":  "⚡ Windows 硬件全景监控 | CPU/GPU/内存/磁盘/网络实时诊断 · 0-100 综合评分 · MIT 开源",
+        "lang":  "Python",
+        "stars":  0,
+        "fork":  false,
+        "url":  "https://github.com/aiyangdie/SysPulse"
+    },
+    {
+        "name":  "VideoHub",
+        "desc":  "📺 多平台视频解析播放 | B站/腾讯/爱奇艺/优酷/YouTube · 聚合入口",
+        "lang":  "CSS",
+        "stars":  0,
+        "fork":  false,
+        "url":  "https://github.com/aiyangdie/VideoHub"
+    },
+    {
+        "name":  "VIPVideoParser",
+        "desc":  "🎥 主流视频网站 VIP 解析 | PHP + JS · 在线播放解决方案",
+        "lang":  "PHP",
+        "stars":  0,
+        "fork":  false,
+        "url":  "https://github.com/aiyangdie/VIPVideoParser"
+    },
+    {
+        "name":  "wechat-whack-a-mole",
+        "desc":  "🔨 微信打地鼠小游戏 | 动画音效 · 计分排行 · 小程序",
+        "lang":  "JavaScript",
+        "stars":  1,
+        "fork":  false,
+        "url":  "https://github.com/aiyangdie/wechat-whack-a-mole"
+    },
+    {
+        "name":  "WeFlow",
+        "desc":  "💬 微信聊天记录本地导出与年度报告 | 隐私本地化处理 · 数据可视化",
+        "lang":  null,
+        "stars":  1,
+        "fork":  true,
+        "url":  "https://github.com/aiyangdie/WeFlow"
+    },
+    {
+        "name":  "WeidianComplaintTool",
+        "desc":  "🛒 微店投诉管理爬虫工具 | 自动化采集 · 工单处理",
+        "lang":  "Python",
+        "stars":  0,
+        "fork":  false,
+        "url":  "https://github.com/aiyangdie/WeidianComplaintTool"
+    },
+    {
+        "name":  "WeixinBot",
+        "desc":  "🤖 网页微信 API + 终端客户端 | Python 机器人框架 · 消息自动化",
+        "lang":  null,
+        "stars":  0,
+        "fork":  true,
+        "url":  "https://github.com/aiyangdie/WeixinBot"
+    },
+    {
+        "name":  "WexOpen",
+        "desc":  "🚀 Windows 微信多开助手 | 自动识别路径 · 纯净版/商业版 · PyInstaller 免安装 exe · CI 自动发布",
+        "lang":  "Python",
+        "stars":  1,
+        "fork":  false,
+        "url":  "https://github.com/aiyangdie/WexOpen"
+    },
+    {
+        "name":  "wilderness-survival",
+        "desc":  "2D wilderness survival game",
+        "lang":  "JavaScript",
+        "stars":  0,
+        "fork":  false,
+        "url":  "https://github.com/aiyangdie/wilderness-survival"
+    },
+    {
+        "name":  "xiaohongshu-mcp",
+        "desc":  "📕 小红书 MCP 服务 | Model Context Protocol · AI Agent 工具链集成",
+        "lang":  null,
+        "stars":  0,
+        "fork":  true,
+        "url":  "https://github.com/aiyangdie/xiaohongshu-mcp"
+    },
+    {
+        "name":  "-Xin-Qing-Yi-Zhan",
+        "desc":  "💚 心情驿站 | React + Tailwind · 情绪追踪 · 心理健康",
+        "lang":  "JavaScript",
+        "stars":  0,
+        "fork":  false,
+        "url":  "https://github.com/aiyangdie/-Xin-Qing-Yi-Zhan"
+    },
+    {
+        "name":  "yourusername-pony-swf-player",
+        "desc":  "🦄 MLP Flash SWF 播放器 | Python · 本地解析与浏览",
+        "lang":  "Python",
+        "stars":  2,
+        "fork":  false,
+        "url":  "https://github.com/aiyangdie/yourusername-pony-swf-player"
+    },
+    {
+        "name":  "Zodiac-Showcase",
+        "desc":  "♈ 星座互动展示页 | 运势查询 · 现代 UI 动效",
+        "lang":  "HTML",
+        "stars":  0,
+        "fork":  false,
+        "url":  "https://github.com/aiyangdie/Zodiac-Showcase"
+    }
+]
