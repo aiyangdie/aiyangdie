@@ -1,24 +1,20 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1F6FEB&height=220&section=header&text=%E8%89%BE%E9%98%B3%20%C2%B7%20aiyangdie&fontSize=36&fontColor=58A6FF&animation=fadeIn&fontAlignY=30&desc=Full-Stack%20%C2%B7%20AI%20Application%20%C2%B7%20Indie%20Product%200%E2%86%921&descSize=14&descAlignY=56&descColor=8B949E"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1F6FEB&height=220&section=header&text=%E8%89%BE%E9%98%B3%20%C2%B7%20aiyangdie&fontSize=36&fontColor=58A6FF&animation=fadeIn&fontAlignY=30&desc=Full-Stack%20%C2%B7%20AI%20SaaS%20%C2%B7%20WeChat%20%26%20Payment%20Ecosystem&descSize=14&descAlignY=56&descColor=8B949E"/>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+products+that+ship+%E2%80%94+not+just+slides;%E5%85%A8%E6%A0%88%E5%B7%A5%E7%A8%8B%E5%B8%88+%C2%B7+AI+%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91+%C2%B7+49+%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE" alt="Typing" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/角色-全栈工程师_&_独立产品人-1F6FEB?style=for-the-badge">
-  <img src="https://img.shields.io/badge/开源仓库-49-brightgreen?style=for-the-badge">
-  <img src="https://img.shields.io/badge/擅长-AI_·_WebRTC_·_Python_·_React-A855F7?style=for-the-badge">
-  <img src="https://img.shields.io/badge/交付-可安装_·_可部署_·_可维护-21262D?style=for-the-badge">
+  <img src="https://img.shields.io/badge/全栈工程师_&_独立开发者-1F6FEB?style=for-the-badge">
+  <img src="https://img.shields.io/badge/公开仓库-46-brightgreen?style=for-the-badge">
+  <img src="https://img.shields.io/badge/商业项目-私有化运营-21262D?style=for-the-badge">
+  <img src="https://img.shields.io/badge/交付-可部署_·_可维护_·_可迭代-A855F7?style=for-the-badge">
 </p>
 
 <p>
   <a href="mailto:aike1015@qq.com"><img src="https://img.shields.io/badge/📧-aike1015@qq.com-EA4335?style=flat-square"></a>
-  <a href="https://aiyang.aike.ink/"><img src="https://img.shields.io/badge/🌐-aiyang.aike.ink-FF6600?style=flat-square"></a>
-  <a href="https://github.com/aiyangdie?tab=repositories"><img src="https://img.shields.io/badge/📦-全部仓库-181717?style=flat-square"></a>
-  <a href="https://github.com/aiyangdie/honor-zone"><img src="https://img.shields.io/badge/🎮-荣耀战区_honor--zone-58A6FF?style=flat-square"></a>
-  <a href="https://github.com/aiyangdie/WexOpen/releases"><img src="https://img.shields.io/badge/⬇️-WexOpen_Release-07C160?style=flat-square"></a>
+  <a href="https://aike.ink/"><img src="https://img.shields.io/badge/🌐-aike.ink-FF6600?style=flat-square"></a>
+  <a href="https://appeal.aikex.ink/chat/"><img src="https://img.shields.io/badge/🚀-商户申诉_AI-58A6FF?style=flat-square"></a>
+  <a href="https://open.aikex.ink/docs"><img src="https://img.shields.io/badge/📖-OAuth_中控文档-07C160?style=flat-square"></a>
+  <a href="https://github.com/aiyangdie/WexOpen/releases"><img src="https://img.shields.io/badge/⬇️-WexOpen_Release-181717?style=flat-square"></a>
 </p>
 
 </div>
@@ -27,84 +23,85 @@
 
 ## 👋 关于我
 
-**艾阳（[@aiyangdie](https://github.com/aiyangdie)）** — 计算机科班出身，长期专注 **从 0 到 1 的可交付产品**。
+**艾阳（[@aiyangdie](https://github.com/aiyangdie)）** — 计算机科班背景，**独立全栈开发者**，专注把想法做成**可上线、可运维、可持续迭代**的产品。
 
-我能独立完成 **需求拆解 → 架构设计 → 前后端实现 → 部署上线 → CI/CD**，把想法落成**可安装、可访问、可维护**的软件；在 AI 应用、实时通信与工具类产品上有大量实战仓库。
+我能独立完成 **需求分析 → 架构设计 → 前后端实现 → 支付/OAuth 对接 → 部署上线**，在 **AI 应用（RAG / Agent / 流式对话）**、**微信生态（公众号 OAuth、小程序、商户申诉）** 与 **工具型产品** 上有大量实战。
 
-| 能力域 | 代表方向 |
+| 能力域 | 实战方向 |
 |--------|----------|
-| 🎨 **前端工程** | React / TypeScript · 组件化 · 深色主题与移动端适配 |
-| ⚙️ **后端 & 数据** | Python Flask · Node.js · Go · MySQL · Redis |
-| 🤖 **AI 应用** | Gemini · LLM 微调 · MCP · Agent 工作流 |
-| 🔗 **实时通信** | WebRTC P2P · 文件传输 · 屏幕共享 |
-| 📦 **产品交付** | PyInstaller · Render/Railway · GitHub Actions 自动发布 |
+| 🎨 **前端** | React · Vite · Vue · TypeScript · 移动端 H5 · 深色 UI |
+| ⚙️ **后端** | Node.js · PHP · Python Flask · Go · ThinkPHP |
+| 🤖 **AI 工程** | 多模型接入 · SSE 流式 · RAG · Prompt 编排 · Agent 工作流 |
+| 💳 **支付 & OAuth** | 微信/支付宝官方 · 易支付聚合 · 多域名 OAuth 中控 |
+| 📦 **交付** | PM2 · Nginx · Docker · GitHub Actions · 凭据外置与加固 |
 
-> 💡 **原则**：体验优先 · 代码可维护 · **能跑起来比 PPT 更重要**
+> **原则**：能跑起来比 PPT 重要 · 体验优先 · 代码可维护 · 商业核心私有化、工具/demo 开源分享
 
 ---
 
-## 🔥 精选项目
+## 🚀 正在运营的产品
 
-> 共 **49** 个公开仓库 · 原创 **38** · Fork **11** · 持续更新中
+> 以下系统**已部署上线**；核心商业代码在私有仓库，此处展示能力与成果，不公开密钥与内网细节。
 
-### 🏆 原创开源（38）
+| 产品 | 线上地址 | 技术栈 | 说明 |
+|------|----------|--------|------|
+| **AI 商户申诉助手** | [appeal.aikex.ink](https://appeal.aikex.ink/chat/) | React · Node · MySQL · RAG | 对话式申诉咨询、材料生成、自进化知识库 |
+| **OAuth 多域名中控** | [open.aikex.ink](https://open.aikex.ink/docs) | ThinkPHP 6 | 微信/支付宝授权中转、域名白名单、Token 缓存 |
+| **艾科技商城** | [aike.ink](https://aike.ink/) | PHP · SQLite | 门户商城、多渠道结账、官方微信支付 |
+| **IC 图片压缩** | [ic.aikex.ink](https://ic.aikex.ink/) | 纯前端 | 浏览器端压缩，对应开源 [ictupian](https://github.com/aiyangdie/ictupian) |
+| **剪辑协作平台** | [Business.aike.ink](https://business.aike.ink/) | PHP · MySQL | 发布方/剪辑师 escrow、在线协作 |
+| **知识付费 H5** | [h5.aikex.ink](https://h5.aikex.ink/) | Vue 3 · ThinkPHP | 小程序 + H5 共用后端 |
 
-| 项目 | 简介 | 技术 |
+另有支付聚合、导航门户、影视小程序等 **10+ 独立站点** 同机运维；完整架构见私有文档，不对外公开源码。
+
+---
+
+## ⭐ 精选开源
+
+> **46** 个公开仓库 · **11** 个 Fork · 另有 **29** 个私有仓库存放商业系统源码
+
+### 🏆 主推项目
+
+| 项目 | 说明 | 技术 |
 |------|------|------|
-| [**yourusername-pony-swf-player**](https://github.com/aiyangdie/yourusername-pony-swf-player) ⭐2 | 🦄 MLP Flash SWF 播放器 | `Python` |
-| [**aiyangdie**](https://github.com/aiyangdie/aiyangdie) ⭐1 | 👤 GitHub 个人主页配置仓库 | `Python` |
-| [**ecommerce-platform**](https://github.com/aiyangdie/ecommerce-platform) ⭐1 | 电商平台全栈 · Spring Boot + Vue3 + uni-app | `Vue` |
-| [**merchant-appeal**](https://github.com/aiyangdie/merchant-appeal) ⭐1 | 📋 商户申诉与投诉管理平台 | `JavaScript` |
-| [**QuickCompress**](https://github.com/aiyangdie/QuickCompress) ⭐1 | 🖼️ 纯前端批量图片压缩 | `JavaScript` |
-| [**wechat-whack-a-mole**](https://github.com/aiyangdie/wechat-whack-a-mole) ⭐1 | 🔨 微信打地鼠小游戏 | `JavaScript` |
-| [**WexOpen**](https://github.com/aiyangdie/WexOpen) ⭐1 | 🚀 Windows 微信多开助手 | `Python` |
-| [**-ContractAI**](https://github.com/aiyangdie/-ContractAI) | ⚖️ AI 多语言合同生成器 | `TypeScript` |
-| [**-Xin-Qing-Yi-Zhan**](https://github.com/aiyangdie/-Xin-Qing-Yi-Zhan) | 💚 心情驿站 | `JavaScript` |
-| [**A-Stock-Quant**](https://github.com/aiyangdie/A-Stock-Quant) | 📈 A 股量化研究工具 | `Python` |
-| [**AI-Cloud-Network**](https://github.com/aiyangdie/AI-Cloud-Network) | ☁️ AI 云服务品牌落地页 | `HTML` |
-| [**Ai-Technology-Cloud-Network**](https://github.com/aiyangdie/Ai-Technology-Cloud-Network) | 🏢 AI 科技云网络官网 | `HTML` |
-| [**aiyangtongxue**](https://github.com/aiyangdie/aiyangtongxue) | 👤 个人 GitHub Profile README | `—` |
-| [**Bookmark-Validator**](https://github.com/aiyangdie/Bookmark-Validator) | 🔖 书签批量可用性检测 | `HTML` |
-| [**cf-game**](https://github.com/aiyangdie/cf-game) | 穿越火线风格小游戏 · GitHub Pages 在线游玩 | `JavaScript` |
-| [**CodeCraft-AI-**](https://github.com/aiyangdie/CodeCraft-AI-) | ✨ AI 助手展示页 | `HTML` |
-| [**Computer-Auto-Installation-Tools**](https://github.com/aiyangdie/Computer-Auto-Installation-Tools) | ⚙️ Windows 软件批量自动安装工具包 | `Batchfile` |
-| [**DropIt-Advanced-Profiles**](https://github.com/aiyangdie/DropIt-Advanced-Profiles) | 📁 Windows DropIt 智能分类配置 | `CSS` |
-| [**Dynamic-Background-Navigator**](https://github.com/aiyangdie/Dynamic-Background-Navigator) | 🌐 动态背景导航主页 | `HTML` |
-| [**env-installer**](https://github.com/aiyangdie/env-installer) | 🛠️ 企业级开发环境一键安装器 | `—` |
-| [**feiji**](https://github.com/aiyangdie/feiji) | ✈️ 经典太空射击小游戏 | `JavaScript` |
-| [**honor-zone**](https://github.com/aiyangdie/honor-zone) | 王者荣耀战力查询 + 战区排行榜演示 · Flask + MySQL + Redis | `Python` |
-| [**ictupian**](https://github.com/aiyangdie/ictupian) | 🗜️ 轻量在线图片压缩 | `JavaScript` |
-| [**internal-chat**](https://github.com/aiyangdie/internal-chat) | 💬 局域网 P2P 即时通讯 | `JavaScript` |
-| [**KnowledgeLinkerX**](https://github.com/aiyangdie/KnowledgeLinkerX) | 📲 微信小程序导航聚合 | `HTML` |
-| [**Mood-Station-H5-Version**](https://github.com/aiyangdie/Mood-Station-H5-Version) | 😌 情绪记录 H5 应用 | `CSS` |
-| [**NovaBrowser**](https://github.com/aiyangdie/NovaBrowser) | 🌐 隐私优先浏览器概念设计 | `—` |
-| [**PhonePriceVista**](https://github.com/aiyangdie/PhonePriceVista) | 📱 手机比价平台 | `JavaScript` |
-| [**qrcode**](https://github.com/aiyangdie/qrcode) | 📱 纯前端二维码生成器 | `HTML` |
-| [**qushuiyin**](https://github.com/aiyangdie/qushuiyin) | 💧 去水印小程序后端 API | `—` |
-| [**retro-games-hub**](https://github.com/aiyangdie/retro-games-hub) | 🎮 经典复古游戏合集 | `JavaScript` |
-| [**RevenueParser**](https://github.com/aiyangdie/RevenueParser) | 📊 广告收益数据看板 | `HTML` |
-| [**SysPulse**](https://github.com/aiyangdie/SysPulse) | ⚡ Windows 硬件全景监控 | `Python` |
-| [**VideoHub**](https://github.com/aiyangdie/VideoHub) | 📺 多平台视频解析播放 | `CSS` |
-| [**VIPVideoParser**](https://github.com/aiyangdie/VIPVideoParser) | 🎥 主流视频网站 VIP 解析 | `PHP` |
-| [**WeidianComplaintTool**](https://github.com/aiyangdie/WeidianComplaintTool) | 🛒 微店投诉管理爬虫工具 | `Python` |
-| [**wilderness-survival**](https://github.com/aiyangdie/wilderness-survival) | 2D 荒野生存游戏 · JavaScript Canvas | `JavaScript` |
-| [**Zodiac-Showcase**](https://github.com/aiyangdie/Zodiac-Showcase) | ♈ 星座互动展示页 | `HTML` |
+| [**WexOpen**](https://github.com/aiyangdie/WexOpen) | Windows 微信多开 · [Release 下载](https://github.com/aiyangdie/WexOpen/releases) · CI 自动构建 | `Python` |
+| [**ictupian**](https://github.com/aiyangdie/ictupian) | 轻量在线图片压缩 · 已部署 [ic.aikex.ink](https://ic.aikex.ink/) | `JavaScript` |
+| [**internal-chat**](https://github.com/aiyangdie/internal-chat) | 局域网 P2P 即时通讯 · WebRTC 文件传输 | `JavaScript` |
+| [**-ContractAI**](https://github.com/aiyangdie/-ContractAI) | AI 多语言合同生成 · React + Gemini | `TypeScript` |
+| [**cursor-boost**](https://github.com/aiyangdie/cursor-boost) | Cursor 故障排查与一键修复工具 | `Python` |
+| [**SysPulse**](https://github.com/aiyangdie/SysPulse) | Windows 硬件全景监控 · 0–100 综合评分 | `Python` |
+| [**QuickCompress**](https://github.com/aiyangdie/QuickCompress) | 纯前端批量图片压缩 · ZIP 打包 | `JavaScript` |
+| [**honor-zone**](https://github.com/aiyangdie/honor-zone) | 王者荣耀战力查询 · Flask + Redis | `Python` |
+| [**env-installer**](https://github.com/aiyangdie/env-installer) | 开发环境一键安装 · 多源回退 | `Shell` |
+| [**ecommerce-platform**](https://github.com/aiyangdie/ecommerce-platform) | 电商全栈 Demo · Spring Boot + Vue3 + uni-app | `Java` |
 
-### 🔗 Fork · 学习共建（11）
+### 🛠 工具 & 效率
 
-| 项目 | 简介 | 技术 |
-|------|------|------|
-| [**file-transfer-go**](https://github.com/aiyangdie/file-transfer-go) `fork` | 端到端 WebRTC 传文件 / 聊天 / 投屏 · Go + React | `—` |
-| [**get_jobs**](https://github.com/aiyangdie/get_jobs) `fork` | AI 求职自动投递 · Java · Selenium | `—` |
-| [**InfiniteTalk**](https://github.com/aiyangdie/InfiniteTalk) `fork` | 无限时长数字人视频生成 | `—` |
-| [**minimind**](https://github.com/aiyangdie/minimind) `fork` | 26M 参数大语言模型 · 从零训练 | `—` |
-| [**MiniMind-in-Depth**](https://github.com/aiyangdie/MiniMind-in-Depth) `fork` | MiniMind 深度解析与实验 | `—` |
-| [**minimind-v**](https://github.com/aiyangdie/minimind-v) `fork` | 26M 多模态 VLM · 从零训练 | `—` |
-| [**openhanako**](https://github.com/aiyangdie/openhanako) `fork` | 个人 AI Agent 助手 | `—` |
-| [**spec-kit**](https://github.com/aiyangdie/spec-kit) ⭐1 `fork` | 规范驱动开发工具集 · GitHub 官方 Fork | `—` |
-| [**WeFlow**](https://github.com/aiyangdie/WeFlow) ⭐1 `fork` | 微信聊天记录导出与年度报告 | `—` |
-| [**WeixinBot**](https://github.com/aiyangdie/WeixinBot) `fork` | 微信机器人框架 | `—` |
-| [**xiaohongshu-mcp**](https://github.com/aiyangdie/xiaohongshu-mcp) `fork` | 小红书 MCP 自动化服务 | `—` |
+[`wifi-speed-test`](https://github.com/aiyangdie/wifi-speed-test) · [`wechat-dual-open`](https://github.com/aiyangdie/wechat-dual-open) · [`Bookmark-Validator`](https://github.com/aiyangdie/Bookmark-Validator) · [`qrcode`](https://github.com/aiyangdie/qrcode) · [`train-monitor`](https://github.com/aiyangdie/train-monitor) · [`DropIt-Advanced-Profiles`](https://github.com/aiyangdie/DropIt-Advanced-Profiles) · [`Computer-Auto-Installation-Tools`](https://github.com/aiyangdie/Computer-Auto-Installation-Tools)
+
+### 🎮 互动 & Demo
+
+[`retro-games-hub`](https://github.com/aiyangdie/retro-games-hub) · [`cf-game`](https://github.com/aiyangdie/cf-game) · [`feiji`](https://github.com/aiyangdie/feiji) · [`wilderness-survival`](https://github.com/aiyangdie/wilderness-survival) · [`wechat-whack-a-mole`](https://github.com/aiyangdie/wechat-whack-a-mole) · [`Zodiac-Showcase`](https://github.com/aiyangdie/Zodiac-Showcase) · [`-Xin-Qing-Yi-Zhan`](https://github.com/aiyangdie/-Xin-Qing-Yi-Zhan)
+
+### 📚 Fork · 学习共建
+
+| 项目 | 说明 |
+|------|------|
+| [**minimind**](https://github.com/aiyangdie/minimind) / [**minimind-v**](https://github.com/aiyangdie/minimind-v) | 26M 参数 LLM / VLM 从零训练 |
+| [**spec-kit**](https://github.com/aiyangdie/spec-kit) | GitHub 官方 · 规范驱动开发 |
+| [**WeFlow**](https://github.com/aiyangdie/WeFlow) | 微信聊天记录本地导出与年度报告 |
+| [**openhanako**](https://github.com/aiyangdie/openhanako) | 个人 AI Agent |
+| [**xiaohongshu-mcp**](https://github.com/aiyangdie/xiaohongshu-mcp) | 小红书 MCP 服务 |
+| [**file-transfer-go**](https://github.com/aiyangdie/file-transfer-go) | WebRTC 端到端传文件 · Go + React |
+
+<details>
+<summary>📦 查看全部 46 个公开仓库</summary>
+
+<br>
+
+👉 **[github.com/aiyangdie?tab=repositories](https://github.com/aiyangdie?tab=repositories)**
+
+</details>
 
 ---
 
@@ -112,18 +109,17 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
   <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white">
+  <img src="https://img.shields.io/badge/WeChat-07C160?style=flat-square&logo=wechat&logoColor=white">
 </p>
 
 ---
@@ -148,14 +144,14 @@
 ## 📫 联系与合作
 
 <a href="mailto:aike1015@qq.com"><img src="https://img.shields.io/badge/Email-aike1015@qq.com-EA4335?style=for-the-badge&logo=gmail"></a>
-<a href="https://aiyang.aike.ink/"><img src="https://img.shields.io/badge/Blog-aiyang.aike.ink-FF6600?style=for-the-badge"></a>
+<a href="https://aike.ink/"><img src="https://img.shields.io/badge/Site-aike.ink-FF6600?style=for-the-badge"></a>
 <a href="https://github.com/aiyangdie"><img src="https://img.shields.io/badge/GitHub-@aiyangdie-181717?style=for-the-badge&logo=github"></a>
 
 <br><br>
 
-**欢迎 Star · Fork · Issue — 一起把工具做得更好用**
+**欢迎 Star · Issue · 技术合作 — 一起把工具做得更好用**
 
-<sub>独立开发 · 开源共建 · 技术咨询与合作请邮件联系</sub>
+<sub>开源工具/demo 公开 · 商业系统私有化 · 技术咨询请邮件联系</sub>
 
 <img src="https://komarev.com/ghpvc/?username=aiyangdie&label=Profile%20Views&color=1F6FEB&style=flat-square" alt="views">
 
