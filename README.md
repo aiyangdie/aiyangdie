@@ -1,4 +1,8 @@
-<!-- Profile README · aiyangdie · optimized for reliable image CDN -->
+<!--
+  Profile README · aiyangdie
+  说明：github-readme-stats.vercel.app 目前大量 503，故精选项目改用
+  GitHub 官方 opengraph.githubassets.com；统计改用 summary-cards。
+-->
 <div align="center">
 
 # 艾阳 · aiyangdie
@@ -66,22 +70,33 @@
 
 ### Pinned highlights
 
-<p align="center">
-  <a href="https://github.com/aiyangdie/WexOpen">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aiyangdie&repo=WexOpen&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="WexOpen" />
-  </a>
-  <a href="https://github.com/aiyangdie/ictupian">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aiyangdie&repo=ictupian&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="ictupian" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/aiyangdie/internal-chat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aiyangdie&repo=internal-chat&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="internal-chat" />
-  </a>
-  <a href="https://github.com/aiyangdie/cursor-boost">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aiyangdie&repo=cursor-boost&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="cursor-boost" />
-  </a>
-</p>
+<!-- 使用 GitHub 官方社交预览图（opengraph.githubassets.com），不依赖第三方 stats 服务 -->
+<table>
+<tr>
+<td width="50%">
+<a href="https://github.com/aiyangdie/WexOpen">
+<img src="https://opengraph.githubassets.com/1/aiyangdie/WexOpen" alt="WexOpen" width="100%" />
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/aiyangdie/ictupian">
+<img src="https://opengraph.githubassets.com/1/aiyangdie/ictupian" alt="ictupian" width="100%" />
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/aiyangdie/internal-chat">
+<img src="https://opengraph.githubassets.com/1/aiyangdie/internal-chat" alt="internal-chat" width="100%" />
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/aiyangdie/cursor-boost">
+<img src="https://opengraph.githubassets.com/1/aiyangdie/cursor-boost" alt="cursor-boost" width="100%" />
+</a>
+</td>
+</tr>
+</table>
 
 ### More projects
 
@@ -134,15 +149,18 @@
 
 ## GitHub stats
 
-<!-- Prefer vercel + demolab streaks (Heroku streak endpoint often dead) -->
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=aiyangdie&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&include_all_commits=true&count_private=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aiyangdie&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8)
+<!-- 官方 stats.vercel.app 当前 503；改用 summary-cards + demolab streak -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aiyangdie&theme=github_dark" alt="stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aiyangdie&theme=github_dark" alt="langs" />
 
-![Streak](https://streak-stats.demolab.com?user=aiyangdie&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aiyangdie&theme=github_dark" alt="commits" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aiyangdie&theme=github_dark&utcOffset=8" alt="time" />
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=aiyangdie&bg_color=0d1117&color=1f6feb&line=58a6ff&point=c9d1d9&area=true&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=aiyangdie&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF" alt="streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aiyangdie&bg_color=0d1117&color=1f6feb&line=58a6ff&point=c9d1d9&area=true&hide_border=true" alt="activity" width="95%" />
 
 </div>
 
