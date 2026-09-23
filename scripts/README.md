@@ -1,5 +1,10 @@
 # Profile README 维护脚本
 
+当前主页使用人工编排的商户业务介绍与项目导航，直接编辑根目录 `README.md`。
+`update_github_profile.py` 中的 `HANDCRAFTED_README = True` 会跳过旧版自动生成流程，请保留。
+`build_readme.py` 依赖旧版标题结构，不适用于当前主页，不要用它覆盖新版 README。
+下方命令保留作旧项目目录的维护参考；目录中的数量、星标和可见性须以实际查询时间为准。
+
 1. 拉取最新仓库列表（PowerShell）：
 
 ```powershell
@@ -16,9 +21,8 @@ $all | Sort-Object name | ForEach-Object {
 } | ConvertTo-Json -Depth 3 | Out-File -Encoding utf8 repos-all.json
 ```
 
-2. 生成并写入 README：
+2. 仅重新生成 `projects-section.md` 项目目录（不会改写主页）：
 
 ```bash
 python scripts/generate_projects.py
-python scripts/build_readme.py
 ```
