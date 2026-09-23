@@ -398,6 +398,13 @@ def send_email(subject, body):
 
 def main():
     """主函数"""
+    # Profile README is handcrafted (sparse / premium). Do not regenerate.
+    HANDCRAFTED_README = True
+    if HANDCRAFTED_README:
+        print("⏭  README.md is handcrafted — skip auto regenerate.")
+        print("   Set HANDCRAFTED_README = False only if you intentionally want the old generator.")
+        return
+
     username = GITHUB_USERNAME
     state = load_state()
     
