@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="200" viewBox="0 0 640 200">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#1a1005"/><stop offset="100%" stop-color="#0b1220"/></linearGradient></defs>
+  <rect width="640" height="200" rx="16" fill="url(#g)" stroke="#78350f"/>
+  <circle cx="56" cy="100" r="28" fill="#F59E0B" opacity="0.2"/>
+  <circle cx="56" cy="100" r="12" fill="#F59E0B"/>
+  <text x="108" y="78" font-family="ui-sans-serif,system-ui,Segoe UI,Arial" font-size="14" fill="#FCD34D" letter-spacing="2">LIVE PRODUCT</text>
+  <text x="108" y="118" font-family="ui-sans-serif,system-ui,Segoe UI,Arial" font-size="32" font-weight="700" fill="#F8FAFC">aike.ink 支付门户</text>
+  <text x="108" y="152" font-family="ui-sans-serif,system-ui,Segoe UI,Arial" font-size="16" fill="#94A3B8">商城 · 官方微信支付 · 多通道结算</text>
+  <text x="520" y="112" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="13" fill="#FBBF24">aike.ink →</text>
+</svg>

@@ -1,49 +1,84 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-label="aiyangdie profile">
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="460" viewBox="0 0 1280 460" role="img">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0b1220"/>
-      <stop offset="55%" stop-color="#0f1a14"/>
-      <stop offset="100%" stop-color="#0b1220"/>
+      <stop offset="0%" stop-color="#070B12"/>
+      <stop offset="50%" stop-color="#0C1520"/>
+      <stop offset="100%" stop-color="#07140F"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#07C160"/>
-      <stop offset="100%" stop-color="#1F6FEB"/>
+      <stop offset="100%" stop-color="#3B82F6"/>
     </linearGradient>
-    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="24" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
+    <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1A2332" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#0F172A" stop-opacity="0.95"/>
+    </linearGradient>
   </defs>
+  <rect width="1280" height="460" fill="url(#bg)"/>
+  <!-- grid dots -->
+  <g fill="#1F2937" opacity="0.45">
+    <circle cx="80" cy="40" r="1.2"/><circle cx="120" cy="40" r="1.2"/><circle cx="160" cy="40" r="1.2"/>
+    <circle cx="200" cy="40" r="1.2"/><circle cx="240" cy="40" r="1.2"/><circle cx="280" cy="40" r="1.2"/>
+    <circle cx="80" cy="80" r="1.2"/><circle cx="120" cy="80" r="1.2"/><circle cx="160" cy="80" r="1.2"/>
+  </g>
+  <circle cx="1180" cy="40" r="180" fill="#07C160" opacity="0.06"/>
+  <circle cx="80" cy="420" r="140" fill="#3B82F6" opacity="0.06"/>
 
-  <rect width="1280" height="420" fill="url(#bg)"/>
-  <circle cx="1080" cy="60" r="160" fill="#07C160" opacity="0.08"/>
-  <circle cx="180" cy="380" r="140" fill="#1F6FEB" opacity="0.07"/>
-  <rect x="48" y="48" width="1184" height="324" rx="18" fill="#111827" stroke="#1f2937" stroke-width="1"/>
+  <!-- left copy -->
+  <text x="72" y="92" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#07C160" letter-spacing="4">AIYANGDIE / 艾阳</text>
+  <text x="72" y="160" font-family="ui-sans-serif,system-ui,Segoe UI,Roboto,Arial" font-size="48" font-weight="700" fill="#F8FAFC">支付商户合规工程师</text>
+  <text x="72" y="206" font-family="ui-sans-serif,system-ui,Segoe UI,Roboto,Arial" font-size="22" fill="#94A3B8">申诉 AI · 官方支付 · OAuth 中控 · 微信小程序 · 小游戏</text>
+  <rect x="72" y="230" width="280" height="5" rx="2.5" fill="url(#line)"/>
 
-  <!-- left brand -->
-  <text x="88" y="118" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial" font-size="18" fill="#07C160" letter-spacing="3">AIYANGDIE · 艾阳</text>
-  <text x="88" y="178" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial" font-size="44" font-weight="700" fill="#F3F4F6">支付商户合规</text>
-  <text x="88" y="224" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial" font-size="22" fill="#9CA3AF">申诉治理 · 官方支付 · 微信小程序 · 互动小游戏</text>
-  <rect x="88" y="248" width="220" height="4" rx="2" fill="url(#accent)"/>
+  <g font-family="ui-sans-serif,system-ui,Segoe UI,Roboto,Arial" font-size="14">
+    <rect x="72" y="268" width="150" height="36" rx="18" fill="#07C160" opacity="0.15" stroke="#07C160"/>
+    <text x="96" y="291" fill="#6EE7B7">申诉治理</text>
+    <rect x="236" y="268" width="150" height="36" rx="18" fill="#3B82F6" opacity="0.15" stroke="#3B82F6"/>
+    <text x="262" y="291" fill="#93C5FD">官方支付</text>
+    <rect x="400" y="268" width="150" height="36" rx="18" fill="#F59E0B" opacity="0.12" stroke="#F59E0B"/>
+    <text x="430" y="291" fill="#FCD34D">小程序</text>
+  </g>
+  <text x="72" y="350" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#64748B">prod · aike.ink · appeal.aikex.ink · open.aikex.ink · mc.aikex.ink</text>
+  <text x="72" y="380" font-family="ui-sans-serif,system-ui,Segoe UI,Roboto,Arial" font-size="15" fill="#475569">私有化交付主线 · 开源沉淀工具与玩法</text>
 
-  <text x="88" y="300" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#6EE7B7">aike.ink  ·  appeal.aikex.ink  ·  open.aikex.ink</text>
-  <text x="88" y="330" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#6B7280">Production systems · not demo screenshots</text>
+  <!-- right: fake IDE / code panel -->
+  <rect x="700" y="70" width="520" height="320" rx="14" fill="url(#glass)" stroke="#243044"/>
+  <circle cx="728" cy="98" r="6" fill="#EF4444"/>
+  <circle cx="748" cy="98" r="6" fill="#F59E0B"/>
+  <circle cx="768" cy="98" r="6" fill="#22C55E"/>
+  <text x="800" y="103" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="13" fill="#64748B">compliance.pipeline.ts</text>
+  <line x1="700" y1="120" x2="1220" y2="120" stroke="#243044"/>
 
-  <!-- right capability cards -->
-  <g font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial">
-    <rect x="760" y="92" width="420" height="72" rx="12" fill="#0B1220" stroke="#1F2937"/>
-    <circle cx="792" cy="128" r="8" fill="#07C160"/>
-    <text x="816" y="122" font-size="18" font-weight="600" fill="#F9FAFB">商户合规主线</text>
-    <text x="816" y="146" font-size="14" fill="#9CA3AF">申诉 AI · 工单 · 支付链路 · OAuth 中控</text>
-
-    <rect x="760" y="180" width="420" height="72" rx="12" fill="#0B1220" stroke="#1F2937"/>
-    <circle cx="792" cy="216" r="8" fill="#1F6FEB"/>
-    <text x="816" y="210" font-size="18" font-weight="600" fill="#F9FAFB">微信小程序</text>
-    <text x="816" y="234" font-size="14" fill="#9CA3AF">知识付费 · 导航聚合 · H5 同后端</text>
-
-    <rect x="760" y="268" width="420" height="72" rx="12" fill="#0B1220" stroke="#1F2937"/>
-    <circle cx="792" cy="304" r="8" fill="#F59E0B"/>
-    <text x="816" y="298" font-size="18" font-weight="600" fill="#F9FAFB">小游戏 / 互动</text>
-    <text x="816" y="322" font-size="14" fill="#9CA3AF">体素联机 · 打地鼠 · Canvas 复古玩法</text>
+  <g font-family="ui-monospace,Menlo,Consolas,monospace" font-size="15">
+    <text x="728" y="158" fill="#64748B">01</text>
+    <text x="768" y="158" fill="#C084FC">type</text>
+    <text x="818" y="158" fill="#E2E8F0"> Case = { merchantId: string; reason: string }</text>
+    <text x="728" y="190" fill="#64748B">02</text>
+    <text x="768" y="190" fill="#C084FC">async</text>
+    <text x="828" y="190" fill="#38BDF8"> function</text>
+    <text x="918" y="190" fill="#FDE68A"> handleAppeal</text>
+    <text x="1048" y="190" fill="#E2E8F0">(case: Case) {</text>
+    <text x="728" y="222" fill="#64748B">03</text>
+    <text x="798" y="222" fill="#94A3B8">const ctx =</text>
+    <text x="918" y="222" fill="#38BDF8"> await</text>
+    <text x="978" y="222" fill="#FDE68A"> rag.retrieve</text>
+    <text x="1108" y="222" fill="#E2E8F0">(case)</text>
+    <text x="728" y="254" fill="#64748B">04</text>
+    <text x="798" y="254" fill="#94A3B8">const draft =</text>
+    <text x="928" y="254" fill="#38BDF8"> await</text>
+    <text x="988" y="254" fill="#FDE68A"> llm.compose</text>
+    <text x="1118" y="254" fill="#E2E8F0">(ctx)</text>
+    <text x="728" y="286" fill="#64748B">05</text>
+    <text x="798" y="286" fill="#94A3B8">await</text>
+    <text x="858" y="286" fill="#FDE68A"> pay.verifyMerchant</text>
+    <text x="1048" y="286" fill="#E2E8F0">(case.merchantId)</text>
+    <text x="728" y="318" fill="#64748B">06</text>
+    <text x="798" y="318" fill="#C084FC">return</text>
+    <text x="868" y="318" fill="#FDE68A"> ticket.open</text>
+    <text x="988" y="318" fill="#E2E8F0">({ draft, status:</text>
+    <text x="1168" y="318" fill="#86EFAC">'ready'</text>
+    <text x="1220" y="318" fill="#E2E8F0"> })</text>
+    <text x="728" y="350" fill="#64748B">07</text>
+    <text x="768" y="350" fill="#E2E8F0">}</text>
   </g>
 </svg>

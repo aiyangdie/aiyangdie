@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="48" viewBox="0 0 900 48">
+  <rect width="900" height="48" rx="8" fill="#0B1220"/>
+  <text x="20" y="31" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="16" fill="#07C160">$</text>
+  <text x="40" y="31" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="16" fill="#E2E8F0">
+    <tspan>ship merchant compliance · wechat mini programs · games</tspan>
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.45;0.5;1" dur="1.2s" repeatCount="indefinite" begin="3s"/>
+  </text>
+  <rect x="860" y="14" width="10" height="20" fill="#07C160">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>

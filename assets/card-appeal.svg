@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="200" viewBox="0 0 640 200">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#052e1a"/><stop offset="100%" stop-color="#0b1220"/></linearGradient></defs>
+  <rect width="640" height="200" rx="16" fill="url(#g)" stroke="#14532d"/>
+  <circle cx="56" cy="100" r="28" fill="#07C160" opacity="0.2"/>
+  <circle cx="56" cy="100" r="12" fill="#07C160"/>
+  <text x="108" y="78" font-family="ui-sans-serif,system-ui,Segoe UI,Arial" font-size="14" fill="#6EE7B7" letter-spacing="2">LIVE PRODUCT</text>
+  <text x="108" y="118" font-family="ui-sans-serif,system-ui,Segoe UI,Arial" font-size="32" font-weight="700" fill="#F8FAFC">申诉 AI</text>
+  <text x="108" y="152" font-family="ui-sans-serif,system-ui,Segoe UI,Arial" font-size="16" fill="#94A3B8">商户申诉对话 · RAG · 多模型 · 知识库</text>
+  <text x="480" y="112" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="13" fill="#07C160">appeal.aikex.ink →</text>
+</svg>
