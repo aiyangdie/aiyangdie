@@ -214,6 +214,18 @@ Fork 仓库单独标注，用于学习、实验与跟进上游项目。
 
 最方便的联系方式是 **[aike1015@qq.com](mailto:aike1015@qq.com)**。介绍一下你的业务场景、现在遇到的问题和希望实现的功能，就可以开始沟通。
 
+### 微信交流群 · ai开发项目
+
+扫码加入微信群，一起聊 AI 开发与项目协作。
+
+<p align="center">
+  <img src="./assets/wechat-group-ai-dev.png" width="280" alt="微信群聊：ai开发项目 二维码"/>
+</p>
+
+<p align="center">
+<sub>该二维码约 7 天内有效（约 10 月 9 日前）；过期后请联系邮箱获取新邀请。</sub>
+</p>
+
 <p align="center">
 <sub>业务里发现问题，项目里积累经验，开源里分享工具。</sub>
 </p>
