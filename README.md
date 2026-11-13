@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/covers/29-aiyangdie.jpg" alt="aiyangdie 项目封面" width="100%"></p>
+
 ![aiyangdie · Software Engineering](./assets/profile-hero.png)
 
 # 软件开发与商家数字化
