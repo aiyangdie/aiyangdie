@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-<sub>84 个仓库（52 公开 / 32 私有）· 74 ★ · 13 个在线站点 · 自 2025 年 4 月起</sub>
+<sub>84 个仓库（52 公开 / 25 私有在维护 / 7 已归档）· 74 ★ · 13 个在线站点 · 自 2025 年 4 月起</sub>
 </p>
 
 ---
@@ -219,7 +219,7 @@
 | [NovaBrowser](https://github.com/aiyangdie/NovaBrowser) | 隐私浏览器概念位，暂无实现 |
 | [aiyangtongxue](https://github.com/aiyangdie/aiyangtongxue) | 旧账号名留下的 Profile 位 |
 
-> 另有 32 个私有仓库在维护，涉及商户工单台、投诉排查、合规知识库、ERP 与量化等方向，不对外公开。
+> 另有 25 个私有仓库在维护，涉及商户工单台、投诉排查、合规知识库、ERP 与量化等方向，不对外公开；另有 7 个早期版本已归档，不再迭代。
 
 ---
 
