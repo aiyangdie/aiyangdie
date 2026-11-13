@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-<sub>84 个仓库（52 公开 / 25 私有在维护 / 7 已归档）· 74 ★ · 13 个在线站点 · 自 2025 年 4 月起</sub>
+<sub>84 个仓库（52 公开 / 25 私有在维护 / 7 已归档）· 18 个在线站点 · 74 ★ · 自 2025 年 4 月起</sub>
 </p>
 
 ---
@@ -27,7 +27,7 @@
 
 | 能力 | 具体做什么 | 对应实现 |
 |---|---|---|
-| **申诉材料梳理** | 按平台要求拆解违规类型，把对话记录、订单凭证、整改说明归成结构化材料与说明文 | [merchant-appeal](https://github.com/aiyangdie/merchant-appeal)（公开）＋ 私有工单台 |
+| **申诉材料梳理** | 按平台要求拆解违规类型，把对话记录、订单凭证、整改说明归成结构化材料与说明文 | [merchant-appeal](https://github.com/aiyangdie/merchant-appeal)（公开源码）· [appeal.aikex.ink](https://appeal.aikex.ink)（在线试用）· 私有工单台 |
 | **平台规则对照** | 把微信、支付机构、电商平台的规则条款整理成可检索的知识库，遇到具体问题能定位到条款 | 私有合规知识库 |
 | **问题排查** | 针对交易、投诉、扣款等具体异常做链路排查，定位是资质、通道还是操作环节的问题 | 私有投诉排查工具 |
 | **资质与支付接入** | 商户资质材料整理、号码认证、收单通道对接与联调 | [sms-verify-kit](https://github.com/aiyangdie/sms-verify-kit)、[ds_shop](https://github.com/aiyangdie/ds_shop)、[independent-mall](https://github.com/aiyangdie/independent-mall) |
@@ -229,6 +229,7 @@
 
 | 站点 | 项目 |
 |---|---|
+| [appeal.aikex.ink](https://appeal.aikex.ink) | 微信商户号申诉助手（主线产品线上入口） |
 | [mole.aikex.ink](https://mole.aikex.ink) | 微信打地鼠 |
 | [knowledge.aikex.ink](https://knowledge.aikex.ink) | 小程序导航页 |
 | [compress.aikex.ink](https://compress.aikex.ink) | 批量图片压缩 |
@@ -243,8 +244,11 @@
 | [mc.aikex.ink](https://mc.aikex.ink) | 体素沙盒 |
 | [feiji.aikex.ink](https://feiji.aikex.ink) | 太空战机 |
 | [games.aikex.ink](https://games.aikex.ink) | 复古游戏合集 |
+| [chat.aikex.ink](https://chat.aikex.ink) | 局域网文字 / 文件互传 |
+| [nav.aikex.ink](https://nav.aikex.ink) | 自适应拟态网址导航目录 |
+| [phone.aikex.ink](https://phone.aikex.ink) | 手机比价 |
 
-另有 8 个托管在 GitHub Pages：[cf-game](https://aiyangdie.github.io/cf-game/)、[neon-kart](https://aiyangdie.github.io/neon-kart/)、[wilderness-survival](https://aiyangdie.github.io/wilderness-survival/)、[lan-share](https://aiyangdie.github.io/lan-share/)、[PhonePriceVista](https://aiyangdie.github.io/PhonePriceVista/)、[ziwei-ai](https://aiyangdie.github.io/ziwei-ai/)、[mc-aikex-ink](https://aiyangdie.github.io/mc-aikex-ink/)。
+另有 6 个托管在 GitHub Pages：[cf-game](https://aiyangdie.github.io/cf-game/)、[neon-kart](https://aiyangdie.github.io/neon-kart/)、[wilderness-survival](https://aiyangdie.github.io/wilderness-survival/)、[lan-share](https://aiyangdie.github.io/lan-share/)、[ziwei-ai](https://aiyangdie.github.io/ziwei-ai/)、[mc-aikex-ink](https://aiyangdie.github.io/mc-aikex-ink/)。
 
 ---
 
